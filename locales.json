@@ -11,7 +11,7 @@
     "dir": "ltr",
     "fallback": ["en-GB"],
     "reviewer": "hyhydev",
-    "status": "unselectable",
+    "status": "selectable",
     "name": "English (US)",
     "tags": ["en-US"]
   }

@@ -1,0 +1,5 @@
+{
+  "community.powerRanking.honourableMentions": "{n, plural, one {honorable mention} other {honorable mentions}}",
+  "community.powerRanking.mark.mention": "Honorable mention from {community}, {season}",
+  "community.powerRanking.mentionsHeading": "Honorable mentions"
+}
