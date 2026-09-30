@@ -1,5 +1,5 @@
 name: This string is wrong in my language
-description: A word or sentence on Dizzy reads wrong, or does not fit.
+description: Something on Dizzy reads wrong, doesn't fit, or needs two different words in your language.
 labels: ["wrong-string"]
 body:
   - type: input
@@ -10,20 +10,27 @@ body:
     validations:
       required: true
   - type: textarea
-    id: where
+    id: shown
     attributes:
-      label: Where you saw it
-      description: The page, and what you were doing. A link or a screenshot helps.
+      label: The text as it appears on the site
+      description: Copy and paste it exactly as you saw it.
     validations:
       required: true
   - type: textarea
-    id: shown
+    id: where
     attributes:
-      label: What it says now
+      label: Where you saw it
+      description: The page, and what you were doing. A link or a screenshot helps. If you know the key (like tournament.standings.empty), add it here too.
     validations:
       required: true
   - type: textarea
     id: better
     attributes:
       label: What it should say
-      description: Leave this empty if you are not sure.
+      description: Leave this empty if you're not sure.
+  - type: checkboxes
+    id: split
+    attributes:
+      label: Two words
+      options:
+        - label: This one string needs two different words in my language. (Tell us the two places above, and what each should say.)
