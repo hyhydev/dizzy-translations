@@ -1,0 +1,75 @@
+name: coverage
+
+# Posts how much of each language is translated on every pull request that
+# changes a language, and keeps that one comment up to date as the pull
+# request changes: per part of the site, for the whole site, the change this
+# pull request makes, and a line for the labels screen readers announce.
+# A report, never a gate: nothing here can fail a pull request.
+#
+# Most pull requests come from forks, whose own runs cannot comment, so this
+# runs as `pull_request_target`. That is only safe because nothing from the
+# pull request is ever run: the tooling is the base branch's, and the pull
+# request's files are read as data.
+
+on:
+  pull_request_target:
+    paths:
+      - "*/*.json"
+      - locales.json
+      - "!tooling/**"
+
+permissions:
+  contents: read
+  pull-requests: write
+
+concurrency:
+  group: coverage-${{ github.event.pull_request.number }}
+  cancel-in-progress: true
+
+jobs:
+  coverage:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          ref: ${{ github.event.pull_request.base.sha }}
+          path: base
+          persist-credentials: false
+      - uses: actions/checkout@v5
+        with:
+          repository: ${{ github.event.pull_request.head.repo.full_name }}
+          ref: ${{ github.event.pull_request.head.sha }}
+          path: head
+          persist-credentials: false
+      - uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: 1.3.13
+      - name: Work out the numbers
+        id: report
+        run: |
+          if [ ! -f base/tooling/package.json ]; then
+            echo "No tooling on the base branch yet; nothing to report."
+            exit 0
+          fi
+          bun install --cwd base/tooling --no-save
+          {
+            echo "<!-- coverage -->"
+            echo "Here is how much of each language is translated with this change. It's here to help, and never blocks a merge."
+            echo
+            bun base/tooling/coverage.ts head --base base
+          } > "$RUNNER_TEMP/comment.md"
+          echo "ready=true" >> "$GITHUB_OUTPUT"
+      - name: Post or update the comment
+        if: steps.report.outputs.ready == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+          PR: ${{ github.event.pull_request.number }}
+        run: |
+          id=$(gh api "repos/$REPO/issues/$PR/comments" --paginate \
+            --jq '.[] | select(.user.login == "github-actions[bot]" and (.body | startswith("<!-- coverage -->"))) | .id' | head -n 1)
+          if [ -n "$id" ]; then
+            gh api -X PATCH "repos/$REPO/issues/comments/$id" -F body=@"$RUNNER_TEMP/comment.md" > /dev/null
+          else
+            gh pr comment "$PR" --repo "$REPO" --body-file "$RUNNER_TEMP/comment.md"
+          fi
