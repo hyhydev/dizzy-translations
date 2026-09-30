@@ -1,9 +1,18 @@
 name: guards
 
 # The gate every pull request here has to pass before it can merge, and the
-# check branch protection names. For now it only proves each JSON file parses;
-# the translation guards (placeholders, tags, length, key set) replace this
-# step when the first language files arrive with the sync.
+# check branch protection names, so the job keeps the name `guards`.
+#
+# It runs the translation checks from `tooling/`, which the sync copies here
+# from the Dizzy source: every message parses, keeps the same placeholders
+# and tags as the English, stays within a sensible length, and every language
+# has exactly the English keys. None of them reads the words; the person who
+# merges does that.
+#
+# Files that come from the site (the English text, the index, the English
+# glossary, each language's basis.json and the tooling itself) change only
+# through the sync's own pull request, so any other pull request that touches
+# them fails here with a note saying why.
 
 on:
   pull_request:
@@ -18,13 +27,41 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v5
-      - name: Every JSON file parses
+        with:
+          fetch-depth: 0
+      - name: Files that come from the site are left alone
+        if: >-
+          github.event_name == 'pull_request' &&
+          !(github.event.pull_request.head.repo.full_name == github.repository &&
+            github.head_ref == 'sync/down')
+        env:
+          BASE: ${{ github.event.pull_request.base.sha }}
         run: |
-          status=0
-          while IFS= read -r -d '' file; do
-            if ! node -e 'JSON.parse(require("fs").readFileSync(process.argv[1], "utf8"))' "$file"; then
-              echo "::error file=$file::not valid JSON"
-              status=1
-            fi
-          done < <(find . -name '*.json' -not -path './.git/*' -print0)
-          exit $status
+          changed=$(git diff --name-only "$BASE" HEAD -- en-GB index.json glossary/en-GB.json tooling '*/basis.json')
+          if [ -n "$changed" ]; then
+            echo "These files come from the Dizzy site and are updated only by the sync, so a pull request can't change them:"
+            for file in $changed; do
+              echo "::error file=$file::This file comes from the Dizzy site and is updated only by the sync. If something in it is wrong, please open an issue instead."
+              echo "  $file"
+            done
+            exit 1
+          fi
+      - uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: 1.3.13
+      - name: Translation checks
+        run: |
+          if [ ! -f tooling/package.json ]; then
+            # Before the first sync there is no tooling yet: prove every JSON
+            # file parses and nothing more.
+            status=0
+            while IFS= read -r -d '' file; do
+              if ! node -e 'JSON.parse(require("fs").readFileSync(process.argv[1], "utf8"))' "$file"; then
+                echo "::error file=$file::not valid JSON"
+                status=1
+              fi
+            done < <(find . -name '*.json' -not -path './.git/*' -print0)
+            exit $status
+          fi
+          bun install --cwd tooling --no-save
+          bun tooling/check.ts .
