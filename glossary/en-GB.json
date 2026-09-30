@@ -1,0 +1,88 @@
+{
+  "about": "The words Dizzy uses for the things it talks about, with what each one means. Copy this file, name it after your language (fr.json, de.json, pt-BR.json) and put your language's word in each \"use\". Keep every entry, even when your word is the English one. In your copy, \"note\" is for anything the next translator should know, and \"avoid\" lists words that look right but are not; leave either out if you have nothing to say.",
+  "register": {
+    "use": "informal",
+    "note": "How the site speaks to the reader when your language makes you choose, like tu or vous in French, du or Sie in German, você or tu in Portuguese. Pick one for the whole site. Dizzy talks to people casually, so we suggest the informal one."
+  },
+  "community": {
+    "use": "community",
+    "avoid": ["scene"],
+    "note": "A group of players with its own events and its own rankings, like a city's local players, or everyone who plays a small game."
+  },
+  "event": {
+    "use": "event",
+    "note": "A gathering people go to, in person or online, that holds one or more tournaments."
+  },
+  "tournament": {
+    "use": "tournament",
+    "note": "One competition at an event, for one game, that ends with everyone in a finishing order. An event can have several, like singles and doubles."
+  },
+  "entrant": {
+    "use": "entrant",
+    "note": "Whoever is taking part in a tournament: one player, or a team of two in doubles."
+  },
+  "stage": {
+    "use": "stage",
+    "note": "One part of a tournament, like pools first and a final bracket after. Players go through to the next stage or are knocked out."
+  },
+  "pool": {
+    "use": "pool",
+    "note": "A group of players inside a stage. In a round robin everyone in the pool plays each other; in a knockout stage the pool is one bracket."
+  },
+  "set": {
+    "use": "set",
+    "note": "One contest between two sides, played as a number of games, like best of three. Some people call it a match."
+  },
+  "seed": {
+    "use": "seed",
+    "note": "A player's starting position in a tournament or stage, with 1 as the strongest. It decides who plays whom first."
+  },
+  "bracket": {
+    "use": "bracket",
+    "note": "The chart of who plays whom in a knockout tournament, where winners move on and losers drop down or go out."
+  },
+  "check-in": {
+    "use": "check-in",
+    "note": "Telling the organisers you are here and ready to play, shortly before the tournament starts. Anyone who has not checked in is dropped."
+  },
+  "game-title": {
+    "use": "game",
+    "note": "The video game being played, like Lethal League Blaze."
+  },
+  "game-in-a-set": {
+    "use": "game",
+    "note": "One round of play inside a set. In a best of three set, the first side to win two games wins the set."
+  },
+  "series": {
+    "use": "series",
+    "note": "Events that repeat under one name, like a weekly or a yearly event."
+  },
+  "season": {
+    "use": "season",
+    "note": "A stretch of time a community picks, like a year, with its own ranking where everyone starts level."
+  },
+  "station": {
+    "use": "station",
+    "note": "One setup at a venue (a console and a screen) where a set gets played."
+  },
+  "round": {
+    "use": "round",
+    "note": "One step of a bracket or pool, where each player plays at most once, like Winners Round 1 or Grand Finals."
+  },
+  "standings": {
+    "use": "standings",
+    "note": "The current order of players in a pool or tournament, from the best result down."
+  },
+  "placement": {
+    "use": "placement",
+    "note": "Where a player finished in a tournament, like 1st, 5th or 9th."
+  },
+  "queue": {
+    "use": "queue",
+    "note": "The line of sets waiting to be played on a stream, in the order they will come up."
+  },
+  "walk-up": {
+    "use": "walk-up",
+    "note": "A player the staff sign up in person on the day, often someone without an account."
+  }
+}

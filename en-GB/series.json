@@ -1,0 +1,20 @@
+{
+  "series.admin": "Series admin",
+  "series.empty": "No tournaments yet.",
+  "series.honours.fewer": "Fewer",
+  "series.honours.more": "<b>{n, number}</b> more",
+  "series.honours.winners": "{n, plural, one {Winner} other {Winners}}",
+  "series.index.column.events": "Events",
+  "series.index.column.series": "Series",
+  "series.index.column.tournaments": "Tournaments",
+  "series.index.description": "Recurring tournament series across every game and community on Dizzy.",
+  "series.index.empty": "No series yet.",
+  "series.index.title": "Series",
+  "series.masthead.all": "All series",
+  "series.slug.edit": "Edit permalink",
+  "series.slug.format": "Use 3–60 lowercase letters, numbers, and single hyphens.",
+  "series.slug.input": "Series permalink slug",
+  "series.table.column.event": "Event",
+  "series.table.column.format": "Format",
+  "series.table.column.game": "Game"
+}

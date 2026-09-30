@@ -1,0 +1,15 @@
+{
+  "flag.asexual": "Pride flag. The Pride block is reviewed by a named person per locale and never merged on the guards alone: the community's own name for each flag, not a literal translation.",
+  "flag.bisexual": "Pride flag. See flag.asexual for the review rule.",
+  "flag.intersex": "Pride flag. See flag.asexual for the review rule.",
+  "flag.lesbian": "Pride flag. See flag.asexual for the review rule.",
+  "flag.nonbinary": "Pride flag. See flag.asexual for the review rule.",
+  "flag.pansexual": "Pride flag. See flag.asexual for the review rule.",
+  "flag.progress": "Pride flag, the Progress variant of the rainbow. See flag.asexual for the review rule.",
+  "flag.rainbow": "Pride flag, the six-stripe rainbow. See flag.asexual for the review rule.",
+  "flag.transgender": "Pride flag. See flag.asexual for the review rule.",
+  "flag.gb-eng": "A home nation, listed among the countries in the flag picker. Use the country's name in the target language, as a map would.",
+  "flag.gb-sct": "A home nation, listed among the countries. See flag.gb-eng.",
+  "flag.gb-wls": "A home nation, listed among the countries. See flag.gb-eng.",
+  "flag.us-dc": "Washington, D.C., listed in the US states section beside the fifty states."
+}

@@ -1,0 +1,20 @@
+{
+  "series.admin": "Accessible name of the band holding the series' management controls, shown only to its owner or runners.",
+  "series.empty": "A series page with no tournaments in it.",
+  "series.honours.fewer": "Button collapsing the series' list of past winners back to the first few.",
+  "series.honours.more": "Button expanding the series' list of past winners; {n} is how many more there are. Keep the <b> tags around the number.",
+  "series.honours.winners": "Micro label over a series's roll of winners; {n} is how many there are.",
+  "series.index.column.events": "Column of the series list: how many events each series has held.",
+  "series.index.column.series": "Column of the series list: the series' name.",
+  "series.index.column.tournaments": "Column of the series list: how many tournaments each series has held.",
+  "series.index.description": "Search and link-preview description of the series list. Dizzy is the site's name.",
+  "series.index.empty": "The series list when the site has none.",
+  "series.index.title": "Heading and tab title of the list of every tournament series. A series is a run of recurring tournaments.",
+  "series.masthead.all": "Link back from one series' page to the list of every series.",
+  "series.slug.edit": "Button opening the editor for a series' permanent link, shown to its owner.",
+  "series.slug.format": "Error under the series permalink field when the typed address is not allowed.",
+  "series.slug.input": "Accessible name of the field editing the last part of a series' permanent link.",
+  "series.table.column.event": "Column of a series' tournament table: the event each tournament belonged to.",
+  "series.table.column.format": "Column of a series' tournament table: Singles, Doubles and so on.",
+  "series.table.column.game": "Column of a series' tournament table: the game played."
+}

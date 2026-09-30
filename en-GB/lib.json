@@ -1,0 +1,5 @@
+{
+  "lib.image.damaged": "That image is damaged, so it wouldn't display. Try exporting or saving it again.",
+  "lib.image.notAnImage": "That file isn't an image. Pick a {types} file.",
+  "lib.image.wrongType": "That file is a {type}, which isn't accepted here. Pick a {types} file."
+}
