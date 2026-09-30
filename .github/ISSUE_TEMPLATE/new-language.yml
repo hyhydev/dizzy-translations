@@ -1,0 +1,22 @@
+name: I want to translate a new language
+description: Offer to translate Dizzy into a language it does not speak yet.
+labels: ["new-language"]
+body:
+  - type: input
+    id: language
+    attributes:
+      label: Language
+      placeholder: Brazilian Portuguese
+    validations:
+      required: true
+  - type: textarea
+    id: you
+    attributes:
+      label: About you
+      description: Which game you play or run events for, and where. Nothing formal.
+  - type: checkboxes
+    id: reviewer
+    attributes:
+      label: Reviewing
+      options:
+        - label: I could also review other people's translations in this language.

@@ -1,0 +1,30 @@
+name: guards
+
+# The gate every pull request here has to pass before it can merge, and the
+# check branch protection names. For now it only proves each JSON file parses;
+# the translation guards (placeholders, tags, length, key set) replace this
+# step when the first language files arrive with the sync.
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  guards:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - name: Every JSON file parses
+        run: |
+          status=0
+          while IFS= read -r -d '' file; do
+            if ! node -e 'JSON.parse(require("fs").readFileSync(process.argv[1], "utf8"))' "$file"; then
+              echo "::error file=$file::not valid JSON"
+              status=1
+            fi
+          done < <(find . -name '*.json' -not -path './.git/*' -print0)
+          exit $status

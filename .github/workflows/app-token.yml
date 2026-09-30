@@ -1,0 +1,30 @@
+name: app-token
+
+# Proves the sync App's credentials work from this side: mints an installation
+# token scoped to both repositories and reads each one with it. Run it by hand
+# after the App is installed or its key is rotated. The sync itself mints its
+# token the same way.
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  mint:
+    runs-on: ubuntu-latest
+    steps:
+      - id: token
+        uses: actions/create-github-app-token@v2
+        with:
+          app-id: ${{ secrets.TRANSLATIONS_APP_ID }}
+          private-key: ${{ secrets.TRANSLATIONS_APP_PRIVATE_KEY }}
+          owner: ${{ github.repository_owner }}
+          repositories: dizzy,dizzy-translations
+      - name: Read both repositories with it
+        env:
+          GH_TOKEN: ${{ steps.token.outputs.token }}
+        run: |
+          gh api repos/${{ github.repository_owner }}/dizzy --jq '.full_name'
+          gh api repos/${{ github.repository_owner }}/dizzy-translations --jq '.full_name'

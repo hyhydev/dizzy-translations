@@ -1,0 +1,29 @@
+name: This string is wrong in my language
+description: A word or sentence on Dizzy reads wrong, or does not fit.
+labels: ["wrong-string"]
+body:
+  - type: input
+    id: language
+    attributes:
+      label: Language
+      placeholder: French
+    validations:
+      required: true
+  - type: textarea
+    id: where
+    attributes:
+      label: Where you saw it
+      description: The page, and what you were doing. A link or a screenshot helps.
+    validations:
+      required: true
+  - type: textarea
+    id: shown
+    attributes:
+      label: What it says now
+    validations:
+      required: true
+  - type: textarea
+    id: better
+    attributes:
+      label: What it should say
+      description: Leave this empty if you are not sure.
