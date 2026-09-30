@@ -1,0 +1,7 @@
+{
+  "dashboard.community.board.savingReranks": "Saving re-ranks the board right away.",
+  "dashboard.community.parrygg.step.get.body": "It's in your <link>Parry.gg API keys</link>, under Developer settings on your profile. Parry.gg shows the key once, so copy it right away.",
+  "dashboard.community.powerRanking.mentions": "Honorable mentions",
+  "dashboard.community.powerRanking.mentions.add": "Add an honorable mention",
+  "dashboard.community.season.eligibility.counting": "{n, plural, one {{n} tournament counts toward this season.} other {{n} tournaments count toward this season.}}{short, select, yes { That is not enough for anyone to earn a rank.} other {}}"
+}

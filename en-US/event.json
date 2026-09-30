@@ -1,0 +1,16 @@
+{
+  "event.addTournament.intro": "Creates a double-elimination bracket to start. You can customize the format, then seed and start it from the Tournament page once entries are in.",
+  "event.checkout.cancelled.title": "This checkout was canceled",
+  "event.create.intro": "You'll become its Host. You can edit settings and add co-Hosts afterward.",
+  "event.create.location.help": "Location is optional: set either, both, or neither. The venue badge is derived from what you fill out.",
+  "event.organiser.add": "+ Add Organizer",
+  "event.organiser.add.title": "Add organizer",
+  "event.organiser.column.organiser": "Organizer",
+  "event.organiser.empty": "No organizers yet.",
+  "event.organiser.remove.confirmTitle": "Remove {name} as an organizer?",
+  "event.organiser.search.label": "Search users to add as organizer",
+  "event.payments.extra.help": "Optional labeled percentages added to every order (e.g. “sales tax at 8%”). They apply to all payment methods.",
+  "event.receipt.noCurrency": "This event hasn't set a currency yet, so these can't be totaled. The host will confirm what you owe.",
+  "event.roles.hostScoped": "Scoped to a tournament, a Host is credited as that bracket's organizer (a guest host) without gaining event-wide authority.",
+  "event.roles.revoke.description": "Scope: {scope}. They lose what it lets them do right away. It can be granted again later."
+}

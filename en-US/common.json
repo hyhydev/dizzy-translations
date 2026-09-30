@@ -1,0 +1,5 @@
+{
+  "common.apiKeys.intro": "A key grants read-only access to the public API at <code>/api/v1/</code>, 60 requests a minute each. A key is shown once, when it is made. Anyone holding one reads the API as you, so keep it somewhere private and revoke any you no longer recognize. <link>Read the API docs</link>.",
+  "common.feedback.bugPlaceholder": "Steps to reproduce, expected vs actual behavior",
+  "common.image.removeDescription": "It comes off right away. You can upload another at any time."
+}

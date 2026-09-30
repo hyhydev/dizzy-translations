@@ -1,0 +1,4 @@
+{
+  "import.form.game.unknown": "{platform} labels this <b>{game}</b>, which isn't in the catalog. Pick the game that was actually played, or request it be added.",
+  "import.form.rescue.explainer": "That link carries no Challonge organization, and the ones on file don't have it. If the bracket lives at <code>name.challonge.com</code>, name it here and the check runs again."
+}
