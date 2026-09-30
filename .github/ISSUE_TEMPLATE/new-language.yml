@@ -1,5 +1,5 @@
 name: I want to translate a new language
-description: Offer to translate Dizzy into a language it does not speak yet.
+description: Offer to translate Dizzy into a language it doesn't speak yet.
 labels: ["new-language"]
 body:
   - type: input
@@ -9,14 +9,34 @@ body:
       placeholder: Brazilian Portuguese
     validations:
       required: true
-  - type: textarea
-    id: you
-    attributes:
-      label: About you
-      description: Which game you play or run events for, and where. Nothing formal.
-  - type: checkboxes
+  - type: dropdown
     id: reviewer
     attributes:
-      label: Reviewing
+      label: Would you be its reviewer?
+      description: The reviewer reads other people's changes in this language before they go in, and has the final say on its glossary.
       options:
-        - label: I could also review other people's translations in this language.
+        - "Yes"
+        - "Maybe, once I've tried it"
+        - "No, I'd just like to translate"
+    validations:
+      required: true
+  - type: input
+    id: community
+    attributes:
+      label: Which community are you in?
+      description: The game you play and where, or the community on Dizzy you belong to. Nothing formal.
+    validations:
+      required: true
+  - type: input
+    id: register
+    attributes:
+      label: Formal or informal "you"?
+      description: Which one the site should use to talk to the reader (tu or vous, du or Sie, você or tu). We suggest informal, because Dizzy talks to people casually.
+      placeholder: Informal (você)
+  - type: checkboxes
+    id: read
+    attributes:
+      label: Before you send this
+      options:
+        - label: I've read CONTRIBUTING.md.
+          required: true
