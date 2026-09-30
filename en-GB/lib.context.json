@@ -1,0 +1,5 @@
+{
+  "lib.image.damaged": "Error when a picked image file is the right type but cannot be decoded.",
+  "lib.image.notAnImage": "Error when a picked file is not an image at all; {types} is the list of accepted types, such as \"PNG, JPEG or WebP\".",
+  "lib.image.wrongType": "Error when a picked file is an image of a type this slot does not take; {type} is what it is, {types} the accepted list."
+}

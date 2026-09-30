@@ -1,0 +1,18 @@
+{
+  "en-GB": {
+    "dir": "ltr",
+    "fallback": [],
+    "reviewer": "hyhydev",
+    "status": "selectable",
+    "name": "English (UK)",
+    "tags": ["en"]
+  },
+  "en-US": {
+    "dir": "ltr",
+    "fallback": ["en-GB"],
+    "reviewer": "hyhydev",
+    "status": "unselectable",
+    "name": "English (US)",
+    "tags": ["en-US"]
+  }
+}
