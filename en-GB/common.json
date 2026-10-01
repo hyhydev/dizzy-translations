@@ -367,6 +367,7 @@
   "common.placement.runnerUp": "Runner up",
   "common.placement.unplaced": "Unplaced",
   "common.premiumPerk.note": "<b></b> is a <link>Premium</link> perk.",
+  "common.privacyNotice": "Privacy notice",
   "common.provisional.appearance": "“{name}” in <b>{event}</b>",
   "common.provisional.appearance.date": "(<b></b>)",
   "common.provisional.column.appearances": "Appearances",

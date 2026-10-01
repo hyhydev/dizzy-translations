@@ -117,6 +117,7 @@
   "player.claim.claimed": "Claimed",
   "player.claim.declined": "Your previous claim request was declined.",
   "player.claim.pending": "Claim request pending review",
+  "player.claim.public": "Claiming links this profile's history to your account. You can choose what else to share.",
   "player.claim.request": "This is me, request to claim",
   "player.criteria.blurb.events": "how many events they entered",
   "player.criteria.blurb.gain": "how far their rating moved lately",

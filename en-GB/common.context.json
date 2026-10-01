@@ -324,6 +324,7 @@
   "common.placement.runnerUp": "Second place, named rather than numbered.",
   "common.placement.unplaced": "A finisher with no placement recorded.",
   "common.premiumPerk.note": "Marks a control only Premium subscribers can use. The empty <b></b> is where the feature goes (\"An animated avatar\", \"Changing your handle\"); <link> goes to the Premium section of the profile.",
+  "common.privacyNotice": "Link to the privacy notice, placed after a sentence that says some data becomes public.",
   "common.provisional.appearance": "One appearance of a provisional player: the name they registered under, then the event. `<b>` wraps the event's name.",
   "common.provisional.appearance.date": "After common.provisional.appearance, when the tournament has a date. `<b></b>` is where the date is drawn.",
   "common.provisional.confirmAll.title": "Dialog title confirming every provisional entry at once as a new player; {n} is how many.",

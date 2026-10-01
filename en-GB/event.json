@@ -426,6 +426,7 @@
   "event.register.pass.placeholder": "Choose a Pass…",
   "event.register.prefix.label": "Sponsor or clan prefix (optional)",
   "event.register.prefix.placeholder": "Prefix (optional)",
+  "event.register.public": "Your handle will appear on this event's attendee list and in its results.",
   "event.register.signIn.action": "Sign in to register",
   "event.register.signIn.body": "Sign in to register for this event and enter its tournaments. Your name goes on the ticket.",
   "event.register.spectator": "Register (spectator)",
