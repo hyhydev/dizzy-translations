@@ -303,6 +303,7 @@
   "event.organiser.remove.note": "Dialog body under the organiser-removal question; {scope} is what they were host of, in lower case.",
   "event.organiser.search.label": "Accessible name of the add-organiser dialog's search box.",
   "event.organiser.search.placeholder": "Placeholder of the add-organiser dialog's search box. A player tag is a player's in-game name.",
+  "event.overlay.fedBy": "On the upcoming-sets stream overlay, in place of a player not decided yet: the winner or loser of the set between {a} and {b}, who are both known.",
   "event.overlay.firstMeeting": "On the upcoming-sets stream overlay: the two players have never played each other before.",
   "event.overlay.headToHead": "On the upcoming-sets stream overlay: the two players' record against each other (head to head); {left} and {right} are each side's wins. Keep the en dash.",
   "event.overlay.player": "Column heading on the pool standings stream overlay.",
