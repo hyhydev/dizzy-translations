@@ -117,6 +117,7 @@
   "player.claim.claimed": "On a player's profile: an account has claimed this player.",
   "player.claim.declined": "On a player's profile, to the viewer whose claim was refused.",
   "player.claim.pending": "On a player's profile, to the viewer whose claim awaits a moderator.",
+  "player.claim.public": "Beside the claim button on a player's profile, in words a 13-year-old can read. \"What else\" is the optional details a claimed player can add, like country, pronouns and avatar. A link to the privacy notice follows it.",
   "player.claim.request": "Button: ask a moderator to link this player to the viewer's account.",
   "player.criteria.blurb.events": "Beside the filter word events: in a player table's filter list. Lower case, no full stop.",
   "player.criteria.blurb.gain": "Beside the filter word gain: in a player table's filter list. Lower case, no full stop.",

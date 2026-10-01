@@ -426,6 +426,7 @@
   "event.register.pass.placeholder": "Placeholder of the Pass picker.",
   "event.register.prefix.label": "Accessible name of the prefix field: a sponsor or team tag shown before the player's name.",
   "event.register.prefix.placeholder": "Placeholder of the prefix field.",
+  "event.register.public": "Under the name fields of the registration form: tells the person, in words a 13-year-old can read, that the name they enter becomes public. A link to the privacy notice follows it.",
   "event.register.signIn.action": "Button to sign in, for someone signed out who wants to register.",
   "event.register.signIn.body": "Registration box for someone signed out.",
   "event.register.spectator": "The submit button when registering for an event without entering any bracket.",
