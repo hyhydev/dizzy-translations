@@ -392,6 +392,7 @@
   "tournament.replay.back": "Button that leaves the replay viewer and returns to the set's dialog.",
   "tournament.replay.cutOff": "Note under a replay whose file ends early, for example because the game crashed.",
   "tournament.replay.download": "Link to download a replay's file, which can be played back inside the game.",
+  "tournament.replay.error.newVersion": "`{file}` is a file name. Replays is the name of the game mod that records them; do not translate it.",
   "tournament.replay.error.notReplay": "`{file}` is a file name.",
   "tournament.replay.error.oldVersion": "`{file}` is a file name. Replays is the name of the game mod that records them; do not translate it.",
   "tournament.replay.error.tooLarge": "`{file}` is a file name.",
