@@ -182,6 +182,7 @@
   "community.rail.wonBy": "Won by {winner}",
   "community.reading.board": "Board",
   "community.reading.crosstable": "Crosstable",
+  "community.reading.field.matching": "<b>{matching, number}</b> of <b>{boardSize, number}</b> ranked",
   "community.reading.field.picked": "<b>{field, number}</b> picked of <b>{boardSize, number}</b> ranked",
   "community.reading.field.range": "<b>{from, number}</b>–<b>{to, number}</b> of <b>{boardSize, number}</b> ranked",
   "community.reading.field.top": "Top <b>{field, number}</b> of <b>{boardSize, number}</b> ranked",
