@@ -41846,7 +41846,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-replays.tsx",
-        "line": 328,
+        "line": 343,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -41858,7 +41858,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/replay-viewer.tsx",
-        "line": 165,
+        "line": 170,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -41870,7 +41870,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/replay-viewer.tsx",
-        "line": 445,
+        "line": 450,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -41882,7 +41882,19 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/replay-viewer.tsx",
-        "line": 439,
+        "line": 444,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.replay.error.newVersion": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/set-replays.tsx",
+        "line": 152,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -41894,7 +41906,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-replays.tsx",
-        "line": 138,
+        "line": 153,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -41906,7 +41918,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-replays.tsx",
-        "line": 137,
+        "line": 150,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -41918,7 +41930,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-replays.tsx",
-        "line": 123,
+        "line": 130,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -41930,7 +41942,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-replays.tsx",
-        "line": 167,
+        "line": 182,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -41942,7 +41954,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/replay-viewer.tsx",
-        "line": 333,
+        "line": 338,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -41954,7 +41966,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/replay-viewer.tsx",
-        "line": 168,
+        "line": 173,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -41966,7 +41978,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/replay-viewer.tsx",
-        "line": 78,
+        "line": 82,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -41978,7 +41990,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/replay-viewer.tsx",
-        "line": 79,
+        "line": 83,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -41990,7 +42002,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/replay-viewer.tsx",
-        "line": 77,
+        "line": 81,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42002,7 +42014,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/replay-viewer.tsx",
-        "line": 76,
+        "line": 80,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42014,7 +42026,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/replay-viewer.tsx",
-        "line": 80,
+        "line": 84,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42026,7 +42038,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/replay-viewer.tsx",
-        "line": 178,
+        "line": 183,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42038,7 +42050,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/replay-viewer.tsx",
-        "line": 174,
+        "line": 179,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42050,7 +42062,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-replays.tsx",
-        "line": 280,
+        "line": 295,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42062,7 +42074,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/replay-viewer.tsx",
-        "line": 312,
+        "line": 317,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42074,7 +42086,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/replay-viewer.tsx",
-        "line": 312,
+        "line": 317,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42086,7 +42098,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/replay-viewer.tsx",
-        "line": 280,
+        "line": 285,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42098,7 +42110,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-replays.tsx",
-        "line": 298,
+        "line": 313,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42110,7 +42122,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/replay-viewer.tsx",
-        "line": 253,
+        "line": 258,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42122,7 +42134,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/replay-viewer.tsx",
-        "line": 336,
+        "line": 341,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42134,7 +42146,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/replay-viewer.tsx",
-        "line": 427,
+        "line": 432,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42146,7 +42158,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/replay-viewer.tsx",
-        "line": 343,
+        "line": 348,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42158,7 +42170,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/replay-viewer.tsx",
-        "line": 368,
+        "line": 373,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42170,7 +42182,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/replay-viewer.tsx",
-        "line": 376,
+        "line": 381,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42182,7 +42194,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/replay-viewer.tsx",
-        "line": 415,
+        "line": 420,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42194,7 +42206,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/replay-viewer.tsx",
-        "line": 373,
+        "line": 378,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42206,7 +42218,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/replay-viewer.tsx",
-        "line": 366,
+        "line": 371,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42218,7 +42230,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/replay-viewer.tsx",
-        "line": 421,
+        "line": 426,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42230,7 +42242,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/replay-viewer.tsx",
-        "line": 299,
+        "line": 304,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42242,7 +42254,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/replay-viewer.tsx",
-        "line": 322,
+        "line": 327,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42254,7 +42266,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/replay-viewer.tsx",
-        "line": 511,
+        "line": 516,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42266,7 +42278,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-replays.tsx",
-        "line": 291,
+        "line": 306,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42278,7 +42290,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-replays.tsx",
-        "line": 270,
+        "line": 285,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42290,7 +42302,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/replay-viewer.tsx",
-        "line": 392,
+        "line": 397,
         "grain": "str",
         "attr": "",
         "element": ""
