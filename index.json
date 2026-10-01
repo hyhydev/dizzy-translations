@@ -428,7 +428,7 @@
       },
       {
         "file": "apps/web/components/filter-bar.tsx",
-        "line": 417,
+        "line": 420,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -3174,7 +3174,7 @@
     "sites": [
       {
         "file": "apps/web/components/filter-bar.tsx",
-        "line": 360,
+        "line": 362,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -3186,7 +3186,7 @@
     "sites": [
       {
         "file": "apps/web/components/filter-bar.tsx",
-        "line": 377,
+        "line": 379,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -7465,7 +7465,7 @@
       },
       {
         "file": "apps/web/app/[lang]/c/[slug]/[game]/players/community-board.tsx",
-        "line": 667,
+        "line": 673,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -7568,21 +7568,21 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/c/[slug]/[game]/players/community-board.tsx",
-        "line": 474,
+        "line": 480,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/app/[lang]/c/[slug]/[game]/players/community-board.tsx",
-        "line": 729,
+        "line": 735,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/app/[lang]/c/[slug]/[game]/players/community-board.tsx",
-        "line": 1053,
+        "line": 1072,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -7601,21 +7601,21 @@
       },
       {
         "file": "apps/web/app/[lang]/c/[slug]/[game]/players/community-board.tsx",
-        "line": 473,
+        "line": 479,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/app/[lang]/c/[slug]/[game]/players/community-board.tsx",
-        "line": 728,
+        "line": 734,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/app/[lang]/c/[slug]/[game]/players/community-board.tsx",
-        "line": 1052,
+        "line": 1071,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -7802,6 +7802,13 @@
       {
         "file": "apps/web/components/community/leaderboard-table.tsx",
         "line": 171,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
+        "file": "apps/web/components/community/panel-room.tsx",
+        "line": 380,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -8812,7 +8819,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/panel-room.tsx",
-        "line": 1110,
+        "line": 1175,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -8824,7 +8831,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/panel-room.tsx",
-        "line": 1114,
+        "line": 1179,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -8836,7 +8843,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/panel-room.tsx",
-        "line": 1049,
+        "line": 1114,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -8848,7 +8855,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/panel-room.tsx",
-        "line": 1124,
+        "line": 1189,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -8860,7 +8867,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/panel-room.tsx",
-        "line": 1069,
+        "line": 1134,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -8872,7 +8879,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/panel-room.tsx",
-        "line": 1043,
+        "line": 1108,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -8884,7 +8891,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/panel-room.tsx",
-        "line": 1059,
+        "line": 1124,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -8896,7 +8903,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/panel-room.tsx",
-        "line": 1037,
+        "line": 1102,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -8908,7 +8915,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/panel-room.tsx",
-        "line": 974,
+        "line": 1039,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -9042,7 +9049,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/panel-room.tsx",
-        "line": 671,
+        "line": 736,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -9054,7 +9061,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/panel-room.tsx",
-        "line": 436,
+        "line": 500,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -9066,7 +9073,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/panel-room.tsx",
-        "line": 447,
+        "line": 511,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -9078,7 +9085,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/panel-room.tsx",
-        "line": 440,
+        "line": 504,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -9090,7 +9097,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/panel-room.tsx",
-        "line": 442,
+        "line": 506,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -9102,7 +9109,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/panel-room.tsx",
-        "line": 452,
+        "line": 516,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -9114,7 +9121,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/panel-room.tsx",
-        "line": 457,
+        "line": 521,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -9126,7 +9133,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/panel-room.tsx",
-        "line": 515,
+        "line": 580,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -9138,7 +9145,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/panel-room.tsx",
-        "line": 634,
+        "line": 699,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -9150,7 +9157,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/panel-room.tsx",
-        "line": 616,
+        "line": 681,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -9162,7 +9169,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/panel-room.tsx",
-        "line": 1098,
+        "line": 1163,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -9174,7 +9181,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/panel-room.tsx",
-        "line": 806,
+        "line": 871,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -9186,7 +9193,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/panel-room.tsx",
-        "line": 917,
+        "line": 982,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -9198,7 +9205,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/panel-room.tsx",
-        "line": 891,
+        "line": 956,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -9210,7 +9217,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/panel-room.tsx",
-        "line": 886,
+        "line": 951,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -9222,7 +9229,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/panel-room.tsx",
-        "line": 887,
+        "line": 952,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -9234,7 +9241,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/panel-room.tsx",
-        "line": 905,
+        "line": 970,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -9246,7 +9253,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/panel-room.tsx",
-        "line": 918,
+        "line": 983,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -9258,7 +9265,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/panel-room.tsx",
-        "line": 897,
+        "line": 962,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -9270,7 +9277,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/panel-room.tsx",
-        "line": 911,
+        "line": 976,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -9282,7 +9289,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/panel-room.tsx",
-        "line": 473,
+        "line": 538,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -9294,14 +9301,14 @@
     "sites": [
       {
         "file": "apps/web/components/community/panel-room.tsx",
-        "line": 1055,
+        "line": 1120,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/components/community/panel-room.tsx",
-        "line": 1279,
+        "line": 1344,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -9313,7 +9320,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/panel-room.tsx",
-        "line": 691,
+        "line": 756,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -9325,7 +9332,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/panel-room.tsx",
-        "line": 633,
+        "line": 698,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -9337,7 +9344,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/panel-room.tsx",
-        "line": 658,
+        "line": 723,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -9349,7 +9356,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/panel-room.tsx",
-        "line": 368,
+        "line": 432,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -9361,7 +9368,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/panel-room.tsx",
-        "line": 683,
+        "line": 748,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -9373,7 +9380,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/panel-room.tsx",
-        "line": 682,
+        "line": 747,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -9385,21 +9392,21 @@
     "sites": [
       {
         "file": "apps/web/components/community/panel-room.tsx",
-        "line": 1093,
+        "line": 1158,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/components/community/panel-room.tsx",
-        "line": 1194,
+        "line": 1259,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/components/community/panel-room.tsx",
-        "line": 1371,
+        "line": 1436,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -9411,7 +9418,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/panel-room.tsx",
-        "line": 1385,
+        "line": 1450,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -9423,7 +9430,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/panel-room.tsx",
-        "line": 1287,
+        "line": 1352,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -9435,7 +9442,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/panel-room.tsx",
-        "line": 1222,
+        "line": 1287,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -9447,7 +9454,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/panel-room.tsx",
-        "line": 1226,
+        "line": 1291,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -9459,7 +9466,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/panel-room.tsx",
-        "line": 1282,
+        "line": 1347,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -9471,7 +9478,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/panel-room.tsx",
-        "line": 1288,
+        "line": 1353,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -9483,7 +9490,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/panel-room.tsx",
-        "line": 1331,
+        "line": 1396,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -9495,14 +9502,14 @@
     "sites": [
       {
         "file": "apps/web/components/community/panel-room.tsx",
-        "line": 1367,
+        "line": 1432,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/components/community/panel-room.tsx",
-        "line": 1416,
+        "line": 1481,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -9514,14 +9521,14 @@
     "sites": [
       {
         "file": "apps/web/components/community/panel-room.tsx",
-        "line": 1096,
+        "line": 1161,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/components/community/panel-room.tsx",
-        "line": 1374,
+        "line": 1439,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -9823,12 +9830,24 @@
       }
     ]
   },
+  "community.reading.field.matching": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/community/board-reading.tsx",
+        "line": 243,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
   "community.reading.field.picked": {
     "accessibleName": false,
     "sites": [
       {
         "file": "apps/web/components/community/board-reading.tsx",
-        "line": 218,
+        "line": 249,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -9840,7 +9859,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/board-reading.tsx",
-        "line": 229,
+        "line": 260,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -9852,7 +9871,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/board-reading.tsx",
-        "line": 224,
+        "line": 255,
         "grain": "str",
         "attr": "",
         "element": ""
