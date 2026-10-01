@@ -303,6 +303,7 @@
   "event.organiser.remove.note": "They stop being credited as a host of {scope}, and lose the host's rights over it.",
   "event.organiser.search.label": "Search users to add as organiser",
   "event.organiser.search.placeholder": "Search by name or player tag…",
+  "event.overlay.fedBy": "{from, select, winner {Winner of {a} vs {b}} other {Loser of {a} vs {b}}}",
   "event.overlay.firstMeeting": "First meeting",
   "event.overlay.headToHead": "H2H {left}–{right}",
   "event.overlay.player": "Player",
