@@ -44,6 +44,7 @@
   "dashboard.nav.site.players": "Site dashboard panel: player profiles.",
   "dashboard.nav.site.provisional": "Site dashboard panel: walk-up players not yet matched to a profile.",
   "dashboard.nav.site.ratings": "Site dashboard panel: the rating engine.",
+  "dashboard.nav.site.retention": "Site dashboard panel: what the site deletes once it is past its retention period, and when each rule last ran.",
   "dashboard.nav.site.series": "Site dashboard panel: recurring event series.",
   "dashboard.nav.site.users": "Site dashboard panel: accounts.",
   "dashboard.nav.title": "The management console's name: its rail heading and its page title.",

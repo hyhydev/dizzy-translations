@@ -15374,7 +15374,7 @@
     "sites": [
       {
         "file": "apps/web/lib/dashboard.ts",
-        "line": 436,
+        "line": 446,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -15386,7 +15386,7 @@
     "sites": [
       {
         "file": "apps/web/lib/dashboard.ts",
-        "line": 474,
+        "line": 484,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -15398,7 +15398,7 @@
     "sites": [
       {
         "file": "apps/web/lib/dashboard.ts",
-        "line": 455,
+        "line": 465,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -15417,7 +15417,7 @@
       },
       {
         "file": "apps/web/lib/dashboard.ts",
-        "line": 392,
+        "line": 402,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -15429,7 +15429,7 @@
     "sites": [
       {
         "file": "apps/web/lib/dashboard.ts",
-        "line": 386,
+        "line": 396,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -15448,7 +15448,7 @@
       },
       {
         "file": "apps/web/lib/dashboard.ts",
-        "line": 407,
+        "line": 417,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -15460,7 +15460,7 @@
     "sites": [
       {
         "file": "apps/web/lib/dashboard.ts",
-        "line": 413,
+        "line": 423,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -15479,7 +15479,7 @@
       },
       {
         "file": "apps/web/lib/dashboard.ts",
-        "line": 461,
+        "line": 471,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -15498,7 +15498,7 @@
       },
       {
         "file": "apps/web/lib/dashboard.ts",
-        "line": 374,
+        "line": 384,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -15510,7 +15510,7 @@
     "sites": [
       {
         "file": "apps/web/lib/dashboard.ts",
-        "line": 497,
+        "line": 507,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -15522,7 +15522,7 @@
     "sites": [
       {
         "file": "apps/web/lib/dashboard.ts",
-        "line": 445,
+        "line": 455,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -15534,7 +15534,7 @@
     "sites": [
       {
         "file": "apps/web/lib/dashboard.ts",
-        "line": 425,
+        "line": 435,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -15553,7 +15553,7 @@
       },
       {
         "file": "apps/web/lib/dashboard.ts",
-        "line": 401,
+        "line": 411,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -15565,7 +15565,7 @@
     "sites": [
       {
         "file": "apps/web/lib/dashboard.ts",
-        "line": 488,
+        "line": 498,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -15577,7 +15577,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/dashboard-console.tsx",
-        "line": 134,
+        "line": 136,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -15589,7 +15589,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/dashboard-console.tsx",
-        "line": 132,
+        "line": 134,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -15601,7 +15601,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/dashboard-console.tsx",
-        "line": 130,
+        "line": 132,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -15613,7 +15613,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/dashboard-console.tsx",
-        "line": 128,
+        "line": 130,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -15625,7 +15625,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/dashboard-console.tsx",
-        "line": 131,
+        "line": 133,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -15637,7 +15637,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/dashboard-console.tsx",
-        "line": 129,
+        "line": 131,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -15649,7 +15649,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/dashboard-console.tsx",
-        "line": 133,
+        "line": 135,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -15661,7 +15661,7 @@
     "sites": [
       {
         "file": "apps/web/lib/dashboard.ts",
-        "line": 317,
+        "line": 327,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -15673,7 +15673,7 @@
     "sites": [
       {
         "file": "apps/web/lib/dashboard.ts",
-        "line": 274,
+        "line": 275,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -15685,7 +15685,7 @@
     "sites": [
       {
         "file": "apps/web/lib/dashboard.ts",
-        "line": 250,
+        "line": 251,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -15697,7 +15697,7 @@
     "sites": [
       {
         "file": "apps/web/lib/dashboard.ts",
-        "line": 286,
+        "line": 287,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -15709,7 +15709,7 @@
     "sites": [
       {
         "file": "apps/web/lib/dashboard.ts",
-        "line": 256,
+        "line": 257,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -15721,7 +15721,7 @@
     "sites": [
       {
         "file": "apps/web/lib/dashboard.ts",
-        "line": 295,
+        "line": 296,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -15733,7 +15733,7 @@
     "sites": [
       {
         "file": "apps/web/lib/dashboard.ts",
-        "line": 280,
+        "line": 281,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -15745,7 +15745,7 @@
     "sites": [
       {
         "file": "apps/web/lib/dashboard.ts",
-        "line": 268,
+        "line": 269,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -15757,7 +15757,7 @@
     "sites": [
       {
         "file": "apps/web/lib/dashboard.ts",
-        "line": 226,
+        "line": 227,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -15769,7 +15769,7 @@
     "sites": [
       {
         "file": "apps/web/lib/dashboard.ts",
-        "line": 323,
+        "line": 333,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -15781,7 +15781,7 @@
     "sites": [
       {
         "file": "apps/web/lib/dashboard.ts",
-        "line": 238,
+        "line": 239,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -15793,7 +15793,7 @@
     "sites": [
       {
         "file": "apps/web/lib/dashboard.ts",
-        "line": 244,
+        "line": 245,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -15805,7 +15805,19 @@
     "sites": [
       {
         "file": "apps/web/lib/dashboard.ts",
-        "line": 308,
+        "line": 318,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "dashboard.nav.site.retention": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/lib/dashboard.ts",
+        "line": 305,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -15817,7 +15829,7 @@
     "sites": [
       {
         "file": "apps/web/lib/dashboard.ts",
-        "line": 262,
+        "line": 263,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -15829,7 +15841,7 @@
     "sites": [
       {
         "file": "apps/web/lib/dashboard.ts",
-        "line": 232,
+        "line": 233,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -15841,7 +15853,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/dashboard-console.tsx",
-        "line": 199,
+        "line": 201,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -15855,7 +15867,7 @@
       },
       {
         "file": "apps/web/app/[lang]/dashboard/page.tsx",
-        "line": 55,
+        "line": 56,
         "grain": "str",
         "attr": "",
         "element": ""
