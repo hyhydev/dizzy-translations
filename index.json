@@ -428,7 +428,7 @@
       },
       {
         "file": "apps/web/components/filter-bar.tsx",
-        "line": 420,
+        "line": 419,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -3162,7 +3162,7 @@
     "sites": [
       {
         "file": "apps/web/components/filter-bar.tsx",
-        "line": 331,
+        "line": 330,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -3174,7 +3174,7 @@
     "sites": [
       {
         "file": "apps/web/components/filter-bar.tsx",
-        "line": 362,
+        "line": 361,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -3186,7 +3186,7 @@
     "sites": [
       {
         "file": "apps/web/components/filter-bar.tsx",
-        "line": 379,
+        "line": 378,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -4939,7 +4939,7 @@
       },
       {
         "file": "apps/web/components/navigation.tsx",
-        "line": 332,
+        "line": 333,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -4958,14 +4958,14 @@
       },
       {
         "file": "apps/web/components/navigation.tsx",
-        "line": 342,
+        "line": 343,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/components/navigation.tsx",
-        "line": 718,
+        "line": 727,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -4977,21 +4977,21 @@
     "sites": [
       {
         "file": "apps/web/components/navigation.tsx",
-        "line": 631,
+        "line": 639,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/components/navigation.tsx",
-        "line": 730,
+        "line": 739,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/components/navigation.tsx",
-        "line": 734,
+        "line": 743,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -5003,7 +5003,7 @@
     "sites": [
       {
         "file": "apps/web/components/navigation.tsx",
-        "line": 673,
+        "line": 681,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -5015,7 +5015,7 @@
     "sites": [
       {
         "file": "apps/web/components/navigation.tsx",
-        "line": 666,
+        "line": 674,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -5027,7 +5027,7 @@
     "sites": [
       {
         "file": "apps/web/components/navigation.tsx",
-        "line": 323,
+        "line": 324,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -5039,7 +5039,7 @@
     "sites": [
       {
         "file": "apps/web/components/navigation.tsx",
-        "line": 782,
+        "line": 791,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -5051,7 +5051,7 @@
     "sites": [
       {
         "file": "apps/web/components/navigation.tsx",
-        "line": 784,
+        "line": 793,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -5063,7 +5063,7 @@
     "sites": [
       {
         "file": "apps/web/components/navigation.tsx",
-        "line": 184,
+        "line": 185,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -5075,7 +5075,7 @@
     "sites": [
       {
         "file": "apps/web/components/navigation.tsx",
-        "line": 186,
+        "line": 187,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -5087,7 +5087,7 @@
     "sites": [
       {
         "file": "apps/web/components/navigation.tsx",
-        "line": 185,
+        "line": 186,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -5106,7 +5106,7 @@
       },
       {
         "file": "apps/web/components/navigation.tsx",
-        "line": 288,
+        "line": 289,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -5125,7 +5125,7 @@
       },
       {
         "file": "apps/web/components/navigation.tsx",
-        "line": 354,
+        "line": 355,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -5137,7 +5137,7 @@
     "sites": [
       {
         "file": "apps/web/components/navigation.tsx",
-        "line": 102,
+        "line": 103,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -5149,7 +5149,7 @@
     "sites": [
       {
         "file": "apps/web/components/navigation.tsx",
-        "line": 95,
+        "line": 96,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -7472,7 +7472,7 @@
       },
       {
         "file": "apps/web/components/community/scene-header.tsx",
-        "line": 176,
+        "line": 178,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -7634,7 +7634,7 @@
       },
       {
         "file": "apps/web/components/community/scene-header.tsx",
-        "line": 148,
+        "line": 150,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -7653,7 +7653,7 @@
       },
       {
         "file": "apps/web/components/community/scene-header.tsx",
-        "line": 168,
+        "line": 170,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -7691,7 +7691,7 @@
       },
       {
         "file": "apps/web/components/community/scene-header.tsx",
-        "line": 204,
+        "line": 206,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -7710,7 +7710,7 @@
       },
       {
         "file": "apps/web/components/community/scene-header.tsx",
-        "line": 186,
+        "line": 188,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -7722,7 +7722,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/scene-header.tsx",
-        "line": 196,
+        "line": 198,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -8541,7 +8541,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/c/[slug]/[game]/players/page.tsx",
-        "line": 98,
+        "line": 96,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -8553,7 +8553,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/c/[slug]/[game]/players/page.tsx",
-        "line": 97,
+        "line": 95,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -8565,7 +8565,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/c/[slug]/[game]/players/page.tsx",
-        "line": 69,
+        "line": 67,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -8577,7 +8577,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/c/[slug]/[game]/players/page.tsx",
-        "line": 68,
+        "line": 66,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -8589,7 +8589,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/c/[slug]/[game]/players/page.tsx",
-        "line": 77,
+        "line": 75,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -8601,7 +8601,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/c/[slug]/[game]/players/page.tsx",
-        "line": 76,
+        "line": 74,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -8613,7 +8613,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/c/[slug]/[game]/players/page.tsx",
-        "line": 87,
+        "line": 85,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -8625,7 +8625,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/c/[slug]/[game]/players/page.tsx",
-        "line": 86,
+        "line": 84,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -8637,7 +8637,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/c/[slug]/[game]/tournaments/page.tsx",
-        "line": 44,
+        "line": 42,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -8649,7 +8649,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/c/[slug]/[game]/tournaments/page.tsx",
-        "line": 43,
+        "line": 41,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -9919,7 +9919,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/scene-header.tsx",
-        "line": 128,
+        "line": 129,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -9938,7 +9938,7 @@
       },
       {
         "file": "apps/web/components/community/scene-header.tsx",
-        "line": 127,
+        "line": 128,
         "grain": "str",
         "attr": "",
         "element": ""
