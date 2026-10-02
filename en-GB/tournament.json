@@ -438,6 +438,7 @@
   "tournament.replay.axis.possessionAbout": "How much of the game the ball was theirs to take: the share of play in which they would have reached it first.",
   "tournament.replay.copyLink": "Copy a link to this moment",
   "tournament.replay.cutOff": "This recording was cut off before the game ended.",
+  "tournament.replay.damage": "+{pct}%",
   "tournament.replay.diff.character": "{name}: {value}",
   "tournament.replay.diff.has": "The replay has {value}",
   "tournament.replay.diff.hasWinner": "The replay has {name} winning",
