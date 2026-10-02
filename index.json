@@ -313,7 +313,7 @@
       },
       {
         "file": "apps/web/components/replay/replay-theatre.tsx",
-        "line": 475,
+        "line": 519,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -468,14 +468,14 @@
       },
       {
         "file": "apps/web/components/replay/replay-theatre.tsx",
-        "line": 322,
+        "line": 343,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/components/replay/replay-theatre.tsx",
-        "line": 331,
+        "line": 352,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -940,7 +940,7 @@
       },
       {
         "file": "apps/web/components/replay/replay-theatre.tsx",
-        "line": 484,
+        "line": 528,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -37975,7 +37975,7 @@
       },
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-detail-dialog.tsx",
-        "line": 769,
+        "line": 783,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -41874,7 +41874,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-replays.tsx",
-        "line": 318,
+        "line": 325,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42041,7 +42041,7 @@
     "sites": [
       {
         "file": "apps/web/components/replay/replay-theatre.tsx",
-        "line": 792,
+        "line": 836,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42053,14 +42053,28 @@
     "sites": [
       {
         "file": "apps/web/components/replay/replay-theatre.tsx",
-        "line": 306,
+        "line": 313,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/components/replay/replay-theatre.tsx",
-        "line": 310,
+        "line": 317,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
+        "file": "apps/web/components/replay/replay-theatre.tsx",
+        "line": 327,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
+        "file": "apps/web/components/replay/replay-theatre.tsx",
+        "line": 331,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42072,7 +42086,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-replays.tsx",
-        "line": 72,
+        "line": 67,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42084,7 +42098,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-replays.tsx",
-        "line": 80,
+        "line": 75,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42096,7 +42110,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-replays.tsx",
-        "line": 76,
+        "line": 71,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42108,7 +42122,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-replays.tsx",
-        "line": 75,
+        "line": 70,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42120,7 +42134,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-replays.tsx",
-        "line": 71,
+        "line": 66,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42132,7 +42146,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-replays.tsx",
-        "line": 77,
+        "line": 72,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42144,14 +42158,26 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-replays.tsx",
-        "line": 78,
+        "line": 154,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-replays.tsx",
-        "line": 152,
+        "line": 171,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.replay.error.tooLong": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/set-replays.tsx",
+        "line": 73,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42163,7 +42189,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-replays.tsx",
-        "line": 200,
+        "line": 207,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42175,7 +42201,7 @@
     "sites": [
       {
         "file": "apps/web/components/replay/replay-theatre.tsx",
-        "line": 510,
+        "line": 554,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42199,7 +42225,7 @@
     "sites": [
       {
         "file": "apps/web/components/replay/replay-theatre.tsx",
-        "line": 510,
+        "line": 554,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42211,7 +42237,7 @@
     "sites": [
       {
         "file": "apps/web/components/replay/replay-theatre.tsx",
-        "line": 282,
+        "line": 288,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42223,7 +42249,7 @@
     "sites": [
       {
         "file": "apps/web/components/replay/replay-theatre.tsx",
-        "line": 753,
+        "line": 797,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42242,7 +42268,7 @@
       },
       {
         "file": "apps/web/components/replay/replay-theatre.tsx",
-        "line": 128,
+        "line": 125,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42261,7 +42287,7 @@
       },
       {
         "file": "apps/web/components/replay/replay-theatre.tsx",
-        "line": 129,
+        "line": 126,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42273,7 +42299,7 @@
     "sites": [
       {
         "file": "apps/web/components/replay/replay-theatre.tsx",
-        "line": 127,
+        "line": 124,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42292,7 +42318,7 @@
       },
       {
         "file": "apps/web/components/replay/replay-theatre.tsx",
-        "line": 126,
+        "line": 123,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42304,7 +42330,7 @@
     "sites": [
       {
         "file": "apps/web/components/replay/replay-theatre.tsx",
-        "line": 130,
+        "line": 127,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42316,7 +42342,7 @@
     "sites": [
       {
         "file": "apps/web/components/replay/replay-theatre.tsx",
-        "line": 323,
+        "line": 344,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42347,7 +42373,7 @@
     "sites": [
       {
         "file": "apps/web/components/replay/replay-theatre.tsx",
-        "line": 379,
+        "line": 400,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42359,7 +42385,7 @@
     "sites": [
       {
         "file": "apps/web/components/replay/replay-theatre.tsx",
-        "line": 371,
+        "line": 392,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42371,7 +42397,7 @@
     "sites": [
       {
         "file": "apps/web/components/replay/replay-theatre.tsx",
-        "line": 378,
+        "line": 399,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42462,14 +42488,14 @@
     "sites": [
       {
         "file": "apps/web/components/replay/melee-playback.tsx",
-        "line": 363,
+        "line": 364,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/components/replay/melee-playback.tsx",
-        "line": 441,
+        "line": 442,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42500,7 +42526,7 @@
     "sites": [
       {
         "file": "apps/web/components/replay/melee-playback.tsx",
-        "line": 321,
+        "line": 322,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42543,14 +42569,14 @@
     "sites": [
       {
         "file": "apps/web/components/replay/replay-theatre.tsx",
-        "line": 443,
+        "line": 487,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/components/replay/replay-theatre.tsx",
-        "line": 448,
+        "line": 492,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42562,7 +42588,7 @@
     "sites": [
       {
         "file": "apps/web/components/replay/replay-theatre.tsx",
-        "line": 461,
+        "line": 505,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42574,14 +42600,14 @@
     "sites": [
       {
         "file": "apps/web/components/replay/melee-playback.tsx",
-        "line": 215,
+        "line": 216,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/components/replay/replay-theatre.tsx",
-        "line": 690,
+        "line": 734,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42617,7 +42643,7 @@
     "sites": [
       {
         "file": "apps/web/components/replay/replay-theatre.tsx",
-        "line": 891,
+        "line": 935,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42749,14 +42775,14 @@
     "sites": [
       {
         "file": "apps/web/components/replay/melee-playback.tsx",
-        "line": 369,
+        "line": 370,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/components/replay/replay-theatre.tsx",
-        "line": 898,
+        "line": 942,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42799,14 +42825,14 @@
     "sites": [
       {
         "file": "apps/web/components/replay/melee-playback.tsx",
-        "line": 279,
+        "line": 280,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/components/replay/replay-theatre.tsx",
-        "line": 781,
+        "line": 825,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42866,7 +42892,7 @@
     "sites": [
       {
         "file": "apps/web/components/replay/replay-theatre.tsx",
-        "line": 895,
+        "line": 939,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42942,7 +42968,7 @@
     "sites": [
       {
         "file": "apps/web/components/replay/replay-theatre.tsx",
-        "line": 787,
+        "line": 831,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42996,7 +43022,7 @@
     "sites": [
       {
         "file": "apps/web/components/replay/replay-theatre.tsx",
-        "line": 286,
+        "line": 292,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -43008,7 +43034,7 @@
     "sites": [
       {
         "file": "apps/web/components/replay/replay-theatre.tsx",
-        "line": 291,
+        "line": 297,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -43020,7 +43046,7 @@
     "sites": [
       {
         "file": "apps/web/components/replay/replay-theatre.tsx",
-        "line": 297,
+        "line": 303,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -43032,7 +43058,7 @@
     "sites": [
       {
         "file": "apps/web/components/replay/replay-theatre.tsx",
-        "line": 283,
+        "line": 289,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -43044,7 +43070,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-replays.tsx",
-        "line": 287,
+        "line": 294,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -44295,7 +44321,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-detail-dialog.tsx",
-        "line": 697,
+        "line": 711,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -44307,7 +44333,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-detail-dialog.tsx",
-        "line": 699,
+        "line": 713,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -44326,7 +44352,7 @@
       },
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-detail-dialog.tsx",
-        "line": 700,
+        "line": 714,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -44364,7 +44390,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-detail-dialog.tsx",
-        "line": 621,
+        "line": 632,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -44376,7 +44402,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-detail-dialog.tsx",
-        "line": 612,
+        "line": 623,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -44876,7 +44902,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-detail-dialog.tsx",
-        "line": 568,
+        "line": 579,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -44957,7 +44983,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-detail-dialog.tsx",
-        "line": 777,
+        "line": 791,
         "grain": "str",
         "attr": "",
         "element": ""

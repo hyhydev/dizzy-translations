@@ -446,6 +446,7 @@
   "tournament.replay.error.oldVersion": "{file} was recorded by an older version of the Replays plugin. Update the plugin and record again.",
   "tournament.replay.error.stage": "{file} was played on a stage that cannot be shown yet.",
   "tournament.replay.error.tooLarge": "{file} is too large.",
+  "tournament.replay.error.tooLong": "{file} is longer than a tournament game can be.",
   "tournament.replay.error.upload": "{file} could not be added.",
   "tournament.replay.exitFullscreen": "Exit full screen",
   "tournament.replay.frame": "Frame {frame}",

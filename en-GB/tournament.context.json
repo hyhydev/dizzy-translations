@@ -407,6 +407,7 @@
   "tournament.replay.error.oldVersion": "`{file}` is a file name. Replays is the name of the game mod that records them; do not translate it.",
   "tournament.replay.error.stage": "`{file}` is a file name. A stage is the level a game was played on.",
   "tournament.replay.error.tooLarge": "`{file}` is a file name.",
+  "tournament.replay.error.tooLong": "`{file}` is a file name. Shown for a recording of Super Smash Bros. Melee that runs past the nine minutes a tournament game can last.",
   "tournament.replay.error.upload": "`{file}` is a file name.",
   "tournament.replay.exitFullscreen": "Accessible name of the same button once the replay player fills the screen.",
   "tournament.replay.frame": "A replay's current frame. The game runs 60 frames a second and players count in them.",
