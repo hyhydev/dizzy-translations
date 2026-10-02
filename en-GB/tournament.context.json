@@ -399,6 +399,7 @@
   "tournament.replay.axis.possessionAbout": "The sentence shown when the Possession figure in the replay player is hovered, pressed or focused. It says what the percentage counts.",
   "tournament.replay.copyLink": "Accessible name of the button in the replay player that copies a link opening the replay at the frame showing.",
   "tournament.replay.cutOff": "Note under a replay whose file ends early, for example because the game crashed.",
+  "tournament.replay.damage": "The damage a hit just did in a replay of Super Smash Bros. Melee, drawn beside where it landed. `{pct}` is a whole number, such as +12%.",
   "tournament.replay.diff.character": "One line of the list of a replay's values. `{name}` is a player's name and `{value}` the character the replay shows them playing.",
   "tournament.replay.diff.has": "Tooltip on a value recorded for a game (its stage, a character, the score) that the game's replay disagrees with. `{value}` is what the replay holds instead: a stage name, a character name, or a score such as 2–0.",
   "tournament.replay.diff.hasWinner": "Tooltip on a player's name in a game row, when the game's replay shows that player winning and the record has them losing. `{name}` is the player's name.",

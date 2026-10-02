@@ -42048,6 +42048,18 @@
       }
     ]
   },
+  "tournament.replay.damage": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/replay/melee-playback.tsx",
+        "line": 646,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
   "tournament.replay.diff.character": {
     "accessibleName": false,
     "sites": [
@@ -42591,14 +42603,14 @@
     "sites": [
       {
         "file": "apps/web/components/replay/melee-playback.tsx",
-        "line": 415,
+        "line": 468,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/components/replay/melee-playback.tsx",
-        "line": 566,
+        "line": 645,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42629,7 +42641,7 @@
     "sites": [
       {
         "file": "apps/web/components/replay/melee-playback.tsx",
-        "line": 373,
+        "line": 423,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42703,7 +42715,7 @@
     "sites": [
       {
         "file": "apps/web/components/replay/melee-playback.tsx",
-        "line": 266,
+        "line": 316,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42878,7 +42890,7 @@
     "sites": [
       {
         "file": "apps/web/components/replay/melee-playback.tsx",
-        "line": 422,
+        "line": 475,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42928,7 +42940,7 @@
     "sites": [
       {
         "file": "apps/web/components/replay/melee-playback.tsx",
-        "line": 331,
+        "line": 381,
         "grain": "str",
         "attr": "",
         "element": ""
