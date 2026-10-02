@@ -313,7 +313,7 @@
       },
       {
         "file": "apps/web/components/replay/replay-theatre.tsx",
-        "line": 395,
+        "line": 413,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -468,7 +468,7 @@
       },
       {
         "file": "apps/web/components/replay/replay-theatre.tsx",
-        "line": 266,
+        "line": 282,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -933,7 +933,7 @@
       },
       {
         "file": "apps/web/components/replay/replay-theatre.tsx",
-        "line": 404,
+        "line": 422,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -41874,12 +41874,100 @@
       }
     ]
   },
+  "tournament.replay.analysing": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/replay/replay-stats.tsx",
+        "line": 135,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.replay.axis.defence": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/replay/replay-stats.tsx",
+        "line": 44,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
+        "file": "apps/web/components/replay/replay-stats.tsx",
+        "line": 202,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.replay.axis.interception": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/replay/replay-stats.tsx",
+        "line": 45,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
+        "file": "apps/web/components/replay/replay-stats.tsx",
+        "line": 235,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.replay.axis.offence": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/replay/replay-stats.tsx",
+        "line": 42,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
+        "file": "apps/web/components/replay/replay-stats.tsx",
+        "line": 156,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.replay.axis.possession": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/replay/replay-stats.tsx",
+        "line": 43,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
+        "file": "apps/web/components/replay/replay-stats.tsx",
+        "line": 179,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
   "tournament.replay.copyLink": {
     "accessibleName": false,
     "sites": [
       {
         "file": "apps/web/components/replay/replay-theatre.tsx",
-        "line": 997,
+        "line": 1045,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -41891,7 +41979,7 @@
     "sites": [
       {
         "file": "apps/web/components/replay/replay-theatre.tsx",
-        "line": 981,
+        "line": 1028,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -41903,7 +41991,7 @@
     "sites": [
       {
         "file": "apps/web/components/replay/replay-theatre.tsx",
-        "line": 254,
+        "line": 270,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -41975,7 +42063,7 @@
     "sites": [
       {
         "file": "apps/web/components/replay/replay-theatre.tsx",
-        "line": 435,
+        "line": 453,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -41987,7 +42075,7 @@
     "sites": [
       {
         "file": "apps/web/components/replay/replay-theatre.tsx",
-        "line": 898,
+        "line": 960,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -41999,7 +42087,7 @@
     "sites": [
       {
         "file": "apps/web/components/replay/replay-theatre.tsx",
-        "line": 436,
+        "line": 454,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42023,7 +42111,7 @@
     "sites": [
       {
         "file": "apps/web/components/replay/replay-theatre.tsx",
-        "line": 914,
+        "line": 976,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42034,8 +42122,15 @@
     "accessibleName": false,
     "sites": [
       {
+        "file": "apps/web/components/replay/replay-stats.tsx",
+        "line": 99,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
         "file": "apps/web/components/replay/replay-theatre.tsx",
-        "line": 115,
+        "line": 110,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42046,8 +42141,15 @@
     "accessibleName": false,
     "sites": [
       {
+        "file": "apps/web/components/replay/replay-stats.tsx",
+        "line": 100,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
         "file": "apps/web/components/replay/replay-theatre.tsx",
-        "line": 116,
+        "line": 111,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42059,7 +42161,7 @@
     "sites": [
       {
         "file": "apps/web/components/replay/replay-theatre.tsx",
-        "line": 114,
+        "line": 109,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42070,8 +42172,15 @@
     "accessibleName": false,
     "sites": [
       {
+        "file": "apps/web/components/replay/replay-stats.tsx",
+        "line": 98,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
         "file": "apps/web/components/replay/replay-theatre.tsx",
-        "line": 113,
+        "line": 108,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42083,7 +42192,7 @@
     "sites": [
       {
         "file": "apps/web/components/replay/replay-theatre.tsx",
-        "line": 117,
+        "line": 112,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42095,7 +42204,7 @@
     "sites": [
       {
         "file": "apps/web/components/replay/replay-theatre.tsx",
-        "line": 1010,
+        "line": 1058,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42107,7 +42216,7 @@
     "sites": [
       {
         "file": "apps/web/components/replay/replay-theatre.tsx",
-        "line": 303,
+        "line": 321,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42119,7 +42228,7 @@
     "sites": [
       {
         "file": "apps/web/components/replay/replay-theatre.tsx",
-        "line": 295,
+        "line": 313,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42131,7 +42240,43 @@
     "sites": [
       {
         "file": "apps/web/components/replay/replay-theatre.tsx",
-        "line": 302,
+        "line": 320,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.replay.move.smash": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/replay/replay-stats.tsx",
+        "line": 101,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.replay.move.special": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/replay/replay-stats.tsx",
+        "line": 103,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.replay.move.spike": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/replay/replay-stats.tsx",
+        "line": 102,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42143,7 +42288,19 @@
     "sites": [
       {
         "file": "apps/web/components/replay/replay-theatre.tsx",
-        "line": 888,
+        "line": 950,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.replay.noAnalysis": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/replay/replay-stats.tsx",
+        "line": 322,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42155,7 +42312,19 @@
     "sites": [
       {
         "file": "apps/web/components/replay/replay-theatre.tsx",
-        "line": 869,
+        "line": 931,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.replay.percent": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/replay/replay-stats.tsx",
+        "line": 59,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42167,7 +42336,7 @@
     "sites": [
       {
         "file": "apps/web/components/replay/replay-theatre.tsx",
-        "line": 869,
+        "line": 931,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42179,7 +42348,7 @@
     "sites": [
       {
         "file": "apps/web/components/replay/replay-theatre.tsx",
-        "line": 836,
+        "line": 898,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42191,7 +42360,7 @@
     "sites": [
       {
         "file": "apps/web/components/replay/replay-theatre.tsx",
-        "line": 849,
+        "line": 911,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42203,7 +42372,7 @@
     "sites": [
       {
         "file": "apps/web/components/replay/replay-theatre.tsx",
-        "line": 369,
+        "line": 387,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42215,7 +42384,7 @@
     "sites": [
       {
         "file": "apps/web/components/replay/replay-theatre.tsx",
-        "line": 381,
+        "line": 399,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42227,7 +42396,7 @@
     "sites": [
       {
         "file": "apps/web/components/replay/replay-theatre.tsx",
-        "line": 792,
+        "line": 854,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42239,7 +42408,7 @@
     "sites": [
       {
         "file": "apps/web/components/replay/replay-theatre.tsx",
-        "line": 917,
+        "line": 979,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42251,7 +42420,7 @@
     "sites": [
       {
         "file": "apps/web/components/replay/replay-theatre.tsx",
-        "line": 924,
+        "line": 986,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42263,14 +42432,127 @@
     "sites": [
       {
         "file": "apps/web/components/replay/replay-theatre.tsx",
-        "line": 939,
+        "line": 1198,
         "grain": "str",
         "attr": "",
         "element": ""
-      },
+      }
+    ]
+  },
+  "tournament.replay.stats.chainLength": {
+    "accessibleName": false,
+    "sites": [
       {
-        "file": "apps/web/components/replay/replay-theatre.tsx",
-        "line": 1159,
+        "file": "apps/web/components/replay/replay-stats.tsx",
+        "line": 195,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.replay.stats.chainsHit": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/replay/replay-stats.tsx",
+        "line": 159,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.replay.stats.grade.beaten": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/replay/replay-stats.tsx",
+        "line": 228,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.replay.stats.grade.reactionCheck": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/replay/replay-stats.tsx",
+        "line": 218,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.replay.stats.grade.true": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/replay/replay-stats.tsx",
+        "line": 213,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.replay.stats.grade.uncovered": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/replay/replay-stats.tsx",
+        "line": 223,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.replay.stats.hitsLanded": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/replay/replay-stats.tsx",
+        "line": 167,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.replay.stats.hitsTaken": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/replay/replay-stats.tsx",
+        "line": 209,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.replay.stats.knockoutBy": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/replay/replay-stats.tsx",
+        "line": 349,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.replay.stats.knockoutSolo": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/replay/replay-stats.tsx",
+        "line": 353,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42282,14 +42564,38 @@
     "sites": [
       {
         "file": "apps/web/components/replay/replay-theatre.tsx",
-        "line": 947,
+        "line": 1205,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.replay.stats.koSpeed": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/replay/replay-stats.tsx",
+        "line": 172,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.replay.stats.kos": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/replay/replay-stats.tsx",
+        "line": 170,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
-        "file": "apps/web/components/replay/replay-theatre.tsx",
-        "line": 1166,
+        "file": "apps/web/components/replay/replay-stats.tsx",
+        "line": 328,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42301,7 +42607,55 @@
     "sites": [
       {
         "file": "apps/web/components/replay/replay-theatre.tsx",
-        "line": 970,
+        "line": 1017,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.replay.stats.measure": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/replay/replay-stats.tsx",
+        "line": 269,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.replay.stats.notHit": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/replay/replay-stats.tsx",
+        "line": 205,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.replay.stats.parries": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/replay/replay-stats.tsx",
+        "line": 241,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.replay.stats.parriesLanded": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/replay/replay-stats.tsx",
+        "line": 243,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42313,14 +42667,7 @@
     "sites": [
       {
         "file": "apps/web/components/replay/replay-theatre.tsx",
-        "line": 944,
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      },
-      {
-        "file": "apps/web/components/replay/replay-theatre.tsx",
-        "line": 1163,
+        "line": 1202,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42329,10 +42676,62 @@
   },
   "tournament.replay.stats.player": {
     "accessibleName": false,
+    "sites": []
+  },
+  "tournament.replay.stats.reach": {
+    "accessibleName": false,
     "sites": [
       {
-        "file": "apps/web/components/replay/replay-theatre.tsx",
-        "line": 937,
+        "file": "apps/web/components/replay/replay-stats.tsx",
+        "line": 182,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.replay.stats.sentHit": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/replay/replay-stats.tsx",
+        "line": 163,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.replay.stats.stageHeld": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/replay/replay-stats.tsx",
+        "line": 191,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.replay.stats.steals": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/replay/replay-stats.tsx",
+        "line": 238,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.replay.stats.strong": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/replay/replay-stats.tsx",
+        "line": 186,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42344,7 +42743,7 @@
     "sites": [
       {
         "file": "apps/web/components/replay/replay-theatre.tsx",
-        "line": 976,
+        "line": 1023,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42356,7 +42755,7 @@
     "sites": [
       {
         "file": "apps/web/components/replay/replay-theatre.tsx",
-        "line": 859,
+        "line": 921,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42368,7 +42767,7 @@
     "sites": [
       {
         "file": "apps/web/components/replay/replay-theatre.tsx",
-        "line": 879,
+        "line": 941,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42378,6 +42777,42 @@
   "tournament.replay.stocks": {
     "accessibleName": false,
     "sites": []
+  },
+  "tournament.replay.tab.label": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/replay/replay-theatre.tsx",
+        "line": 247,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.replay.tab.replay": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/replay/replay-theatre.tsx",
+        "line": 252,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.replay.tab.stats": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/replay/replay-theatre.tsx",
+        "line": 258,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
   },
   "tournament.replay.title": {
     "accessibleName": false,
@@ -42408,7 +42843,7 @@
     "sites": [
       {
         "file": "apps/web/components/replay/replay-theatre.tsx",
-        "line": 1125,
+        "line": 1160,
         "grain": "str",
         "attr": "",
         "element": ""
