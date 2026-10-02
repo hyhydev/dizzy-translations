@@ -38839,7 +38839,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/game-capture-panel.tsx",
-        "line": 135,
+        "line": 162,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -38851,7 +38851,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/game-capture-panel.tsx",
-        "line": 133,
+        "line": 160,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -38863,7 +38863,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/game-capture-panel.tsx",
-        "line": 116,
+        "line": 140,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -38875,7 +38875,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/game-capture-panel.tsx",
-        "line": 84,
+        "line": 102,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -38887,7 +38887,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/game-capture-panel.tsx",
-        "line": 151,
+        "line": 178,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -38935,7 +38935,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/game-capture-panel.tsx",
-        "line": 733,
+        "line": 819,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -38947,7 +38947,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/game-capture-panel.tsx",
-        "line": 729,
+        "line": 815,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -38995,7 +38995,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/game-capture-panel.tsx",
-        "line": 854,
+        "line": 1018,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -39019,7 +39019,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/game-capture-panel.tsx",
-        "line": 851,
+        "line": 1015,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -39043,7 +39043,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/game-capture-panel.tsx",
-        "line": 265,
+        "line": 310,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -39055,7 +39055,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/game-capture-panel.tsx",
-        "line": 259,
+        "line": 300,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -39067,7 +39067,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/game-capture-panel.tsx",
-        "line": 901,
+        "line": 1065,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -39079,7 +39079,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/game-capture-panel.tsx",
-        "line": 450,
+        "line": 507,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -39091,7 +39091,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/game-capture-panel.tsx",
-        "line": 415,
+        "line": 472,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -39103,14 +39103,14 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/game-capture-panel.tsx",
-        "line": 376,
+        "line": 427,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/game-capture-panel.tsx",
-        "line": 402,
+        "line": 457,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -39122,7 +39122,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/game-capture-panel.tsx",
-        "line": 449,
+        "line": 506,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -39134,14 +39134,14 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/game-capture-panel.tsx",
-        "line": 403,
+        "line": 458,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/game-capture-panel.tsx",
-        "line": 405,
+        "line": 460,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -39153,14 +39153,14 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/game-capture-panel.tsx",
-        "line": 966,
+        "line": 1172,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/game-capture-panel.tsx",
-        "line": 999,
+        "line": 1212,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -39172,7 +39172,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/game-capture-panel.tsx",
-        "line": 910,
+        "line": 1074,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -41874,7 +41874,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-replays.tsx",
-        "line": 325,
+        "line": 402,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42048,6 +42048,109 @@
       }
     ]
   },
+  "tournament.replay.diff.character": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/game-capture-panel.tsx",
+        "line": 859,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.replay.diff.has": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/game-capture-panel.tsx",
+        "line": 878,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.replay.diff.hasWinner": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/game-capture-panel.tsx",
+        "line": 889,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.replay.diff.heading": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/game-capture-panel.tsx",
+        "line": 1132,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.replay.diff.score": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/game-capture-panel.tsx",
+        "line": 867,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.replay.diff.stage": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/game-capture-panel.tsx",
+        "line": 849,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.replay.diff.unmatched": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/set-replays.tsx",
+        "line": 365,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/set-replays.tsx",
+        "line": 372,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.replay.diff.use": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/game-capture-panel.tsx",
+        "line": 1147,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
   "tournament.replay.download": {
     "accessibleName": false,
     "sites": [
@@ -42086,7 +42189,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-replays.tsx",
-        "line": 67,
+        "line": 69,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42098,7 +42201,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-replays.tsx",
-        "line": 75,
+        "line": 77,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42110,7 +42213,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-replays.tsx",
-        "line": 71,
+        "line": 73,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42122,7 +42225,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-replays.tsx",
-        "line": 70,
+        "line": 72,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42134,7 +42237,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-replays.tsx",
-        "line": 66,
+        "line": 68,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42146,7 +42249,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-replays.tsx",
-        "line": 72,
+        "line": 74,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42158,14 +42261,14 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-replays.tsx",
-        "line": 154,
+        "line": 161,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-replays.tsx",
-        "line": 171,
+        "line": 178,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42177,7 +42280,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-replays.tsx",
-        "line": 73,
+        "line": 75,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42189,7 +42292,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-replays.tsx",
-        "line": 207,
+        "line": 214,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -43070,7 +43173,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-replays.tsx",
-        "line": 294,
+        "line": 363,
         "grain": "str",
         "attr": "",
         "element": ""
