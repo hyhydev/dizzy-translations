@@ -166,6 +166,7 @@
   "profile.under18.month.placeholder": "Pick a month",
   "profile.under18.no": "No",
   "profile.under18.question": "Are you under 18?",
+  "profile.under18.reason": "We ask so we can look after younger players, for example by leaving your name off public lists of who is coming to an event. Your answer is never shown in public. Only our moderators and the hosts of events you go to can see it.",
   "profile.under18.status.adult": "That makes you 18 or over, so we kept nothing.",
   "profile.under18.status.flagged": "A host or a moderator marked you as under 18. Only a moderator can change that.",
   "profile.under18.status.until": "You count as under 18 until {month}.",
