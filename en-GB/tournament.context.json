@@ -397,6 +397,7 @@
   "tournament.replay.axis.offenceAbout": "The sentence shown when the Offence figure in the replay player is hovered, pressed or focused. It says what the percentage counts. A possession is one unbroken run of a player's own touches on the ball.",
   "tournament.replay.axis.possession": "One of four dimensions of a player's game: how much they kept the ball.",
   "tournament.replay.axis.possessionAbout": "The sentence shown when the Possession figure in the replay player is hovered, pressed or focused. It says what the percentage counts.",
+  "tournament.replay.axis.rolling": "A second sentence added to each of the four explanations (Offence, Interception, Defence, Possession) in the replay player while a replay plays. Each bar then shows the figure for the most recent stretch of play, and a small mark on the bar shows the figure for the whole game. {seconds} is the length of that stretch, such as 30. {whole} is the whole game's figure, already formatted as a percentage, such as 62%.",
   "tournament.replay.copyLink": "Accessible name of the button in the replay player that copies a link opening the replay at the frame showing.",
   "tournament.replay.cutOff": "Note under a replay whose file ends early, for example because the game crashed.",
   "tournament.replay.damage": "The damage a hit just did in a replay of Super Smash Bros. Melee, drawn beside where it landed. `{pct}` is a whole number, such as +12%.",
