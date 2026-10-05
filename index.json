@@ -7264,7 +7264,7 @@
       },
       {
         "file": "apps/web/app/[lang]/events/[slug]/page.tsx",
-        "line": 1026,
+        "line": 1034,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -16410,7 +16410,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/page.tsx",
-        "line": 513,
+        "line": 521,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -16422,7 +16422,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/page.tsx",
-        "line": 518,
+        "line": 526,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -16836,7 +16836,7 @@
       },
       {
         "file": "apps/web/app/[lang]/events/[slug]/event-page-client.tsx",
-        "line": 1632,
+        "line": 1640,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -16898,7 +16898,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/attendees-lens.tsx",
-        "line": 253,
+        "line": 267,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -16910,14 +16910,14 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/attendees-lens.tsx",
-        "line": 123,
+        "line": 130,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/app/[lang]/events/[slug]/event-page-client.tsx",
-        "line": 1603,
+        "line": 1610,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -16929,14 +16929,33 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/attendees-lens.tsx",
-        "line": 102,
+        "line": 106,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/app/[lang]/events/[slug]/event-page-client.tsx",
-        "line": 1586,
+        "line": 1590,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "event.attendees.more": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/entrants-tab.tsx",
+        "line": 141,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
+        "file": "apps/web/app/[lang]/events/[slug]/attendees-lens.tsx",
+        "line": 151,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -16948,7 +16967,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/attendees-lens.tsx",
-        "line": 124,
+        "line": 127,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -16974,7 +16993,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/attendees-lens.tsx",
-        "line": 109,
+        "line": 113,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -16986,7 +17005,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/event-page-client.tsx",
-        "line": 1598,
+        "line": 1602,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -16998,7 +17017,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/attendees-lens.tsx",
-        "line": 258,
+        "line": 272,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -17022,7 +17041,33 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/attendees-lens.tsx",
-        "line": 234,
+        "line": 248,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "event.attendees.unlisted": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/entrants-tab.tsx",
+        "line": 142,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
+        "file": "apps/web/app/[lang]/events/[slug]/attendees-lens.tsx",
+        "line": 129,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
+        "file": "apps/web/app/[lang]/events/[slug]/event-page-client.tsx",
+        "line": 1609,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -17034,14 +17079,14 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/attendees-lens.tsx",
-        "line": 213,
+        "line": 227,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/app/[lang]/events/[slug]/event-page-client.tsx",
-        "line": 1712,
+        "line": 1720,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -17053,7 +17098,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/attendees-lens.tsx",
-        "line": 259,
+        "line": 273,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -17199,7 +17244,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/page.tsx",
-        "line": 1084,
+        "line": 1092,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -17211,7 +17256,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/page.tsx",
-        "line": 976,
+        "line": 984,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -17259,7 +17304,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/page.tsx",
-        "line": 1014,
+        "line": 1022,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -17316,7 +17361,7 @@
       },
       {
         "file": "apps/web/app/[lang]/events/[slug]/page.tsx",
-        "line": 972,
+        "line": 980,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -17328,7 +17373,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/page.tsx",
-        "line": 1033,
+        "line": 1041,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -17340,7 +17385,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/page.tsx",
-        "line": 1057,
+        "line": 1065,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -17352,7 +17397,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/page.tsx",
-        "line": 1035,
+        "line": 1043,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -17364,7 +17409,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/page.tsx",
-        "line": 1036,
+        "line": 1044,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -17383,7 +17428,7 @@
       },
       {
         "file": "apps/web/app/[lang]/events/[slug]/page.tsx",
-        "line": 985,
+        "line": 993,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -17395,7 +17440,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/page.tsx",
-        "line": 860,
+        "line": 868,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -17407,7 +17452,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/page.tsx",
-        "line": 848,
+        "line": 856,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -17426,14 +17471,14 @@
       },
       {
         "file": "apps/web/app/[lang]/events/[slug]/page.tsx",
-        "line": 844,
+        "line": 852,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/app/[lang]/events/[slug]/page.tsx",
-        "line": 857,
+        "line": 865,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -17531,7 +17576,7 @@
       },
       {
         "file": "apps/web/app/[lang]/events/[slug]/page.tsx",
-        "line": 1074,
+        "line": 1082,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -18615,7 +18660,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/page.tsx",
-        "line": 598,
+        "line": 606,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -21839,7 +21884,7 @@
       },
       {
         "file": "apps/web/app/[lang]/events/[slug]/page.tsx",
-        "line": 572,
+        "line": 580,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -22632,7 +22677,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/page.tsx",
-        "line": 673,
+        "line": 681,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -22644,7 +22689,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/page.tsx",
-        "line": 1196,
+        "line": 1204,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -22656,7 +22701,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/page.tsx",
-        "line": 1190,
+        "line": 1198,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -22668,7 +22713,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/page.tsx",
-        "line": 1125,
+        "line": 1133,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -22680,7 +22725,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/page.tsx",
-        "line": 669,
+        "line": 677,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -22692,7 +22737,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/page.tsx",
-        "line": 1146,
+        "line": 1154,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -22704,7 +22749,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/page.tsx",
-        "line": 1136,
+        "line": 1144,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -36430,7 +36475,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/lens-panels.tsx",
-        "line": 592,
+        "line": 599,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -36442,7 +36487,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/lens-panels.tsx",
-        "line": 613,
+        "line": 620,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -36454,7 +36499,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/lens-panels.tsx",
-        "line": 590,
+        "line": 597,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -38591,7 +38636,7 @@
       },
       {
         "file": "apps/web/app/[lang]/events/[slug]/event-page-client.tsx",
-        "line": 1649,
+        "line": 1657,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -39832,7 +39877,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/lens-panels.tsx",
-        "line": 742,
+        "line": 749,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -39844,7 +39889,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/lens-panels.tsx",
-        "line": 521,
+        "line": 528,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -39856,7 +39901,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/lens-panels.tsx",
-        "line": 733,
+        "line": 740,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -39868,7 +39913,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/lens-panels.tsx",
-        "line": 730,
+        "line": 737,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -44285,7 +44330,7 @@
       },
       {
         "file": "apps/web/app/[lang]/events/[slug]/event-page-client.tsx",
-        "line": 1639,
+        "line": 1647,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -46421,7 +46466,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/lens-panels.tsx",
-        "line": 714,
+        "line": 721,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -46433,7 +46478,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/lens-panels.tsx",
-        "line": 700,
+        "line": 707,
         "grain": "str",
         "attr": "",
         "element": ""
