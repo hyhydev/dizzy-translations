@@ -169,6 +169,7 @@
   "mobile.run.link.myEvents": "Your events →",
   "mobile.run.link.premium": "Premium →",
   "mobile.run.link.privacy": "Privacy →",
+  "mobile.run.link.under18": "Under 18 →",
   "mobile.run.link.whatsNew": "What's new →",
   "mobile.run.noPendingSet": "No pending Set.",
   "mobile.run.path": "Your path",
@@ -228,6 +229,11 @@
   "mobile.ui.pager.positionLabel": "{label}, showing {first, number} to {last, number} of {total, number}",
   "mobile.ui.pager.previousLabel": "Previous page of {label}",
   "mobile.ui.privacyNotice": "Privacy notice →",
+  "mobile.under18.answer": "Answer",
+  "mobile.under18.loadFailed": "Could not load this: {error}",
+  "mobile.under18.needsPlayer": "You can answer this once you have a player profile. We keep the answer there.",
+  "mobile.under18.saveFailed": "Could not save your answer: {error}",
+  "mobile.under18.saving": "Saving…",
   "mobile.whatsNew.empty": "Nothing announced yet. Dizzy changes constantly, and the moment there is enough worth telling you about, it appears here.",
   "mobile.whatsNew.loadFailed": "Couldn't load What's new: {error}"
 }

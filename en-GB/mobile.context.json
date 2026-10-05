@@ -23,6 +23,7 @@
   "mobile.register.block.finished": "Beside a bracket the reader has not entered: it is over, so it cannot be picked.",
   "mobile.register.prefix.placeholder": "Placeholder of the short box before the name: a sponsor or clan tag.",
   "mobile.register.registering": "The submit button while a registration is being sent.",
+  "mobile.run.link.under18": "Link in the app's list of account screens. It opens the screen with the question 'Are you under 18?'.",
   "mobile.run.pathStep": "One step of the viewer's path through a bracket. {result} is W or L; <b></b> draws it in bold.",
   "mobile.scope.selected": "Flag beside the community currently chosen in the community picker.",
   "mobile.scope.unfollowNamed": "Screen-reader name of the heart button on a followed community; {label} is the community's name.",
@@ -33,5 +34,10 @@
   "mobile.tabs.myRun": "Bottom tab for the viewer's live tournament companion: what they play next, and where.",
   "mobile.title.pairing": "Header title of the screen where a doubles entrant picks or confirms a partner.",
   "mobile.ui.pager.position": "Between the Previous and Next buttons of a paged list: which items are shown, out of how many.",
-  "mobile.ui.pager.positionLabel": "Screen-reader reading of a paged list's position; {label} names the list."
+  "mobile.ui.pager.positionLabel": "Screen-reader reading of a paged list's position; {label} names the list.",
+  "mobile.under18.answer": "Button on the app's home screen under the question 'Are you under 18?'. It opens the screen where the question is answered.",
+  "mobile.under18.loadFailed": "Shown when the app's Under 18 screen fails to load. {error} is the technical error text.",
+  "mobile.under18.needsPlayer": "Shown on the app's Under 18 screen to someone whose account has no player profile yet, in place of the question.",
+  "mobile.under18.saveFailed": "Shown when saving the answer to 'Are you under 18?' fails in the app. {error} is the reason.",
+  "mobile.under18.saving": "The Save button's label on the app's Under 18 screen while the answer is being saved."
 }
