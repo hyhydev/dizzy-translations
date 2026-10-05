@@ -1092,7 +1092,7 @@
       },
       {
         "file": "apps/web/components/under-18-question.tsx",
-        "line": 236,
+        "line": 120,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -3469,7 +3469,7 @@
     "sites": [
       {
         "file": "apps/web/components/footer.tsx",
-        "line": 61,
+        "line": 69,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -3481,7 +3481,7 @@
     "sites": [
       {
         "file": "apps/web/components/footer.tsx",
-        "line": 52,
+        "line": 60,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -3500,7 +3500,7 @@
       },
       {
         "file": "apps/web/components/footer.tsx",
-        "line": 41,
+        "line": 49,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -3512,7 +3512,7 @@
     "sites": [
       {
         "file": "apps/web/components/footer.tsx",
-        "line": 32,
+        "line": 40,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -3790,7 +3790,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/page.tsx",
-        "line": 513,
+        "line": 461,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -3802,7 +3802,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/page.tsx",
-        "line": 512,
+        "line": 460,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -3814,7 +3814,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/page.tsx",
-        "line": 519,
+        "line": 467,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -3826,7 +3826,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/page.tsx",
-        "line": 432,
+        "line": 380,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -3838,7 +3838,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/page.tsx",
-        "line": 429,
+        "line": 377,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -5046,7 +5046,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/layout.tsx",
-        "line": 47,
+        "line": 48,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -5065,7 +5065,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/layout.tsx",
-        "line": 46,
+        "line": 47,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -5077,7 +5077,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/layout.tsx",
-        "line": 45,
+        "line": 46,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -5089,7 +5089,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/layout.tsx",
-        "line": 55,
+        "line": 56,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -7033,7 +7033,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/layout.tsx",
-        "line": 131,
+        "line": 132,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -35953,7 +35953,7 @@
       },
       {
         "file": "apps/web/components/under-18-question.tsx",
-        "line": 141,
+        "line": 174,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -35972,7 +35972,7 @@
       },
       {
         "file": "apps/web/components/under-18-question.tsx",
-        "line": 140,
+        "line": 173,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -35998,7 +35998,7 @@
       },
       {
         "file": "apps/web/components/under-18-question.tsx",
-        "line": 149,
+        "line": 182,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -36010,7 +36010,7 @@
     "sites": [
       {
         "file": "apps/web/components/under-18-question.tsx",
-        "line": 159,
+        "line": 192,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -36029,7 +36029,7 @@
       },
       {
         "file": "apps/web/components/under-18-question.tsx",
-        "line": 132,
+        "line": 162,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -36062,7 +36062,19 @@
       },
       {
         "file": "apps/web/components/under-18-question.tsx",
-        "line": 113,
+        "line": 134,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "profile.under18.reason": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/under-18-question.tsx",
+        "line": 137,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -36081,7 +36093,7 @@
       },
       {
         "file": "apps/web/components/under-18-question.tsx",
-        "line": 214,
+        "line": 248,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -36100,7 +36112,7 @@
       },
       {
         "file": "apps/web/components/under-18-question.tsx",
-        "line": 217,
+        "line": 251,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -36119,7 +36131,7 @@
       },
       {
         "file": "apps/web/components/under-18-question.tsx",
-        "line": 205,
+        "line": 239,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -36137,15 +36149,15 @@
         "element": ""
       },
       {
-        "file": "apps/web/app/[lang]/page.tsx",
-        "line": 272,
+        "file": "apps/web/app/[lang]/profile/account-hub.tsx",
+        "line": 687,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
-        "file": "apps/web/app/[lang]/profile/account-hub.tsx",
-        "line": 687,
+        "file": "apps/web/components/under-18-footer-ask.tsx",
+        "line": 31,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -36164,7 +36176,7 @@
       },
       {
         "file": "apps/web/components/under-18-question.tsx",
-        "line": 196,
+        "line": 230,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -36190,7 +36202,7 @@
       },
       {
         "file": "apps/web/components/under-18-question.tsx",
-        "line": 172,
+        "line": 205,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -36202,7 +36214,7 @@
     "sites": [
       {
         "file": "apps/web/components/under-18-question.tsx",
-        "line": 182,
+        "line": 215,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -36221,7 +36233,7 @@
       },
       {
         "file": "apps/web/components/under-18-question.tsx",
-        "line": 123,
+        "line": 153,
         "grain": "str",
         "attr": "",
         "element": ""

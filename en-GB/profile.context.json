@@ -166,6 +166,7 @@
   "profile.under18.month.placeholder": "Grey text in the empty birth-month field.",
   "profile.under18.no": "Answer button to 'Are you under 18?'.",
   "profile.under18.question": "The question itself, answered with Yes or No. Read by children as well as adults, so keep it as short and plain as the English.",
+  "profile.under18.reason": "Under the question \"Are you under 18?\". Says in plain words why it is asked and who can see the answer. It is read by children, so keep the words simple.",
   "profile.under18.status.adult": "Shown after someone answers Yes but gives a birth month that makes them 18 already.",
   "profile.under18.status.flagged": "Shown to a player who was marked as under 18 by someone else: an event host, or a site moderator. Their own answer does not remove that mark.",
   "profile.under18.status.until": "What is saved about someone who said they are under 18. {month} is a month and a year already written in the reader's language, for example 'June 2030'.",
