@@ -132,6 +132,7 @@
   "community.panel.empty": "The panel's record side before anyone is picked.",
   "community.panel.entrants": "A tournament's field size in the panel's compact placement list; \"ent\" abbreviates entrants. Keep it as short.",
   "community.panel.figure": "Screen-reader heading over the row labels of a comparison table.",
+  "community.panel.floor": "Line above the Panel view's player list when the community asks for more tournaments there than on the board itself. {n} is that number, always 2 or more.",
   "community.panel.headlines.againstField": "Comparison row: set record against the board's top players.",
   "community.panel.headlines.boardRank": "Comparison row: each player's rank on the board.",
   "community.panel.headlines.captionMany": "Screen-reader caption of the headline comparison table.",
