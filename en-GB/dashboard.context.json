@@ -20,6 +20,7 @@
   "dashboard.nav.community.moderators": "Community dashboard panel: the community's staff.",
   "dashboard.nav.community.overview": "Community dashboard panel.",
   "dashboard.nav.community.parrygg": "Community dashboard panel for the parry.gg account. Product name; usually left as is.",
+  "dashboard.nav.community.players": "Community dashboard panel: everyone who has entered one of the community's events.",
   "dashboard.nav.community.provisional": "Community dashboard panel: walk-up players not yet matched to a profile.",
   "dashboard.nav.community.seasons": "Community dashboard panel: the community's ranking seasons.",
   "dashboard.nav.community.series": "Community dashboard panel: recurring event series.",
