@@ -459,6 +459,8 @@
   "common.streamQueue.onStreamOn": "On stream · @{handle}",
   "common.streamQueue.upNext": "Up next",
   "common.streamQueue.upNextOn": "Up next on @{handle}",
+  "common.table.perPage": "{n} per page",
+  "common.table.perPage.label": "Rows per page",
   "common.unit.entrants": "{n, plural, one {entrant} other {entrants}}",
   "common.unit.games": "{n, plural, one {game} other {games}}",
   "common.unit.players": "{n, plural, one {player} other {players}}",
