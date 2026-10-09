@@ -5,7 +5,6 @@
   "community.powerRanking.honourableMentions": "{n, plural, one {honourable mention} other {honourable mentions}}",
   "community.powerRanking.mark.mention": "Honourable mention from {community}, {season}",
   "community.powerRanking.mentionsHeading": "Honourable mentions",
-  "dashboard.community.board.savingReranks": "Saving re-ranks the board straight away.",
   "dashboard.community.parrygg.step.get.body": "It's in your <link>Parry.gg API keys</link>, under Developer settings on your profile. Parry.gg shows the key once, so copy it straight away.",
   "dashboard.community.powerRanking.mentions": "Honourable mentions",
   "dashboard.community.powerRanking.mentions.add": "Add an honourable mention",
