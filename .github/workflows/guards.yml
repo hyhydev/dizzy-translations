@@ -34,10 +34,12 @@ jobs:
           github.event_name == 'pull_request' &&
           !(github.event.pull_request.head.repo.full_name == github.repository &&
             github.head_ref == 'sync/down')
-        env:
-          BASE: ${{ github.event.pull_request.base.sha }}
+        # The checkout is the test merge of the pull request into main, so its
+        # first parent is main as it stands and the diff from there is exactly
+        # what the pull request changes. The event's base.sha is frozen when the
+        # pull request opens, so diffing from it counts every sync merged since.
         run: |
-          changed=$(git diff --name-only "$BASE" HEAD -- en-GB index.json glossary/en-GB.json tooling '*/basis.json')
+          changed=$(git diff --name-only HEAD^1 HEAD -- en-GB index.json glossary/en-GB.json tooling '*/basis.json')
           if [ -n "$changed" ]; then
             echo "These files come from the Dizzy site and are updated only by the sync, so a pull request can't change them:"
             for file in $changed; do

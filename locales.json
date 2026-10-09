@@ -14,5 +14,13 @@
     "status": "selectable",
     "name": "English (US)",
     "tags": ["en-US"]
+  },
+  "de": {
+    "dir": "ltr",
+    "fallback": ["en-GB"],
+    "reviewer": "hyhydev",
+    "status": "unselectable",
+    "name": "Deutsch",
+    "tags": ["de"]
   }
 }
