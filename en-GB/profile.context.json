@@ -164,7 +164,7 @@
   "profile.under18.bornChange": "Shown in place of the birth-month question when an answer is already saved and the person has pressed Yes again. Two fields follow: a month and a year.",
   "profile.under18.month": "Label of the field for the month someone was born in.",
   "profile.under18.month.placeholder": "Grey text in the empty birth-month field.",
-  "profile.under18.no": "Answer button to 'Are you under 18?'.",
+  "profile.under18.no": "One of two answer buttons under the question 'Are you under 18?'. This one means no: the person is 18, or older. Keep 'or over' so someone who is exactly 18 knows it is theirs.",
   "profile.under18.question": "The question itself, answered with Yes or No. Read by children as well as adults, so keep it as short and plain as the English.",
   "profile.under18.reason": "Under the question \"Are you under 18?\". Says in plain words why it is asked and who can see the answer. It is read by children, so keep the words simple.",
   "profile.under18.status.adult": "Shown after someone answers Yes but gives a birth month that makes them 18 already.",
@@ -174,6 +174,6 @@
   "profile.under18.why": "Under the birth month and year fields. It tells a child what is kept before they answer, so use short sentences and no legal words.",
   "profile.under18.year": "Label of the field for the year someone was born in.",
   "profile.under18.year.placeholder": "Grey text in the empty birth-year field.",
-  "profile.under18.yes": "Answer button to 'Are you under 18?'.",
+  "profile.under18.yes": "One of two answer buttons under the question 'Are you under 18?'. This one means yes. It names the answer in full, because a bare Yes or No is easy to press the wrong way round.",
   "profile.you": "Stands in for the account's name in the masthead when Discord supplied none."
 }
