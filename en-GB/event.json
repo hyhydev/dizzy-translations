@@ -46,7 +46,6 @@
   "event.attendee.under18.mark": "Mark as under 18",
   "event.attendee.under18.marked": "Marked as under 18",
   "event.attendee.under18.moderatorClears": "Only a moderator can take this off.",
-  "event.attendee.under18.noPlayer": "They can be marked once their first bracket has started.",
   "event.attendee.under18.notMarked": "Not marked",
   "event.attendee.unpaid": "Unpaid",
   "event.attendee.withdraw.action": "Withdraw",
