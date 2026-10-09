@@ -515,7 +515,7 @@
       },
       {
         "file": "apps/web/components/cookie-consent.tsx",
-        "line": 176,
+        "line": 195,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -1886,7 +1886,7 @@
     "sites": [
       {
         "file": "apps/web/components/cookie-consent.tsx",
-        "line": 185,
+        "line": 204,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -1898,7 +1898,7 @@
     "sites": [
       {
         "file": "apps/web/components/cookie-consent.tsx",
-        "line": 157,
+        "line": 176,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -1910,14 +1910,14 @@
     "sites": [
       {
         "file": "apps/web/components/cookie-consent.tsx",
-        "line": 250,
+        "line": 285,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/components/cookie-consent.tsx",
-        "line": 259,
+        "line": 294,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -1929,7 +1929,38 @@
     "sites": [
       {
         "file": "apps/web/components/cookie-consent.tsx",
+        "line": 288,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "common.consent.prefs.appearance": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/cookie-consent.tsx",
         "line": 253,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
+        "file": "apps/web/components/cookie-consent.tsx",
+        "line": 262,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "common.consent.prefs.appearanceHint": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/cookie-consent.tsx",
+        "line": 256,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -1941,7 +1972,7 @@
     "sites": [
       {
         "file": "apps/web/components/cookie-consent.tsx",
-        "line": 200,
+        "line": 219,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -1953,7 +1984,7 @@
     "sites": [
       {
         "file": "apps/web/components/cookie-consent.tsx",
-        "line": 234,
+        "line": 269,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -1965,7 +1996,7 @@
     "sites": [
       {
         "file": "apps/web/components/cookie-consent.tsx",
-        "line": 237,
+        "line": 272,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -1977,7 +2008,7 @@
     "sites": [
       {
         "file": "apps/web/components/cookie-consent.tsx",
-        "line": 243,
+        "line": 278,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -1989,7 +2020,7 @@
     "sites": [
       {
         "file": "apps/web/components/cookie-consent.tsx",
-        "line": 218,
+        "line": 237,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -2001,7 +2032,7 @@
     "sites": [
       {
         "file": "apps/web/components/cookie-consent.tsx",
-        "line": 221,
+        "line": 240,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -2013,7 +2044,7 @@
     "sites": [
       {
         "file": "apps/web/components/cookie-consent.tsx",
-        "line": 227,
+        "line": 246,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -2025,7 +2056,7 @@
     "sites": [
       {
         "file": "apps/web/components/cookie-consent.tsx",
-        "line": 275,
+        "line": 311,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -2037,7 +2068,7 @@
     "sites": [
       {
         "file": "apps/web/components/cookie-consent.tsx",
-        "line": 197,
+        "line": 216,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -2991,7 +3022,7 @@
     "sites": [
       {
         "file": "apps/web/app/global-error.tsx",
-        "line": 146,
+        "line": 147,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -3003,7 +3034,7 @@
     "sites": [
       {
         "file": "apps/web/app/global-error.tsx",
-        "line": 140,
+        "line": 141,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -3015,7 +3046,7 @@
     "sites": [
       {
         "file": "apps/web/app/global-error.tsx",
-        "line": 142,
+        "line": 143,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -3065,7 +3096,7 @@
       },
       {
         "file": "apps/web/app/global-error.tsx",
-        "line": 147,
+        "line": 148,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -5046,7 +5077,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/layout.tsx",
-        "line": 48,
+        "line": 49,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -5065,7 +5096,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/layout.tsx",
-        "line": 47,
+        "line": 48,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -5077,7 +5108,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/layout.tsx",
-        "line": 46,
+        "line": 47,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -5089,7 +5120,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/layout.tsx",
-        "line": 56,
+        "line": 57,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -7033,7 +7064,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/layout.tsx",
-        "line": 132,
+        "line": 133,
         "grain": "str",
         "attr": "",
         "element": ""

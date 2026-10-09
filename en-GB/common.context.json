@@ -61,6 +61,8 @@
   "common.consent.notice": "The cookie banner's one sentence. The two emphasised words name the two storage categories the buttons decide; the link opens the privacy notice. Dizzy is the product name and is not translated.",
   "common.consent.prefs.analytics": "Cookie category heading, and the name of its switch.",
   "common.consent.prefs.analyticsHint": "What the analytics cookies are for. Vercel Analytics and Umami are product names.",
+  "common.consent.prefs.appearance": "Cookie category heading, and the screen-reader name of its switch. It covers the light or dark theme and the language.",
+  "common.consent.prefs.appearanceHint": "What the appearance storage is for. Unlike the other switches it starts on, and turning it off stops the site remembering the theme and language between visits.",
   "common.consent.prefs.description": "Under common.consent.prefs.title. <link></link> links to the privacy notice.",
   "common.consent.prefs.functional": "Cookie category heading.",
   "common.consent.prefs.functionalHint": "What the functional cookies are for.",
