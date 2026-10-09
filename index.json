@@ -2099,7 +2099,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/players/community-players-table.tsx",
-        "line": 181,
+        "line": 184,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -6109,7 +6109,7 @@
     "sites": [
       {
         "file": "apps/web/components/admin/provisional-table.tsx",
-        "line": 224,
+        "line": 258,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -6121,7 +6121,7 @@
     "sites": [
       {
         "file": "apps/web/components/admin/provisional-table.tsx",
-        "line": 210,
+        "line": 244,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -6133,7 +6133,7 @@
     "sites": [
       {
         "file": "apps/web/components/admin/provisional-table.tsx",
-        "line": 494,
+        "line": 524,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -6145,21 +6145,21 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/players/community-players-table.tsx",
-        "line": 149,
+        "line": 152,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/app/[lang]/dashboard/scene/players/community-players-table.tsx",
-        "line": 173,
+        "line": 176,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/components/admin/provisional-table.tsx",
-        "line": 487,
+        "line": 517,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -6171,7 +6171,7 @@
     "sites": [
       {
         "file": "apps/web/components/admin/provisional-table.tsx",
-        "line": 448,
+        "line": 478,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -6183,7 +6183,7 @@
     "sites": [
       {
         "file": "apps/web/components/admin/provisional-table.tsx",
-        "line": 459,
+        "line": 489,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -6195,7 +6195,7 @@
     "sites": [
       {
         "file": "apps/web/components/admin/provisional-table.tsx",
-        "line": 457,
+        "line": 487,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -6207,7 +6207,7 @@
     "sites": [
       {
         "file": "apps/web/components/admin/provisional-table.tsx",
-        "line": 454,
+        "line": 484,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -6219,7 +6219,7 @@
     "sites": [
       {
         "file": "apps/web/components/admin/provisional-table.tsx",
-        "line": 374,
+        "line": 404,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -6231,7 +6231,7 @@
     "sites": [
       {
         "file": "apps/web/components/admin/provisional-table.tsx",
-        "line": 371,
+        "line": 401,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -6243,7 +6243,7 @@
     "sites": [
       {
         "file": "apps/web/components/admin/provisional-table.tsx",
-        "line": 370,
+        "line": 400,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -6255,14 +6255,14 @@
     "sites": [
       {
         "file": "apps/web/components/admin/provisional-table.tsx",
-        "line": 287,
+        "line": 319,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/components/admin/provisional-table.tsx",
-        "line": 360,
+        "line": 390,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -6274,7 +6274,7 @@
     "sites": [
       {
         "file": "apps/web/components/admin/provisional-table.tsx",
-        "line": 336,
+        "line": 368,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -6286,14 +6286,21 @@
     "sites": [
       {
         "file": "apps/web/components/admin/provisional-table.tsx",
-        "line": 118,
+        "line": 91,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/components/admin/provisional-table.tsx",
-        "line": 197,
+        "line": 152,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
+        "file": "apps/web/components/admin/provisional-table.tsx",
+        "line": 231,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -6305,7 +6312,7 @@
     "sites": [
       {
         "file": "apps/web/components/admin/provisional-table.tsx",
-        "line": 176,
+        "line": 210,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -6317,7 +6324,7 @@
     "sites": [
       {
         "file": "apps/web/components/admin/provisional-table.tsx",
-        "line": 126,
+        "line": 160,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -6329,7 +6336,7 @@
     "sites": [
       {
         "file": "apps/web/components/admin/provisional-table.tsx",
-        "line": 141,
+        "line": 175,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -6341,7 +6348,7 @@
     "sites": [
       {
         "file": "apps/web/components/admin/provisional-table.tsx",
-        "line": 147,
+        "line": 181,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -6353,7 +6360,7 @@
     "sites": [
       {
         "file": "apps/web/components/admin/provisional-table.tsx",
-        "line": 133,
+        "line": 167,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -6365,7 +6372,7 @@
     "sites": [
       {
         "file": "apps/web/components/admin/provisional-table.tsx",
-        "line": 123,
+        "line": 157,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -6377,7 +6384,7 @@
     "sites": [
       {
         "file": "apps/web/components/admin/provisional-table.tsx",
-        "line": 473,
+        "line": 503,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -6389,7 +6396,7 @@
     "sites": [
       {
         "file": "apps/web/components/admin/provisional-table.tsx",
-        "line": 365,
+        "line": 395,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -6638,7 +6645,7 @@
     "sites": [
       {
         "file": "apps/web/components/admin/provisional-table.tsx",
-        "line": 146,
+        "line": 180,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -13607,7 +13614,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/players/community-players-table.tsx",
-        "line": 43,
+        "line": 46,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -13619,14 +13626,14 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/players/community-players-table.tsx",
-        "line": 152,
+        "line": 155,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/app/[lang]/dashboard/scene/players/community-players-table.tsx",
-        "line": 185,
+        "line": 188,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -13638,7 +13645,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/players/community-players-table.tsx",
-        "line": 194,
+        "line": 197,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -13650,7 +13657,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/players/community-players-table.tsx",
-        "line": 204,
+        "line": 207,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -13662,7 +13669,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/players/community-players-table.tsx",
-        "line": 62,
+        "line": 65,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -13674,7 +13681,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/players/community-players-table.tsx",
-        "line": 161,
+        "line": 164,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -14079,7 +14086,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/players/community-players-table.tsx",
-        "line": 98,
+        "line": 101,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -15477,7 +15484,7 @@
       },
       {
         "file": "apps/web/app/[lang]/dashboard/scene/players/community-players-table.tsx",
-        "line": 198,
+        "line": 201,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -15498,7 +15505,7 @@
       },
       {
         "file": "apps/web/components/admin/provisional-table.tsx",
-        "line": 496,
+        "line": 526,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -15557,7 +15564,7 @@
       },
       {
         "file": "apps/web/components/admin/provisional-table.tsx",
-        "line": 435,
+        "line": 465,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -15987,7 +15994,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/players/community-players-table.tsx",
-        "line": 45,
+        "line": 48,
         "grain": "str",
         "attr": "",
         "element": ""

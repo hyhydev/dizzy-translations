@@ -277,7 +277,7 @@
   "dashboard.community.powerRanking.remove": "Accessible name of the button that removes a player from a list; {name} is the player.",
   "dashboard.community.powerRanking.search.empty": "Shown when the player search finds nothing.",
   "dashboard.community.powerRanking.titleField": "Field label: the power ranking's title.",
-  "dashboard.community.provisional.crossCommunity": "Tooltip on a provisional player who also played at other communities.",
+  "dashboard.community.provisional.crossCommunity": "Tooltip on a switched-off Merge button, for a player who has also played at other communities.",
   "dashboard.community.provisional.empty": "Shown when no provisional players are waiting.",
   "dashboard.community.provisional.excluded": "Warning after a rating recalculation. {count} is the number of players; {n} is the same number and only picks the form. A provisional player is a walk-up name nobody has matched to a player yet; a Set is one match between two entrants.",
   "dashboard.community.provisional.groupHint": "Help about confirming a group of same-named entries.",
