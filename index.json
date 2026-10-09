@@ -783,7 +783,7 @@
       },
       {
         "file": "apps/web/app/[lang]/events/[slug]/door-desk.tsx",
-        "line": 288,
+        "line": 282,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -952,7 +952,7 @@
     "sites": [
       {
         "file": "apps/mobile/app/under-18.tsx",
-        "line": 210,
+        "line": 202,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -16650,7 +16650,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/door-desk.tsx",
-        "line": 161,
+        "line": 158,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -16669,7 +16669,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/door-desk.tsx",
-        "line": 160,
+        "line": 157,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -16688,7 +16688,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/door-desk.tsx",
-        "line": 192,
+        "line": 189,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -16731,7 +16731,7 @@
     "sites": [
       {
         "file": "apps/web/components/events/attendee-dialog.tsx",
-        "line": 232,
+        "line": 226,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -16743,7 +16743,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/door-desk.tsx",
-        "line": 319,
+        "line": 313,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -16762,14 +16762,14 @@
     "sites": [
       {
         "file": "apps/web/components/events/attendee-dialog.tsx",
-        "line": 226,
+        "line": 221,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/components/events/attendee-dialog.tsx",
-        "line": 239,
+        "line": 233,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -16800,18 +16800,6 @@
       }
     ]
   },
-  "event.attendee.under18.noPlayer": {
-    "accessibleName": false,
-    "sites": [
-      {
-        "file": "apps/web/components/events/attendee-dialog.tsx",
-        "line": 221,
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      }
-    ]
-  },
   "event.attendee.under18.notMarked": {
     "accessibleName": false,
     "sites": [
@@ -16829,7 +16817,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/door-desk.tsx",
-        "line": 304,
+        "line": 298,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -16855,14 +16843,14 @@
     "sites": [
       {
         "file": "apps/web/components/events/attendee-dialog.tsx",
-        "line": 288,
+        "line": 282,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/components/events/attendee-dialog.tsx",
-        "line": 299,
+        "line": 293,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -16874,7 +16862,7 @@
     "sites": [
       {
         "file": "apps/web/components/events/attendee-dialog.tsx",
-        "line": 276,
+        "line": 270,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -16886,7 +16874,7 @@
     "sites": [
       {
         "file": "apps/web/components/events/attendee-dialog.tsx",
-        "line": 292,
+        "line": 286,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -16974,7 +16962,7 @@
       },
       {
         "file": "apps/web/app/[lang]/events/[slug]/door-desk.tsx",
-        "line": 193,
+        "line": 190,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -18449,7 +18437,7 @@
       },
       {
         "file": "apps/web/app/[lang]/events/[slug]/event-desk-panels.tsx",
-        "line": 179,
+        "line": 177,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -18468,7 +18456,7 @@
       },
       {
         "file": "apps/web/app/[lang]/events/[slug]/event-desk-panels.tsx",
-        "line": 201,
+        "line": 199,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -18499,7 +18487,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/event-desk-panels.tsx",
-        "line": 212,
+        "line": 210,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -19964,7 +19952,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/door-desk.tsx",
-        "line": 342,
+        "line": 336,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -19976,7 +19964,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/door-desk.tsx",
-        "line": 341,
+        "line": 335,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -19988,7 +19976,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/door-desk.tsx",
-        "line": 309,
+        "line": 303,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -20000,7 +19988,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/door-desk.tsx",
-        "line": 285,
+        "line": 279,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -20012,7 +20000,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/door-desk.tsx",
-        "line": 300,
+        "line": 294,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -20024,7 +20012,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/door-desk.tsx",
-        "line": 332,
+        "line": 326,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -20036,7 +20024,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/door-desk.tsx",
-        "line": 173,
+        "line": 170,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -29982,24 +29970,12 @@
       }
     ]
   },
-  "mobile.under18.needsPlayer": {
-    "accessibleName": false,
-    "sites": [
-      {
-        "file": "apps/mobile/app/under-18.tsx",
-        "line": 88,
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      }
-    ]
-  },
   "mobile.under18.saveFailed": {
     "accessibleName": false,
     "sites": [
       {
         "file": "apps/mobile/app/under-18.tsx",
-        "line": 205,
+        "line": 197,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -30011,7 +29987,7 @@
     "sites": [
       {
         "file": "apps/mobile/app/under-18.tsx",
-        "line": 210,
+        "line": 202,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -34707,7 +34683,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/profile/account-hub.tsx",
-        "line": 735,
+        "line": 734,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -34719,7 +34695,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/profile/account-hub.tsx",
-        "line": 741,
+        "line": 740,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -34731,7 +34707,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/profile/account-hub.tsx",
-        "line": 747,
+        "line": 746,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -34743,7 +34719,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/profile/account-hub.tsx",
-        "line": 744,
+        "line": 743,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -34755,7 +34731,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/profile/account-hub.tsx",
-        "line": 788,
+        "line": 787,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -34767,7 +34743,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/profile/account-hub.tsx",
-        "line": 789,
+        "line": 788,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -34779,7 +34755,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/profile/account-hub.tsx",
-        "line": 724,
+        "line": 723,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -34791,7 +34767,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/profile/account-hub.tsx",
-        "line": 723,
+        "line": 722,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -34803,7 +34779,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/profile/account-hub.tsx",
-        "line": 721,
+        "line": 720,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -34815,7 +34791,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/profile/account-hub.tsx",
-        "line": 722,
+        "line": 721,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -34827,7 +34803,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/profile/account-hub.tsx",
-        "line": 698,
+        "line": 697,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -35946,7 +35922,7 @@
     "sites": [
       {
         "file": "apps/mobile/app/under-18.tsx",
-        "line": 136,
+        "line": 128,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -35965,7 +35941,7 @@
     "sites": [
       {
         "file": "apps/mobile/app/under-18.tsx",
-        "line": 135,
+        "line": 127,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -35984,14 +35960,14 @@
     "sites": [
       {
         "file": "apps/mobile/app/under-18.tsx",
-        "line": 138,
+        "line": 130,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/mobile/app/under-18.tsx",
-        "line": 142,
+        "line": 134,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -36022,7 +35998,7 @@
     "sites": [
       {
         "file": "apps/mobile/app/under-18.tsx",
-        "line": 122,
+        "line": 114,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -36048,14 +36024,14 @@
       },
       {
         "file": "apps/mobile/app/under-18.tsx",
-        "line": 106,
+        "line": 98,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/mobile/app/under-18.tsx",
-        "line": 111,
+        "line": 103,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -36086,7 +36062,7 @@
     "sites": [
       {
         "file": "apps/mobile/app/under-18.tsx",
-        "line": 193,
+        "line": 185,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -36105,7 +36081,7 @@
     "sites": [
       {
         "file": "apps/mobile/app/under-18.tsx",
-        "line": 198,
+        "line": 190,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -36124,7 +36100,7 @@
     "sites": [
       {
         "file": "apps/mobile/app/under-18.tsx",
-        "line": 182,
+        "line": 174,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -36150,7 +36126,7 @@
       },
       {
         "file": "apps/web/app/[lang]/profile/account-hub.tsx",
-        "line": 687,
+        "line": 686,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -36169,7 +36145,7 @@
     "sites": [
       {
         "file": "apps/mobile/app/under-18.tsx",
-        "line": 174,
+        "line": 166,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -36188,14 +36164,14 @@
     "sites": [
       {
         "file": "apps/mobile/app/under-18.tsx",
-        "line": 156,
+        "line": 148,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/mobile/app/under-18.tsx",
-        "line": 160,
+        "line": 152,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -36226,7 +36202,7 @@
     "sites": [
       {
         "file": "apps/mobile/app/under-18.tsx",
-        "line": 114,
+        "line": 106,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -37563,7 +37539,7 @@
       },
       {
         "file": "apps/web/app/[lang]/events/[slug]/door-desk.tsx",
-        "line": 350,
+        "line": 344,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -37620,7 +37596,7 @@
       },
       {
         "file": "apps/web/app/[lang]/events/[slug]/door-desk.tsx",
-        "line": 353,
+        "line": 347,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -38641,7 +38617,7 @@
       },
       {
         "file": "apps/web/app/[lang]/events/[slug]/door-desk.tsx",
-        "line": 324,
+        "line": 318,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -44335,7 +44311,7 @@
       },
       {
         "file": "apps/web/app/[lang]/events/[slug]/door-desk.tsx",
-        "line": 314,
+        "line": 308,
         "grain": "str",
         "attr": "",
         "element": ""

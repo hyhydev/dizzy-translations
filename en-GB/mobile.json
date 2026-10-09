@@ -231,7 +231,6 @@
   "mobile.ui.privacyNotice": "Privacy notice →",
   "mobile.under18.answer": "Answer",
   "mobile.under18.loadFailed": "Could not load this: {error}",
-  "mobile.under18.needsPlayer": "You can answer this once you have a player profile. We keep the answer there.",
   "mobile.under18.saveFailed": "Could not save your answer: {error}",
   "mobile.under18.saving": "Saving…",
   "mobile.whatsNew.empty": "Nothing announced yet. Dizzy changes constantly, and the moment there is enough worth telling you about, it appears here.",
