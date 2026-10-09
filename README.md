@@ -12,9 +12,11 @@ The table below is filled in automatically, so please don't edit it by hand.
 
 <!-- languages:start -->
 
-| Language     | Reviewer | Translated          | In the language menu |
-| ------------ | -------- | ------------------- | -------------------- |
-| English (UK) | @hyhydev | All (the original)  | Yes                  |
+| Language     | Reviewer | Translated                                   | In the language menu |
+| ------------ | -------- | -------------------------------------------- | -------------------- |
+| English (UK) | @hyhydev | All (the original)                           | Yes                  |
+| English (US) | @hyhydev | Only the lines that differ from English (UK) | Yes                  |
+| Deutsch      | @hyhydev | Not started yet                              | Not yet              |
 
 <!-- languages:end -->
 
