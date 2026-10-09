@@ -7318,6 +7318,30 @@
       }
     ]
   },
+  "common.table.perPage": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/page-size-select.tsx",
+        "line": 36,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "common.table.perPage.label": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/page-size-select.tsx",
+        "line": 52,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
   "common.unit.entrants": {
     "accessibleName": false,
     "sites": [
@@ -7719,7 +7743,7 @@
       },
       {
         "file": "apps/web/app/[lang]/c/[slug]/[game]/players/community-board.tsx",
-        "line": 678,
+        "line": 681,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -7822,21 +7846,21 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/c/[slug]/[game]/players/community-board.tsx",
-        "line": 485,
+        "line": 488,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/app/[lang]/c/[slug]/[game]/players/community-board.tsx",
-        "line": 740,
+        "line": 743,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/app/[lang]/c/[slug]/[game]/players/community-board.tsx",
-        "line": 1095,
+        "line": 1098,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -7855,21 +7879,21 @@
       },
       {
         "file": "apps/web/app/[lang]/c/[slug]/[game]/players/community-board.tsx",
-        "line": 484,
+        "line": 487,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/app/[lang]/c/[slug]/[game]/players/community-board.tsx",
-        "line": 739,
+        "line": 742,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/app/[lang]/c/[slug]/[game]/players/community-board.tsx",
-        "line": 1094,
+        "line": 1097,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -9447,7 +9471,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/c/[slug]/[game]/players/community-board.tsx",
-        "line": 1116,
+        "line": 1119,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -25077,7 +25101,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/players/game-directory.tsx",
-        "line": 234,
+        "line": 239,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -25089,7 +25113,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/players/game-directory.tsx",
-        "line": 154,
+        "line": 159,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -25161,7 +25185,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/players/game-directory.tsx",
-        "line": 238,
+        "line": 243,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -25447,7 +25471,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/tournaments/page.tsx",
-        "line": 197,
+        "line": 202,
         "grain": "str",
         "attr": "",
         "element": ""

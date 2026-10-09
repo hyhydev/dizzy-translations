@@ -402,6 +402,8 @@
   "common.streamQueue.onStreamOn": "A set is being broadcast right now; {handle} is the channel's name, shown after @.",
   "common.streamQueue.upNext": "A set is the next one to be broadcast, where the channel is already named nearby.",
   "common.streamQueue.upNextOn": "A set is the next one to be broadcast; {handle} is the channel's name, shown after @.",
+  "common.table.perPage": "Choice in a dropdown above a table: show {n} rows on each page. {n} is 20, 50 or 100.",
+  "common.table.perPage.label": "Accessible name of that dropdown.",
   "common.unit.entrants": "The unit word beside a separately drawn figure; {n} is the figure and only picks the plural.",
   "common.unit.games": "The unit word beside a separately drawn figure; {n} is the figure and only picks the plural.",
   "common.unit.players": "The unit word beside a figure that is drawn separately (a stat tile, a styled number); {n} is the figure and only picks the plural.",
