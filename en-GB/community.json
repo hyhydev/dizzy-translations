@@ -11,7 +11,7 @@
   "community.board.column.rating": "Rating",
   "community.board.column.winRate": "Win Rate",
   "community.board.empty": "No ranked players on this board yet.",
-  "community.board.emptySeason": "Nobody is ranked in {season} yet. A player joins a season's board once they have played two of the tournaments inside it.",
+  "community.board.emptySeason": "Nobody is ranked in {season} yet. A player joins a season's board once they have played enough of the tournaments inside it.",
   "community.board.header.allTime": "All time",
   "community.board.header.rankedIn": "ranked in {population}",
   "community.board.header.season": "Season",
@@ -132,6 +132,7 @@
   "community.panel.empty": "Select one or more players to compare.",
   "community.panel.entrants": "{n} ent",
   "community.panel.figure": "Figure",
+  "community.panel.floor": "The panel lists players with {n} or more tournaments on this board.",
   "community.panel.headlines.againstField": "Against the field",
   "community.panel.headlines.boardRank": "Board rank",
   "community.panel.headlines.captionMany": "How the selected players compare on the board's own figures",
@@ -189,7 +190,7 @@
   "community.reading.label": "Board reading",
   "community.reading.panel": "Panel",
   "community.reading.powerRanking": "Power ranking",
-  "community.seasons.noBoard.title": "{game} has no board in {season} yet. A player joins one once they have played two of the season's tournaments.",
+  "community.seasons.noBoard.title": "{game} has no board in {season} yet. A player joins one once they have played enough of the season's tournaments.",
   "community.tabs.noBoard.note": "No board",
-  "community.tabs.noBoard.title": "{community} has no {game} board yet. A player joins one once they have played two of its tournaments."
+  "community.tabs.noBoard.title": "{community} has no {game} board yet. A player joins one once they have played enough of its tournaments."
 }
