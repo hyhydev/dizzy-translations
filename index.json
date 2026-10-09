@@ -993,15 +993,8 @@
         "element": ""
       },
       {
-        "file": "apps/web/app/[lang]/dashboard/scene/board/board-caution-form.tsx",
-        "line": 266,
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      },
-      {
-        "file": "apps/web/app/[lang]/dashboard/scene/board/board-minimums-form.tsx",
-        "line": 173,
+        "file": "apps/web/app/[lang]/dashboard/scene/board/board-settings-form.tsx",
+        "line": 117,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -10252,7 +10245,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/board/board-caution-form.tsx",
-        "line": 142,
+        "line": 120,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -10264,7 +10257,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/board/board-caution-form.tsx",
-        "line": 139,
+        "line": 117,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -10276,7 +10269,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/board/board-caution-form.tsx",
-        "line": 245,
+        "line": 220,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -10288,7 +10281,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/board/board-caution-form.tsx",
-        "line": 83,
+        "line": 79,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -10300,7 +10293,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/board/board-caution-form.tsx",
-        "line": 244,
+        "line": 219,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -10312,7 +10305,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/board/board-caution-form.tsx",
-        "line": 209,
+        "line": 184,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -10324,7 +10317,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/board/board-caution-form.tsx",
-        "line": 215,
+        "line": 190,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -10336,7 +10329,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/board/board-caution-form.tsx",
-        "line": 82,
+        "line": 78,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -10348,7 +10341,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/board/board-caution-form.tsx",
-        "line": 201,
+        "line": 176,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -10360,7 +10353,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/board/board-minimums-form.tsx",
-        "line": 105,
+        "line": 90,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -10372,7 +10365,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/board/board-minimums-form.tsx",
-        "line": 102,
+        "line": 89,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -10384,7 +10377,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/board/board-minimums-form.tsx",
-        "line": 60,
+        "line": 70,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -10395,8 +10388,8 @@
     "accessibleName": false,
     "sites": [
       {
-        "file": "apps/web/app/[lang]/dashboard/scene/board/board-minimums-form.tsx",
-        "line": 177,
+        "file": "apps/web/app/[lang]/dashboard/scene/board/board-settings-form.tsx",
+        "line": 121,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -10407,8 +10400,8 @@
     "accessibleName": false,
     "sites": [
       {
-        "file": "apps/web/app/[lang]/dashboard/scene/board/board-minimums-form.tsx",
-        "line": 179,
+        "file": "apps/web/app/[lang]/dashboard/scene/board/board-settings-form.tsx",
+        "line": 123,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -10420,7 +10413,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/board/board-caution-form.tsx",
-        "line": 64,
+        "line": 60,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -10432,7 +10425,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/board/board-caution-form.tsx",
-        "line": 65,
+        "line": 61,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -10444,7 +10437,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/board/board-caution-form.tsx",
-        "line": 185,
+        "line": 160,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -10456,7 +10449,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/board/board-caution-form.tsx",
-        "line": 60,
+        "line": 56,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -10468,7 +10461,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/board/board-caution-form.tsx",
-        "line": 61,
+        "line": 57,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -10480,7 +10473,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/board/board-caution-form.tsx",
-        "line": 68,
+        "line": 64,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -10492,7 +10485,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/board/board-caution-form.tsx",
-        "line": 69,
+        "line": 65,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -10504,7 +10497,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/board/board-caution-form.tsx",
-        "line": 56,
+        "line": 52,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -10516,7 +10509,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/board/board-caution-form.tsx",
-        "line": 57,
+        "line": 53,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -10528,7 +10521,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/board/board-caution-form.tsx",
-        "line": 176,
+        "line": 151,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -10540,7 +10533,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/board/board-caution-form.tsx",
-        "line": 184,
+        "line": 159,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -10552,7 +10545,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/board/board-caution-form.tsx",
-        "line": 177,
+        "line": 152,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -10564,7 +10557,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/board/board-minimums-form.tsx",
-        "line": 138,
+        "line": 120,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -10576,7 +10569,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/board/board-minimums-form.tsx",
-        "line": 135,
+        "line": 119,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -10588,19 +10581,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/board/board-minimums-form.tsx",
-        "line": 67,
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      }
-    ]
-  },
-  "dashboard.community.board.saved": {
-    "accessibleName": false,
-    "sites": [
-      {
-        "file": "apps/web/app/[lang]/dashboard/scene/board/board-caution-form.tsx",
-        "line": 270,
+        "line": 81,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -10611,27 +10592,8 @@
     "accessibleName": false,
     "sites": [
       {
-        "file": "apps/web/app/[lang]/dashboard/scene/board/board-caution-form.tsx",
-        "line": 265,
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      },
-      {
-        "file": "apps/web/app/[lang]/dashboard/scene/board/board-minimums-form.tsx",
-        "line": 172,
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      }
-    ]
-  },
-  "dashboard.community.board.savingReranks": {
-    "accessibleName": false,
-    "sites": [
-      {
-        "file": "apps/web/app/[lang]/dashboard/scene/board/board-caution-form.tsx",
-        "line": 272,
+        "file": "apps/web/app/[lang]/dashboard/scene/board/board-settings-form.tsx",
+        "line": 116,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -10643,7 +10605,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/board/scene-board-panel.tsx",
-        "line": 39,
+        "line": 40,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -10655,7 +10617,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/board/scene-board-panel.tsx",
-        "line": 38,
+        "line": 39,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -13110,15 +13072,8 @@
     "accessibleName": false,
     "sites": [
       {
-        "file": "apps/web/app/[lang]/dashboard/scene/board/board-caution-form.tsx",
-        "line": 126,
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      },
-      {
-        "file": "apps/web/app/[lang]/dashboard/scene/board/board-minimums-form.tsx",
-        "line": 89,
+        "file": "apps/web/app/[lang]/dashboard/scene/board/board-settings-form.tsx",
+        "line": 75,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -39222,7 +39177,7 @@
       },
       {
         "file": "apps/web/app/[lang]/dashboard/scene/board/board-caution-form.tsx",
-        "line": 212,
+        "line": 187,
         "grain": "str",
         "attr": "",
         "element": ""
