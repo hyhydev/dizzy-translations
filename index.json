@@ -1000,6 +1000,13 @@
         "element": ""
       },
       {
+        "file": "apps/web/app/[lang]/dashboard/scene/board/board-minimums-form.tsx",
+        "line": 173,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
         "file": "apps/web/app/[lang]/dashboard/scene/identity/identity-form.tsx",
         "line": 153,
         "grain": "str",
@@ -7712,7 +7719,7 @@
       },
       {
         "file": "apps/web/app/[lang]/c/[slug]/[game]/players/community-board.tsx",
-        "line": 673,
+        "line": 678,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -7815,21 +7822,21 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/c/[slug]/[game]/players/community-board.tsx",
-        "line": 480,
+        "line": 485,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/app/[lang]/c/[slug]/[game]/players/community-board.tsx",
-        "line": 735,
+        "line": 740,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/app/[lang]/c/[slug]/[game]/players/community-board.tsx",
-        "line": 1072,
+        "line": 1095,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -7848,21 +7855,21 @@
       },
       {
         "file": "apps/web/app/[lang]/c/[slug]/[game]/players/community-board.tsx",
-        "line": 479,
+        "line": 484,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/app/[lang]/c/[slug]/[game]/players/community-board.tsx",
-        "line": 734,
+        "line": 739,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/app/[lang]/c/[slug]/[game]/players/community-board.tsx",
-        "line": 1071,
+        "line": 1094,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -9435,6 +9442,18 @@
       }
     ]
   },
+  "community.panel.floor": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/c/[slug]/[game]/players/community-board.tsx",
+        "line": 1116,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
   "community.panel.headlines.againstField": {
     "accessibleName": false,
     "sites": [
@@ -10312,6 +10331,66 @@
       }
     ]
   },
+  "dashboard.community.board.minimum.description": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/dashboard/scene/board/board-minimums-form.tsx",
+        "line": 104,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "dashboard.community.board.minimum.legend": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/dashboard/scene/board/board-minimums-form.tsx",
+        "line": 101,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "dashboard.community.board.minimum.option": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/dashboard/scene/board/board-minimums-form.tsx",
+        "line": 59,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "dashboard.community.board.minimum.saved": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/dashboard/scene/board/board-minimums-form.tsx",
+        "line": 177,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "dashboard.community.board.minimum.savingRelists": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/dashboard/scene/board/board-minimums-form.tsx",
+        "line": 179,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
   "dashboard.community.board.option.cautious": {
     "accessibleName": false,
     "sites": [
@@ -10456,6 +10535,42 @@
       }
     ]
   },
+  "dashboard.community.board.panelMinimum.description": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/dashboard/scene/board/board-minimums-form.tsx",
+        "line": 138,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "dashboard.community.board.panelMinimum.label": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/dashboard/scene/board/board-minimums-form.tsx",
+        "line": 135,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "dashboard.community.board.panelMinimum.same": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/dashboard/scene/board/board-minimums-form.tsx",
+        "line": 66,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
   "dashboard.community.board.saved": {
     "accessibleName": false,
     "sites": [
@@ -10474,6 +10589,13 @@
       {
         "file": "apps/web/app/[lang]/dashboard/scene/board/board-caution-form.tsx",
         "line": 264,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
+        "file": "apps/web/app/[lang]/dashboard/scene/board/board-minimums-form.tsx",
+        "line": 172,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -10497,7 +10619,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/board/scene-board-panel.tsx",
-        "line": 34,
+        "line": 39,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -10509,7 +10631,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/board/scene-board-panel.tsx",
-        "line": 33,
+        "line": 38,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -12971,6 +13093,13 @@
         "element": ""
       },
       {
+        "file": "apps/web/app/[lang]/dashboard/scene/board/board-minimums-form.tsx",
+        "line": 88,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
         "file": "apps/web/app/[lang]/dashboard/scene/import/name-matching-form.tsx",
         "line": 42,
         "grain": "str",
@@ -14488,7 +14617,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/seasons/season-form.tsx",
-        "line": 204,
+        "line": 205,
         "grain": "str",
         "attr": "",
         "element": ""
