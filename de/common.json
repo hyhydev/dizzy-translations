@@ -459,6 +459,8 @@
   "common.streamQueue.onStreamOn": "",
   "common.streamQueue.upNext": "",
   "common.streamQueue.upNextOn": "",
+  "common.table.perPage": "",
+  "common.table.perPage.label": "",
   "common.unit.entrants": "",
   "common.unit.games": "",
   "common.unit.players": "",
