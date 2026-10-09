@@ -13,6 +13,17 @@ name: guards
 # glossary, each language's basis.json and the tooling itself) change only
 # through the sync's own pull request, so any other pull request that touches
 # them fails here with a note saying why.
+#
+# On a pull request the checks run over the pull request's own commit, not
+# over its test merge into main. The key check compares every language with
+# the English in the same checkout, and the test merge carries whatever
+# English the sync has brought to main since the branch was made, so a pull
+# request that was green when it was opened would go red the moment a sync
+# landed, over lines its author never touched. The branch is consistent with
+# the English it was written against, and the sync lines every language up
+# with the newest English again on merge, so that is the English to check
+# against. The ownership step above keeps the test merge, since it diffs
+# from main.
 
 on:
   pull_request:
@@ -48,6 +59,9 @@ jobs:
             done
             exit 1
           fi
+      - name: Check the pull request's own commit, not its merge with main
+        if: github.event_name == 'pull_request'
+        run: git checkout --quiet --detach "${{ github.event.pull_request.head.sha }}"
       - uses: oven-sh/setup-bun@v2
         with:
           bun-version: 1.3.13
