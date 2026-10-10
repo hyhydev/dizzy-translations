@@ -1082,14 +1082,14 @@
       },
       {
         "file": "apps/web/components/community/power-ranking-entry-dialog.tsx",
-        "line": 382,
+        "line": 383,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/components/community/power-ranking-entry-dialog.tsx",
-        "line": 610,
+        "line": 616,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -1150,7 +1150,7 @@
       },
       {
         "file": "apps/web/app/[lang]/events/[slug]/event-details-form.tsx",
-        "line": 492,
+        "line": 529,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -4258,7 +4258,7 @@
       },
       {
         "file": "apps/web/components/community/power-ranking-reading.tsx",
-        "line": 347,
+        "line": 355,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -6856,7 +6856,7 @@
       },
       {
         "file": "apps/web/app/[lang]/events/[slug]/event-settings-panels.tsx",
-        "line": 405,
+        "line": 406,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -6875,7 +6875,7 @@
       },
       {
         "file": "apps/web/app/[lang]/events/[slug]/event-settings-panels.tsx",
-        "line": 383,
+        "line": 384,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -6894,7 +6894,7 @@
       },
       {
         "file": "apps/web/app/[lang]/events/[slug]/event-settings-panels.tsx",
-        "line": 393,
+        "line": 394,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -6920,7 +6920,7 @@
       },
       {
         "file": "apps/web/app/[lang]/events/[slug]/event-settings-panels.tsx",
-        "line": 838,
+        "line": 839,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -6953,7 +6953,7 @@
       },
       {
         "file": "apps/web/app/[lang]/events/[slug]/event-settings-panels.tsx",
-        "line": 273,
+        "line": 274,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -6986,7 +6986,7 @@
       },
       {
         "file": "apps/web/app/[lang]/events/[slug]/event-settings-panels.tsx",
-        "line": 415,
+        "line": 416,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -7038,14 +7038,14 @@
       },
       {
         "file": "apps/web/app/[lang]/events/[slug]/event-settings-panels.tsx",
-        "line": 765,
+        "line": 766,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/app/[lang]/events/[slug]/event-settings-panels.tsx",
-        "line": 783,
+        "line": 784,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -7226,7 +7226,7 @@
       },
       {
         "file": "apps/web/app/[lang]/events/[slug]/event-details-form.tsx",
-        "line": 491,
+        "line": 528,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -9862,14 +9862,14 @@
     "sites": [
       {
         "file": "apps/web/components/community/power-ranking-entry-dialog.tsx",
-        "line": 168,
+        "line": 169,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/components/community/power-ranking-reading.tsx",
-        "line": 93,
+        "line": 94,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -9881,7 +9881,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/power-ranking-reading.tsx",
-        "line": 187,
+        "line": 188,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -9893,7 +9893,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/power-ranking-reading.tsx",
-        "line": 155,
+        "line": 156,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -9929,7 +9929,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/power-ranking-reading.tsx",
-        "line": 209,
+        "line": 210,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -9941,7 +9941,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/power-ranking-reading.tsx",
-        "line": 242,
+        "line": 243,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -9953,7 +9953,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/power-ranking-reading.tsx",
-        "line": 239,
+        "line": 240,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -9965,7 +9965,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/power-ranking-reading.tsx",
-        "line": 177,
+        "line": 178,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -9977,14 +9977,14 @@
     "sites": [
       {
         "file": "apps/web/components/community/power-ranking-entry-dialog.tsx",
-        "line": 558,
+        "line": 564,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/components/community/power-ranking-reading.tsx",
-        "line": 343,
+        "line": 351,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -9996,7 +9996,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/power-ranking-reading.tsx",
-        "line": 385,
+        "line": 402,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -10008,7 +10008,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/power-ranking-entry-dialog.tsx",
-        "line": 559,
+        "line": 565,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -10020,14 +10020,14 @@
     "sites": [
       {
         "file": "apps/web/components/community/power-ranking-entry-dialog.tsx",
-        "line": 581,
+        "line": 587,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/components/community/power-ranking-reading.tsx",
-        "line": 398,
+        "line": 421,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -10039,14 +10039,14 @@
     "sites": [
       {
         "file": "apps/web/components/community/power-ranking-entry-dialog.tsx",
-        "line": 572,
+        "line": 578,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/components/community/power-ranking-reading.tsx",
-        "line": 392,
+        "line": 415,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -10058,7 +10058,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/power-ranking-reading.tsx",
-        "line": 384,
+        "line": 401,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -10070,7 +10070,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/power-ranking-reading.tsx",
-        "line": 321,
+        "line": 322,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -10082,7 +10082,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/power-ranking-reading.tsx",
-        "line": 160,
+        "line": 161,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -10094,7 +10094,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/power-ranking-reading.tsx",
-        "line": 145,
+        "line": 146,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -10113,14 +10113,14 @@
       },
       {
         "file": "apps/web/components/community/power-ranking-entry-dialog.tsx",
-        "line": 166,
+        "line": 167,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/components/community/power-ranking-reading.tsx",
-        "line": 91,
+        "line": 92,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -10132,7 +10132,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/power-ranking-reading.tsx",
-        "line": 310,
+        "line": 311,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -14014,7 +14014,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/power-ranking-entry-dialog.tsx",
-        "line": 150,
+        "line": 151,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -14026,7 +14026,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/power-ranking-entry-dialog.tsx",
-        "line": 193,
+        "line": 194,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -14038,7 +14038,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/power-ranking-entry-dialog.tsx",
-        "line": 151,
+        "line": 152,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -14050,7 +14050,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/power-ranking-entry-dialog.tsx",
-        "line": 184,
+        "line": 185,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -14062,14 +14062,14 @@
     "sites": [
       {
         "file": "apps/web/components/community/power-ranking-entry-dialog.tsx",
-        "line": 405,
+        "line": 406,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/components/community/power-ranking-entry-dialog.tsx",
-        "line": 518,
+        "line": 519,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -14081,7 +14081,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/power-ranking-entry-dialog.tsx",
-        "line": 514,
+        "line": 515,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -14093,7 +14093,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/power-ranking-entry-dialog.tsx",
-        "line": 501,
+        "line": 502,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -14105,7 +14105,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/power-ranking-entry-dialog.tsx",
-        "line": 409,
+        "line": 410,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -14117,7 +14117,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/power-ranking-entry-dialog.tsx",
-        "line": 504,
+        "line": 505,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -14129,14 +14129,14 @@
     "sites": [
       {
         "file": "apps/web/components/community/power-ranking-entry-dialog.tsx",
-        "line": 247,
+        "line": 248,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/components/community/power-ranking-entry-dialog.tsx",
-        "line": 336,
+        "line": 337,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -14148,7 +14148,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/power-ranking-entry-dialog.tsx",
-        "line": 263,
+        "line": 264,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -14160,7 +14160,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/power-ranking-entry-dialog.tsx",
-        "line": 251,
+        "line": 252,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -14172,7 +14172,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/power-ranking-entry-dialog.tsx",
-        "line": 255,
+        "line": 256,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -14184,7 +14184,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/power-ranking-entry-dialog.tsx",
-        "line": 342,
+        "line": 343,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -14196,14 +14196,14 @@
     "sites": [
       {
         "file": "apps/web/components/community/power-ranking-entry-dialog.tsx",
-        "line": 348,
+        "line": 349,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/components/community/power-ranking-entry-dialog.tsx",
-        "line": 353,
+        "line": 354,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -14215,7 +14215,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/power-ranking-entry-dialog.tsx",
-        "line": 372,
+        "line": 373,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -16247,7 +16247,7 @@
       },
       {
         "file": "apps/web/components/community/power-ranking-entry-dialog.tsx",
-        "line": 510,
+        "line": 511,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -19087,7 +19087,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/event-settings-panels.tsx",
-        "line": 841,
+        "line": 842,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -19130,7 +19130,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/event-settings-panels.tsx",
-        "line": 842,
+        "line": 843,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -19567,7 +19567,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/event-details-form.tsx",
-        "line": 450,
+        "line": 459,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -19586,7 +19586,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/event-details-form.tsx",
-        "line": 203,
+        "line": 212,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -19612,7 +19612,7 @@
       },
       {
         "file": "apps/web/app/[lang]/events/[slug]/event-details-form.tsx",
-        "line": 459,
+        "line": 468,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -19631,7 +19631,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/event-details-form.tsx",
-        "line": 305,
+        "line": 314,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -19643,7 +19643,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/event-details-form.tsx",
-        "line": 335,
+        "line": 344,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -19655,7 +19655,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/event-details-form.tsx",
-        "line": 317,
+        "line": 326,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -19667,14 +19667,14 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/event-details-form.tsx",
-        "line": 153,
+        "line": 162,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/app/[lang]/events/[slug]/event-details-form.tsx",
-        "line": 325,
+        "line": 334,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -19686,7 +19686,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/event-details-form.tsx",
-        "line": 406,
+        "line": 415,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -19705,7 +19705,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/event-details-form.tsx",
-        "line": 391,
+        "line": 400,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -19717,7 +19717,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/event-details-form.tsx",
-        "line": 356,
+        "line": 365,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -19736,7 +19736,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/event-details-form.tsx",
-        "line": 362,
+        "line": 371,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -19755,7 +19755,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/event-details-form.tsx",
-        "line": 344,
+        "line": 353,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -19774,7 +19774,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/event-details-form.tsx",
-        "line": 350,
+        "line": 359,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -19793,7 +19793,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/event-details-form.tsx",
-        "line": 257,
+        "line": 266,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -19812,7 +19812,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/event-details-form.tsx",
-        "line": 193,
+        "line": 202,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -19831,7 +19831,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/event-details-form.tsx",
-        "line": 274,
+        "line": 283,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -19843,7 +19843,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/event-details-form.tsx",
-        "line": 288,
+        "line": 297,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -19855,7 +19855,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/event-details-form.tsx",
-        "line": 438,
+        "line": 447,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -19874,7 +19874,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/event-details-form.tsx",
-        "line": 426,
+        "line": 435,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -19893,7 +19893,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/event-details-form.tsx",
-        "line": 28,
+        "line": 36,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -19905,7 +19905,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/event-details-form.tsx",
-        "line": 30,
+        "line": 38,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -19917,7 +19917,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/event-details-form.tsx",
-        "line": 29,
+        "line": 37,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -19929,7 +19929,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/event-details-form.tsx",
-        "line": 379,
+        "line": 388,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -19941,7 +19941,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/event-details-form.tsx",
-        "line": 197,
+        "line": 206,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -21164,6 +21164,49 @@
       }
     ]
   },
+  "event.icon.hint": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/events/[slug]/event-details-form.tsx",
+        "line": 492,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "event.icon.max": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/events/[slug]/event-details-form.tsx",
+        "line": 492,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
+        "file": "apps/web/app/[lang]/events/[slug]/event-details-form.tsx",
+        "line": 495,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "event.icon.title": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/events/[slug]/event-details-form.tsx",
+        "line": 491,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
   "event.masthead.attending": {
     "accessibleName": false,
     "sites": [
@@ -22240,7 +22283,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/event-settings-panels.tsx",
-        "line": 590,
+        "line": 591,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -22252,7 +22295,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/event-settings-panels.tsx",
-        "line": 587,
+        "line": 588,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -22264,7 +22307,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/event-settings-panels.tsx",
-        "line": 568,
+        "line": 569,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -22276,7 +22319,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/event-settings-panels.tsx",
-        "line": 566,
+        "line": 567,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -23951,7 +23994,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/event-settings-panels.tsx",
-        "line": 786,
+        "line": 787,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -24312,7 +24355,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/event-settings-panels.tsx",
-        "line": 374,
+        "line": 375,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -24324,7 +24367,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/event-settings-panels.tsx",
-        "line": 365,
+        "line": 366,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -24336,7 +24379,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/event-settings-panels.tsx",
-        "line": 356,
+        "line": 357,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -24348,7 +24391,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/event-settings-panels.tsx",
-        "line": 728,
+        "line": 729,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -24367,7 +24410,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/event-settings-panels.tsx",
-        "line": 642,
+        "line": 643,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -24386,7 +24429,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/event-settings-panels.tsx",
-        "line": 698,
+        "line": 699,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -24405,7 +24448,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/event-settings-panels.tsx",
-        "line": 542,
+        "line": 543,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -24424,7 +24467,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/event-settings-panels.tsx",
-        "line": 809,
+        "line": 810,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -24443,7 +24486,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/event-settings-panels.tsx",
-        "line": 477,
+        "line": 478,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -24951,7 +24994,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/event-settings-panels.tsx",
-        "line": 499,
+        "line": 500,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -25006,7 +25049,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/event-settings-panels.tsx",
-        "line": 486,
+        "line": 487,
         "grain": "str",
         "attr": "",
         "element": ""
