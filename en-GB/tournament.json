@@ -248,7 +248,6 @@
   "tournament.lens.noEntrants": "No entrants to show yet.",
   "tournament.lens.preBracket": "This tournament hasn't started yet. The bracket will appear here once the host generates it.",
   "tournament.lens.registrationOpen": "Registration is open",
-  "tournament.masthead.back.all": "All tournaments",
   "tournament.masthead.back.event": "Event",
   "tournament.masthead.entered": "<b>{n}</b> entered",
   "tournament.masthead.inGames": "{won}–{lost} in games",

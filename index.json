@@ -41002,24 +41002,12 @@
       }
     ]
   },
-  "tournament.masthead.back.all": {
-    "accessibleName": false,
-    "sites": [
-      {
-        "file": "apps/web/app/[lang]/[game]/t/[slug]/tournament-masthead.tsx",
-        "line": 459,
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      }
-    ]
-  },
   "tournament.masthead.back.event": {
     "accessibleName": false,
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/tournament-masthead.tsx",
-        "line": 460,
+        "line": 453,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -41031,7 +41019,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/tournament-masthead.tsx",
-        "line": 531,
+        "line": 524,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -41067,7 +41055,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/tournament-masthead.tsx",
-        "line": 667,
+        "line": 660,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -41079,7 +41067,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/tournament-masthead.tsx",
-        "line": 568,
+        "line": 561,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -41091,7 +41079,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/tournament-masthead.tsx",
-        "line": 536,
+        "line": 529,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -41103,7 +41091,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/tournament-masthead.tsx",
-        "line": 554,
+        "line": 547,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -41115,7 +41103,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/tournament-masthead.tsx",
-        "line": 509,
+        "line": 502,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -41127,7 +41115,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/tournament-masthead.tsx",
-        "line": 544,
+        "line": 537,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -41146,7 +41134,7 @@
       },
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/tournament-masthead.tsx",
-        "line": 508,
+        "line": 501,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42289,7 +42277,7 @@
       },
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/tournament-masthead.tsx",
-        "line": 644,
+        "line": 637,
         "grain": "str",
         "attr": "",
         "element": ""

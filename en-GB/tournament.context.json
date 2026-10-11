@@ -211,7 +211,6 @@
   "tournament.lens.noEntrants": "The entrant list when there is nobody to show.",
   "tournament.lens.preBracket": "Before the bracket exists.",
   "tournament.lens.registrationOpen": "Heading before the bracket exists, while players can still enter.",
-  "tournament.masthead.back.all": "Back link at the top of an imported tournament: the list of tournaments.",
   "tournament.masthead.back.event": "Back link at the top of a tournament: its event.",
   "tournament.masthead.entered": "In the line under the name, before play: how many entered. `<b>` wraps the number.",
   "tournament.masthead.inGames": "The champion's game record, wins then losses.",
