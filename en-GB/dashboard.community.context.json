@@ -257,6 +257,7 @@
   "dashboard.community.powerRanking.delete.confirm": "Question asked before deleting a power ranking; {name} is its title.",
   "dashboard.community.powerRanking.delete.keep": "Button that cancels deleting a power ranking.",
   "dashboard.community.powerRanking.discard.confirm": "Question asked before throwing away unsaved changes to a power ranking.",
+  "dashboard.community.powerRanking.entry.discard.confirm": "Question asked when a curator would leave an entry's dialog, or step to another entry, with unsaved changes.",
   "dashboard.community.powerRanking.entry.mention": "Eyebrow over the entry dialog for an honourable mention, in place of a position.",
   "dashboard.community.powerRanking.entry.position": "Eyebrow over the entry dialog: the player's position on the list.",
   "dashboard.community.powerRanking.entry.writeUp.by": "Note under the Write-up line; {names} is a comma-separated list of its writers.",
