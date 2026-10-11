@@ -347,8 +347,6 @@
   "common.og.player.rankedIn": "Ranked #{rank} in {community}",
   "common.og.player.rating": "Rating {rating}",
   "common.og.player.unranked": "Unranked",
-  "common.og.players.description": "Every {game} player on Dizzy: who they are, where they play, and how they stand on their own community's board.",
-  "common.og.players.title": "{game} Players",
   "common.og.section": "{community} {section}",
   "common.og.series.kind": "Tournament series on Dizzy",
   "common.og.top8.description": "Top 8 results for {tournament} · {game}",

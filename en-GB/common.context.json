@@ -306,8 +306,6 @@
   "common.og.player.rankedIn": "In a player's link-preview summary: their place on a community's board. {rank} is the place, {community} the community's name.",
   "common.og.player.rating": "In a player's link-preview summary: their rating number, {rating}.",
   "common.og.player.unranked": "In a player's link-preview summary, when no community's board ranks them.",
-  "common.og.players.description": "Link-preview description of a game's player directory. {game} is a game title; Dizzy is the site's name.",
-  "common.og.players.title": "Link-preview and tab title of a game's player directory. {game} is a game title.",
   "common.og.section": "Link-preview and tab title of one section of a community's pages: {community} is the community's name, {section} the section's own title (for example Tournaments, or Upcoming events).",
   "common.og.series.kind": "Opening of a series' link-preview summary. A series is a run of recurring tournaments; Dizzy is the site's name.",
   "common.og.top8.description": "Link-preview description of a tournament's top-eight page. {tournament} is the tournament's name, {game} the game title.",
