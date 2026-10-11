@@ -242,13 +242,6 @@
         "element": ""
       },
       {
-        "file": "apps/web/app/[lang]/series/[slug]/series-slug-editor.tsx",
-        "line": 95,
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      },
-      {
         "file": "apps/web/components/admin-form-dialog.tsx",
         "line": 66,
         "grain": "str",
@@ -796,8 +789,8 @@
         "element": ""
       },
       {
-        "file": "apps/web/app/[lang]/dashboard/scene/series/series-people-dialog.tsx",
-        "line": 362,
+        "file": "apps/web/app/[lang]/dashboard/scene/series/series-dialog.tsx",
+        "line": 488,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -1053,22 +1046,22 @@
         "element": ""
       },
       {
-        "file": "apps/web/app/[lang]/dashboard/scene/series/series-people-dialog.tsx",
-        "line": 156,
+        "file": "apps/web/app/[lang]/dashboard/scene/series/series-dialog.tsx",
+        "line": 142,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
-        "file": "apps/web/app/[lang]/dashboard/scene/series/series-people-dialog.tsx",
-        "line": 325,
+        "file": "apps/web/app/[lang]/dashboard/scene/series/series-dialog.tsx",
+        "line": 282,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
-        "file": "apps/web/app/[lang]/series/[slug]/series-slug-editor.tsx",
-        "line": 84,
+        "file": "apps/web/app/[lang]/dashboard/scene/series/series-dialog.tsx",
+        "line": 451,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -5185,7 +5178,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/series/[slug]/page.tsx",
-        "line": 172,
+        "line": 161,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -15426,14 +15419,14 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/series/community-series-table.tsx",
-        "line": 112,
+        "line": 117,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
-        "file": "apps/web/app/[lang]/dashboard/scene/series/series-people-dialog.tsx",
-        "line": 417,
+        "file": "apps/web/app/[lang]/dashboard/scene/series/series-dialog.tsx",
+        "line": 543,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -15445,7 +15438,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/series/community-series-table.tsx",
-        "line": 108,
+        "line": 113,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -15457,7 +15450,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/series/community-series-table.tsx",
-        "line": 90,
+        "line": 95,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -15553,7 +15546,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/series/community-series-table.tsx",
-        "line": 193,
+        "line": 211,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -15564,8 +15557,58 @@
     "accessibleName": false,
     "sites": [
       {
-        "file": "apps/web/app/[lang]/dashboard/scene/series/series-people-dialog.tsx",
-        "line": 396,
+        "file": "apps/web/app/[lang]/dashboard/scene/series/series-dialog.tsx",
+        "line": 522,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "dashboard.community.series.icon": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/dashboard/scene/series/series-dialog.tsx",
+        "line": 159,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
+        "file": "apps/web/app/[lang]/dashboard/scene/series/series-dialog.tsx",
+        "line": 168,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "dashboard.community.series.icon.hint": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/dashboard/scene/series/series-dialog.tsx",
+        "line": 169,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "dashboard.community.series.icon.max": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/dashboard/scene/series/series-dialog.tsx",
+        "line": 170,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
+        "file": "apps/web/app/[lang]/dashboard/scene/series/series-dialog.tsx",
+        "line": 174,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -15576,8 +15619,8 @@
     "accessibleName": false,
     "sites": [
       {
-        "file": "apps/web/app/[lang]/dashboard/scene/series/series-people-dialog.tsx",
-        "line": 357,
+        "file": "apps/web/app/[lang]/dashboard/scene/series/series-dialog.tsx",
+        "line": 483,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -15589,14 +15632,14 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/series/community-series-table.tsx",
-        "line": 155,
+        "line": 171,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
-        "file": "apps/web/app/[lang]/dashboard/scene/series/series-people-dialog.tsx",
-        "line": 105,
+        "file": "apps/web/app/[lang]/dashboard/scene/series/series-dialog.tsx",
+        "line": 231,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -15607,22 +15650,22 @@
     "accessibleName": false,
     "sites": [
       {
-        "file": "apps/web/app/[lang]/dashboard/scene/series/series-people-dialog.tsx",
-        "line": 115,
+        "file": "apps/web/app/[lang]/dashboard/scene/series/series-dialog.tsx",
+        "line": 241,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
-        "file": "apps/web/app/[lang]/dashboard/scene/series/series-people-dialog.tsx",
-        "line": 233,
+        "file": "apps/web/app/[lang]/dashboard/scene/series/series-dialog.tsx",
+        "line": 359,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
-        "file": "apps/web/app/[lang]/dashboard/scene/series/series-people-dialog.tsx",
-        "line": 409,
+        "file": "apps/web/app/[lang]/dashboard/scene/series/series-dialog.tsx",
+        "line": 535,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -15633,15 +15676,15 @@
     "accessibleName": false,
     "sites": [
       {
-        "file": "apps/web/app/[lang]/dashboard/scene/series/series-people-dialog.tsx",
-        "line": 109,
+        "file": "apps/web/app/[lang]/dashboard/scene/series/series-dialog.tsx",
+        "line": 235,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
-        "file": "apps/web/app/[lang]/dashboard/scene/series/series-people-dialog.tsx",
-        "line": 407,
+        "file": "apps/web/app/[lang]/dashboard/scene/series/series-dialog.tsx",
+        "line": 533,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -15652,8 +15695,8 @@
     "accessibleName": false,
     "sites": [
       {
-        "file": "apps/web/app/[lang]/dashboard/scene/series/series-people-dialog.tsx",
-        "line": 137,
+        "file": "apps/web/app/[lang]/dashboard/scene/series/series-dialog.tsx",
+        "line": 263,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -15664,8 +15707,8 @@
     "accessibleName": false,
     "sites": [
       {
-        "file": "apps/web/app/[lang]/dashboard/scene/series/series-people-dialog.tsx",
-        "line": 96,
+        "file": "apps/web/app/[lang]/dashboard/scene/series/series-dialog.tsx",
+        "line": 222,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -15676,8 +15719,8 @@
     "accessibleName": false,
     "sites": [
       {
-        "file": "apps/web/app/[lang]/dashboard/scene/series/series-people-dialog.tsx",
-        "line": 97,
+        "file": "apps/web/app/[lang]/dashboard/scene/series/series-dialog.tsx",
+        "line": 223,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -15688,8 +15731,8 @@
     "accessibleName": false,
     "sites": [
       {
-        "file": "apps/web/app/[lang]/dashboard/scene/series/series-people-dialog.tsx",
-        "line": 91,
+        "file": "apps/web/app/[lang]/dashboard/scene/series/series-dialog.tsx",
+        "line": 217,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -15700,8 +15743,8 @@
     "accessibleName": false,
     "sites": [
       {
-        "file": "apps/web/app/[lang]/dashboard/scene/series/series-people-dialog.tsx",
-        "line": 129,
+        "file": "apps/web/app/[lang]/dashboard/scene/series/series-dialog.tsx",
+        "line": 255,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -15712,8 +15755,44 @@
     "accessibleName": false,
     "sites": [
       {
-        "file": "apps/web/app/[lang]/dashboard/scene/series/series-people-dialog.tsx",
+        "file": "apps/web/app/[lang]/dashboard/scene/series/series-dialog.tsx",
+        "line": 230,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "dashboard.community.series.permalink": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/dashboard/scene/series/series-dialog.tsx",
+        "line": 109,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "dashboard.community.series.permalink.format": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/dashboard/scene/series/series-dialog.tsx",
         "line": 104,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "dashboard.community.series.permalink.input": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/dashboard/scene/series/series-dialog.tsx",
+        "line": 123,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -15725,7 +15804,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/series/community-series-table.tsx",
-        "line": 160,
+        "line": 176,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -15736,15 +15815,15 @@
     "accessibleName": false,
     "sites": [
       {
-        "file": "apps/web/app/[lang]/dashboard/scene/series/series-people-dialog.tsx",
-        "line": 225,
+        "file": "apps/web/app/[lang]/dashboard/scene/series/series-dialog.tsx",
+        "line": 351,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
-        "file": "apps/web/app/[lang]/dashboard/scene/series/series-people-dialog.tsx",
-        "line": 412,
+        "file": "apps/web/app/[lang]/dashboard/scene/series/series-dialog.tsx",
+        "line": 538,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -15755,8 +15834,8 @@
     "accessibleName": false,
     "sites": [
       {
-        "file": "apps/web/app/[lang]/dashboard/scene/series/series-people-dialog.tsx",
-        "line": 199,
+        "file": "apps/web/app/[lang]/dashboard/scene/series/series-dialog.tsx",
+        "line": 325,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -15767,8 +15846,8 @@
     "accessibleName": false,
     "sites": [
       {
-        "file": "apps/web/app/[lang]/dashboard/scene/series/series-people-dialog.tsx",
-        "line": 266,
+        "file": "apps/web/app/[lang]/dashboard/scene/series/series-dialog.tsx",
+        "line": 392,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -15786,8 +15865,8 @@
         "element": ""
       },
       {
-        "file": "apps/web/app/[lang]/dashboard/scene/series/series-people-dialog.tsx",
-        "line": 229,
+        "file": "apps/web/app/[lang]/dashboard/scene/series/series-dialog.tsx",
+        "line": 355,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -15798,8 +15877,8 @@
     "accessibleName": false,
     "sites": [
       {
-        "file": "apps/web/app/[lang]/dashboard/scene/series/series-people-dialog.tsx",
-        "line": 269,
+        "file": "apps/web/app/[lang]/dashboard/scene/series/series-dialog.tsx",
+        "line": 395,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -15810,8 +15889,8 @@
     "accessibleName": false,
     "sites": [
       {
-        "file": "apps/web/app/[lang]/dashboard/scene/series/series-people-dialog.tsx",
-        "line": 204,
+        "file": "apps/web/app/[lang]/dashboard/scene/series/series-dialog.tsx",
+        "line": 330,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -15822,8 +15901,8 @@
     "accessibleName": false,
     "sites": [
       {
-        "file": "apps/web/app/[lang]/dashboard/scene/series/series-people-dialog.tsx",
-        "line": 283,
+        "file": "apps/web/app/[lang]/dashboard/scene/series/series-dialog.tsx",
+        "line": 409,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -15835,7 +15914,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/series/community-series-table.tsx",
-        "line": 31,
+        "line": 36,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -15847,7 +15926,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/series/community-series-table.tsx",
-        "line": 26,
+        "line": 31,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -16041,7 +16120,7 @@
       },
       {
         "file": "apps/web/app/[lang]/dashboard/scene/series/community-series-table.tsx",
-        "line": 122,
+        "line": 127,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -16081,7 +16160,7 @@
       },
       {
         "file": "apps/web/app/[lang]/dashboard/scene/series/community-series-table.tsx",
-        "line": 75,
+        "line": 80,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -16107,7 +16186,7 @@
       },
       {
         "file": "apps/web/app/[lang]/dashboard/scene/series/community-series-table.tsx",
-        "line": 29,
+        "line": 34,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -37291,7 +37370,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/series/[slug]/page.tsx",
-        "line": 162,
+        "line": 153,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -37303,7 +37382,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/series/[slug]/page.tsx",
-        "line": 201,
+        "line": 171,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -37340,49 +37419,6 @@
       {
         "file": "apps/web/app/[lang]/series/[slug]/series-honours.tsx",
         "line": 52,
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      }
-    ]
-  },
-  "series.icon.hint": {
-    "accessibleName": false,
-    "sites": [
-      {
-        "file": "apps/web/app/[lang]/series/[slug]/series-icon-field.tsx",
-        "line": 31,
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      }
-    ]
-  },
-  "series.icon.max": {
-    "accessibleName": false,
-    "sites": [
-      {
-        "file": "apps/web/app/[lang]/series/[slug]/series-icon-field.tsx",
-        "line": 31,
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      },
-      {
-        "file": "apps/web/app/[lang]/series/[slug]/series-icon-field.tsx",
-        "line": 34,
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      }
-    ]
-  },
-  "series.icon.title": {
-    "accessibleName": false,
-    "sites": [
-      {
-        "file": "apps/web/app/[lang]/series/[slug]/series-icon-field.tsx",
-        "line": 30,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -37473,42 +37509,6 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/series/[slug]/series-masthead.tsx",
-        "line": 73,
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      }
-    ]
-  },
-  "series.slug.edit": {
-    "accessibleName": false,
-    "sites": [
-      {
-        "file": "apps/web/app/[lang]/series/[slug]/series-slug-editor.tsx",
-        "line": 53,
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      }
-    ]
-  },
-  "series.slug.format": {
-    "accessibleName": false,
-    "sites": [
-      {
-        "file": "apps/web/app/[lang]/series/[slug]/series-slug-editor.tsx",
-        "line": 35,
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      }
-    ]
-  },
-  "series.slug.input": {
-    "accessibleName": false,
-    "sites": [
-      {
-        "file": "apps/web/app/[lang]/series/[slug]/series-slug-editor.tsx",
         "line": 73,
         "grain": "str",
         "attr": "",
