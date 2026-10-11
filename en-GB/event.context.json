@@ -300,7 +300,6 @@
   "event.masthead.online": "The event is held online.",
   "event.masthead.private": "The event is not published; only its staff can see it.",
   "event.masthead.quiet": "On a live event when no set is being played or called.",
-  "event.masthead.results": "Link to a finished event's results.",
   "event.masthead.setsOf": "Beside the sets-played figure: out of how many. `{total}` is a number.",
   "event.masthead.setsPlayed": "Label of a figure on a live event: sets finished so far.",
   "event.masthead.tbd": "Stands in for a player not decided yet: to be decided.",
