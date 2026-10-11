@@ -7442,13 +7442,6 @@
         "grain": "str",
         "attr": "",
         "element": ""
-      },
-      {
-        "file": "apps/web/app/[lang]/players/[id]/page.tsx",
-        "line": 224,
-        "grain": "str",
-        "attr": "",
-        "element": ""
       }
     ]
   },
@@ -7487,8 +7480,8 @@
         "element": ""
       },
       {
-        "file": "apps/web/app/[lang]/players/[id]/page.tsx",
-        "line": 221,
+        "file": "apps/web/app/[lang]/players/[id]/player-history.tsx",
+        "line": 450,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -31663,7 +31656,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/players/[id]/page.tsx",
-        "line": 638,
+        "line": 574,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -32198,7 +32191,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/players/[id]/page.tsx",
-        "line": 945,
+        "line": 881,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -32217,7 +32210,7 @@
       },
       {
         "file": "apps/web/app/[lang]/players/[id]/page.tsx",
-        "line": 934,
+        "line": 870,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -32908,7 +32901,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/players/[id]/page.tsx",
-        "line": 920,
+        "line": 856,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -33047,7 +33040,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/players/[id]/page.tsx",
-        "line": 910,
+        "line": 846,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -33059,7 +33052,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/players/[id]/page.tsx",
-        "line": 905,
+        "line": 841,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -33222,7 +33215,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/players/[id]/page.tsx",
-        "line": 655,
+        "line": 591,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -33493,7 +33486,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/players/[id]/page.tsx",
-        "line": 880,
+        "line": 816,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -33517,7 +33510,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/players/[id]/page.tsx",
-        "line": 884,
+        "line": 820,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -33541,7 +33534,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/players/[id]/page.tsx",
-        "line": 879,
+        "line": 815,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -33553,7 +33546,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/players/[id]/page.tsx",
-        "line": 863,
+        "line": 799,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -33692,7 +33685,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/players/[id]/page.tsx",
-        "line": 727,
+        "line": 663,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -33879,14 +33872,14 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/players/[id]/player-history.tsx",
-        "line": 153,
+        "line": 156,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/app/[lang]/players/[id]/player-history.tsx",
-        "line": 267,
+        "line": 270,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -33898,7 +33891,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/players/[id]/player-history.tsx",
-        "line": 150,
+        "line": 153,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -33910,7 +33903,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/players/[id]/page.tsx",
-        "line": 815,
+        "line": 751,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -33922,7 +33915,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/players/[id]/player-history.tsx",
-        "line": 327,
+        "line": 330,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -33934,7 +33927,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/players/[id]/player-history.tsx",
-        "line": 289,
+        "line": 292,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -33946,7 +33939,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/players/[id]/player-history.tsx",
-        "line": 294,
+        "line": 297,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -33958,7 +33951,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/players/[id]/player-history.tsx",
-        "line": 64,
+        "line": 67,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -33970,7 +33963,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/players/[id]/player-history.tsx",
-        "line": 63,
+        "line": 66,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -33982,7 +33975,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/players/[id]/page.tsx",
-        "line": 796,
+        "line": 732,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -33994,7 +33987,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/players/[id]/player-history.tsx",
-        "line": 173,
+        "line": 176,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -34006,7 +33999,43 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/players/[id]/player-history.tsx",
-        "line": 180,
+        "line": 183,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "player.hosted.column.event": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/players/[id]/player-history.tsx",
+        "line": 427,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "player.hosted.column.tournaments": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/players/[id]/player-history.tsx",
+        "line": 426,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "player.hosted.row": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/players/[id]/player-history.tsx",
+        "line": 437,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -34018,7 +34047,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/players/[id]/page.tsx",
-        "line": 836,
+        "line": 772,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -34066,7 +34095,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/players/[id]/page.tsx",
-        "line": 675,
+        "line": 611,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -34090,7 +34119,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/players/[id]/page.tsx",
-        "line": 733,
+        "line": 669,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -34121,14 +34150,21 @@
       },
       {
         "file": "apps/web/app/[lang]/players/[id]/player-history.tsx",
-        "line": 149,
+        "line": 152,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/app/[lang]/players/[id]/player-history.tsx",
-        "line": 263,
+        "line": 266,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
+        "file": "apps/web/app/[lang]/players/[id]/player-history.tsx",
+        "line": 425,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -34147,14 +34183,14 @@
       },
       {
         "file": "apps/web/app/[lang]/players/[id]/player-history.tsx",
-        "line": 148,
+        "line": 151,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/app/[lang]/players/[id]/player-history.tsx",
-        "line": 262,
+        "line": 265,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -34180,7 +34216,7 @@
       },
       {
         "file": "apps/web/app/[lang]/players/[id]/player-history.tsx",
-        "line": 264,
+        "line": 267,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -34206,14 +34242,21 @@
       },
       {
         "file": "apps/web/app/[lang]/players/[id]/player-history.tsx",
-        "line": 151,
+        "line": 154,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/app/[lang]/players/[id]/player-history.tsx",
-        "line": 265,
+        "line": 268,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
+        "file": "apps/web/app/[lang]/players/[id]/player-history.tsx",
+        "line": 428,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -34232,7 +34275,7 @@
       },
       {
         "file": "apps/web/app/[lang]/players/[id]/player-history.tsx",
-        "line": 313,
+        "line": 316,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -34244,14 +34287,14 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/players/[id]/page.tsx",
-        "line": 156,
+        "line": 151,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/app/[lang]/players/[id]/page.tsx",
-        "line": 913,
+        "line": 849,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -34263,14 +34306,14 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/players/[id]/page.tsx",
-        "line": 157,
+        "line": 152,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/app/[lang]/players/[id]/page.tsx",
-        "line": 864,
+        "line": 800,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -34282,14 +34325,14 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/players/[id]/page.tsx",
-        "line": 152,
+        "line": 147,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/app/[lang]/players/[id]/page.tsx",
-        "line": 701,
+        "line": 637,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -34301,7 +34344,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/players/[id]/page.tsx",
-        "line": 155,
+        "line": 150,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -34313,7 +34356,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/players/[id]/page.tsx",
-        "line": 153,
+        "line": 148,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -34325,14 +34368,14 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/players/[id]/page.tsx",
-        "line": 154,
+        "line": 149,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/app/[lang]/players/[id]/page.tsx",
-        "line": 779,
+        "line": 715,
         "grain": "str",
         "attr": "",
         "element": ""
