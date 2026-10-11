@@ -260,6 +260,8 @@
   "dashboard.community.powerRanking.entry.discard.confirm": "Question asked when a curator would leave an entry's dialog, or step to another entry, with unsaved changes.",
   "dashboard.community.powerRanking.entry.mention": "Eyebrow over the entry dialog for an honourable mention, in place of a position.",
   "dashboard.community.powerRanking.entry.position": "Eyebrow over the entry dialog: the player's position on the list.",
+  "dashboard.community.powerRanking.entry.results.moveEarlier": "Accessible name of the button moving a ticked result one place earlier in the entry's order; {name} is the tournament.",
+  "dashboard.community.powerRanking.entry.results.moveLater": "Accessible name of the button moving a ticked result one place later in the entry's order; {name} is the tournament.",
   "dashboard.community.powerRanking.entry.writeUp.by": "Note under the Write-up line; {names} is a comma-separated list of its writers.",
   "dashboard.community.powerRanking.entry.writeUp.paragraphs": "Value of the Write-up line: how long the write-up is.",
   "dashboard.community.powerRanking.full": "Shown instead of the search when a list is full; {n} is the most it can hold.",

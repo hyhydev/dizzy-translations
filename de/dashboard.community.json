@@ -283,6 +283,8 @@
   "dashboard.community.powerRanking.entry.results": "",
   "dashboard.community.powerRanking.entry.results.empty": "",
   "dashboard.community.powerRanking.entry.results.full": "",
+  "dashboard.community.powerRanking.entry.results.moveEarlier": "",
+  "dashboard.community.powerRanking.entry.results.moveLater": "",
   "dashboard.community.powerRanking.entry.results.none": "",
   "dashboard.community.powerRanking.entry.results.pick": "",
   "dashboard.community.powerRanking.entry.writeUp": "",

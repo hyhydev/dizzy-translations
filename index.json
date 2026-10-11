@@ -658,7 +658,7 @@
       },
       {
         "file": "apps/web/components/community/power-ranking-entry-dialog.tsx",
-        "line": 318,
+        "line": 346,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -750,7 +750,7 @@
       },
       {
         "file": "apps/web/components/community/power-ranking-entry-dialog.tsx",
-        "line": 306,
+        "line": 334,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -1096,7 +1096,7 @@
       },
       {
         "file": "apps/web/components/community/power-ranking-entry-dialog.tsx",
-        "line": 329,
+        "line": 357,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -9862,7 +9862,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/power-ranking-entry-dialog.tsx",
-        "line": 237,
+        "line": 262,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -9977,7 +9977,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/power-ranking-entry-dialog.tsx",
-        "line": 578,
+        "line": 630,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -10008,7 +10008,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/power-ranking-entry-dialog.tsx",
-        "line": 579,
+        "line": 631,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -10020,7 +10020,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/power-ranking-entry-dialog.tsx",
-        "line": 601,
+        "line": 653,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -10039,7 +10039,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/power-ranking-entry-dialog.tsx",
-        "line": 592,
+        "line": 644,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -10113,7 +10113,7 @@
       },
       {
         "file": "apps/web/components/community/power-ranking-entry-dialog.tsx",
-        "line": 235,
+        "line": 260,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -14014,7 +14014,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/power-ranking-entry-dialog.tsx",
-        "line": 304,
+        "line": 332,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -14026,7 +14026,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/power-ranking-entry-dialog.tsx",
-        "line": 219,
+        "line": 244,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -14038,7 +14038,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/power-ranking-entry-dialog.tsx",
-        "line": 261,
+        "line": 286,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -14050,7 +14050,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/power-ranking-entry-dialog.tsx",
-        "line": 220,
+        "line": 245,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -14062,7 +14062,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/power-ranking-entry-dialog.tsx",
-        "line": 252,
+        "line": 277,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -14074,14 +14074,14 @@
     "sites": [
       {
         "file": "apps/web/components/community/power-ranking-entry-dialog.tsx",
-        "line": 498,
+        "line": 532,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/components/community/power-ranking-entry-dialog.tsx",
-        "line": 533,
+        "line": 567,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -14093,7 +14093,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/power-ranking-entry-dialog.tsx",
-        "line": 527,
+        "line": 561,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -14105,7 +14105,31 @@
     "sites": [
       {
         "file": "apps/web/components/community/power-ranking-entry-dialog.tsx",
-        "line": 514,
+        "line": 548,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "dashboard.community.powerRanking.entry.results.moveEarlier": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/community/power-ranking-entry-dialog.tsx",
+        "line": 677,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "dashboard.community.powerRanking.entry.results.moveLater": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/community/power-ranking-entry-dialog.tsx",
+        "line": 689,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -14117,7 +14141,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/power-ranking-entry-dialog.tsx",
-        "line": 502,
+        "line": 536,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -14129,7 +14153,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/power-ranking-entry-dialog.tsx",
-        "line": 517,
+        "line": 551,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -14141,14 +14165,14 @@
     "sites": [
       {
         "file": "apps/web/components/community/power-ranking-entry-dialog.tsx",
-        "line": 371,
+        "line": 399,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/components/community/power-ranking-entry-dialog.tsx",
-        "line": 396,
+        "line": 424,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -14160,7 +14184,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/power-ranking-entry-dialog.tsx",
-        "line": 387,
+        "line": 415,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -14172,7 +14196,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/power-ranking-entry-dialog.tsx",
-        "line": 375,
+        "line": 403,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -14184,7 +14208,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/power-ranking-entry-dialog.tsx",
-        "line": 379,
+        "line": 407,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -14196,7 +14220,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/power-ranking-entry-dialog.tsx",
-        "line": 402,
+        "line": 430,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -14208,14 +14232,14 @@
     "sites": [
       {
         "file": "apps/web/components/community/power-ranking-entry-dialog.tsx",
-        "line": 408,
+        "line": 436,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/components/community/power-ranking-entry-dialog.tsx",
-        "line": 413,
+        "line": 441,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -14227,7 +14251,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/power-ranking-entry-dialog.tsx",
-        "line": 432,
+        "line": 460,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -16259,7 +16283,7 @@
       },
       {
         "file": "apps/web/components/community/power-ranking-entry-dialog.tsx",
-        "line": 523,
+        "line": 557,
         "grain": "str",
         "attr": "",
         "element": ""
