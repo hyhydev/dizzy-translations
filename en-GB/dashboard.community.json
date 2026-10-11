@@ -275,6 +275,7 @@
   "dashboard.community.powerRanking.delete.confirm": "Delete {name}?",
   "dashboard.community.powerRanking.delete.keep": "Keep it",
   "dashboard.community.powerRanking.discard.confirm": "Discard your changes to this ranking?",
+  "dashboard.community.powerRanking.entry.discard.confirm": "Discard your changes to this entry?",
   "dashboard.community.powerRanking.entry.mention": "Honourable mention",
   "dashboard.community.powerRanking.entry.next": "Next entry",
   "dashboard.community.powerRanking.entry.position": "Ranked {rank, number}",
