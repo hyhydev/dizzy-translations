@@ -194,7 +194,7 @@
       },
       {
         "file": "apps/web/app/[lang]/dashboard/scene/series/community-series-panel.tsx",
-        "line": 95,
+        "line": 100,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -5185,7 +5185,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/series/[slug]/page.tsx",
-        "line": 170,
+        "line": 172,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -7412,7 +7412,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/series/[slug]/series-masthead.tsx",
-        "line": 114,
+        "line": 123,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -7488,7 +7488,7 @@
       },
       {
         "file": "apps/web/app/[lang]/series/[slug]/series-masthead.tsx",
-        "line": 102,
+        "line": 111,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -15402,7 +15402,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/series/community-series-table.tsx",
-        "line": 104,
+        "line": 112,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -15421,7 +15421,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/series/community-series-table.tsx",
-        "line": 100,
+        "line": 108,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -15433,7 +15433,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/series/community-series-table.tsx",
-        "line": 82,
+        "line": 90,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -15445,7 +15445,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/series/community-series-panel.tsx",
-        "line": 69,
+        "line": 74,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -15457,7 +15457,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/series/community-series-panel.tsx",
-        "line": 76,
+        "line": 81,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -15469,7 +15469,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/series/community-series-panel.tsx",
-        "line": 81,
+        "line": 86,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -15481,7 +15481,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/series/community-series-panel.tsx",
-        "line": 45,
+        "line": 50,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -15493,7 +15493,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/series/community-series-panel.tsx",
-        "line": 132,
+        "line": 136,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -15505,7 +15505,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/series/community-series-panel.tsx",
-        "line": 102,
+        "line": 107,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -15517,7 +15517,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/series/community-series-panel.tsx",
-        "line": 66,
+        "line": 71,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -15529,7 +15529,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/series/community-series-table.tsx",
-        "line": 177,
+        "line": 193,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -15565,7 +15565,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/series/community-series-table.tsx",
-        "line": 139,
+        "line": 155,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -15701,7 +15701,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/series/community-series-table.tsx",
-        "line": 144,
+        "line": 160,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -15811,7 +15811,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/series/community-series-table.tsx",
-        "line": 29,
+        "line": 31,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -15823,7 +15823,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/series/community-series-table.tsx",
-        "line": 24,
+        "line": 26,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -16017,7 +16017,7 @@
       },
       {
         "file": "apps/web/app/[lang]/dashboard/scene/series/community-series-table.tsx",
-        "line": 114,
+        "line": 122,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -16057,7 +16057,7 @@
       },
       {
         "file": "apps/web/app/[lang]/dashboard/scene/series/community-series-table.tsx",
-        "line": 68,
+        "line": 75,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -16083,7 +16083,7 @@
       },
       {
         "file": "apps/web/app/[lang]/dashboard/scene/series/community-series-table.tsx",
-        "line": 27,
+        "line": 29,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -37267,7 +37267,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/series/[slug]/page.tsx",
-        "line": 160,
+        "line": 162,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -37279,7 +37279,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/series/[slug]/page.tsx",
-        "line": 188,
+        "line": 201,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -37316,6 +37316,49 @@
       {
         "file": "apps/web/app/[lang]/series/[slug]/series-honours.tsx",
         "line": 52,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "series.icon.hint": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/series/[slug]/series-icon-field.tsx",
+        "line": 31,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "series.icon.max": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/series/[slug]/series-icon-field.tsx",
+        "line": 31,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
+        "file": "apps/web/app/[lang]/series/[slug]/series-icon-field.tsx",
+        "line": 34,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "series.icon.title": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/series/[slug]/series-icon-field.tsx",
+        "line": 30,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -37406,7 +37449,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/series/[slug]/series-masthead.tsx",
-        "line": 67,
+        "line": 73,
         "grain": "str",
         "attr": "",
         "element": ""
