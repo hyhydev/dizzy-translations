@@ -2233,7 +2233,7 @@
       },
       {
         "file": "apps/web/app/[lang]/events/[slug]/event-masthead.tsx",
-        "line": 609,
+        "line": 572,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -7393,7 +7393,7 @@
       },
       {
         "file": "apps/web/app/[lang]/events/[slug]/page.tsx",
-        "line": 1034,
+        "line": 1033,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -7481,7 +7481,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/event-masthead.tsx",
-        "line": 322,
+        "line": 311,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -7561,7 +7561,7 @@
       },
       {
         "file": "apps/web/app/[lang]/events/[slug]/event-masthead.tsx",
-        "line": 946,
+        "line": 909,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -18082,7 +18082,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/page.tsx",
-        "line": 1092,
+        "line": 1091,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -18094,7 +18094,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/page.tsx",
-        "line": 984,
+        "line": 983,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -18142,7 +18142,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/page.tsx",
-        "line": 1022,
+        "line": 1021,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -18168,7 +18168,7 @@
       },
       {
         "file": "apps/web/app/[lang]/events/[slug]/event-masthead.tsx",
-        "line": 489,
+        "line": 452,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -18199,7 +18199,7 @@
       },
       {
         "file": "apps/web/app/[lang]/events/[slug]/page.tsx",
-        "line": 980,
+        "line": 979,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -18211,7 +18211,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/page.tsx",
-        "line": 1041,
+        "line": 1040,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -18223,7 +18223,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/page.tsx",
-        "line": 1065,
+        "line": 1064,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -18235,7 +18235,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/page.tsx",
-        "line": 1043,
+        "line": 1042,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -18247,7 +18247,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/page.tsx",
-        "line": 1044,
+        "line": 1043,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -18266,7 +18266,7 @@
       },
       {
         "file": "apps/web/app/[lang]/events/[slug]/page.tsx",
-        "line": 993,
+        "line": 992,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -18278,7 +18278,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/page.tsx",
-        "line": 868,
+        "line": 867,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -18290,7 +18290,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/page.tsx",
-        "line": 856,
+        "line": 855,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -18309,14 +18309,14 @@
       },
       {
         "file": "apps/web/app/[lang]/events/[slug]/page.tsx",
-        "line": 852,
+        "line": 851,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/app/[lang]/events/[slug]/page.tsx",
-        "line": 865,
+        "line": 864,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -18407,14 +18407,14 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/event-masthead.tsx",
-        "line": 602,
+        "line": 565,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/app/[lang]/events/[slug]/page.tsx",
-        "line": 1082,
+        "line": 1081,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -19498,7 +19498,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/page.tsx",
-        "line": 606,
+        "line": 605,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -21231,7 +21231,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/event-masthead.tsx",
-        "line": 336,
+        "line": 325,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -21243,7 +21243,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/event-masthead.tsx",
-        "line": 741,
+        "line": 704,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -21255,7 +21255,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/event-masthead.tsx",
-        "line": 352,
+        "line": 341,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -21267,7 +21267,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/event-masthead.tsx",
-        "line": 272,
+        "line": 261,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -21279,7 +21279,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/event-masthead.tsx",
-        "line": 769,
+        "line": 732,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -21291,7 +21291,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/event-masthead.tsx",
-        "line": 763,
+        "line": 726,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -21303,7 +21303,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/event-masthead.tsx",
-        "line": 407,
+        "line": 394,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -21315,7 +21315,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/event-masthead.tsx",
-        "line": 757,
+        "line": 720,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -21327,7 +21327,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/event-masthead.tsx",
-        "line": 728,
+        "line": 691,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -21339,7 +21339,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/event-masthead.tsx",
-        "line": 271,
+        "line": 260,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -21351,7 +21351,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/event-masthead.tsx",
-        "line": 358,
+        "line": 347,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -21363,19 +21363,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/event-masthead.tsx",
-        "line": 751,
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      }
-    ]
-  },
-  "event.masthead.results": {
-    "accessibleName": false,
-    "sites": [
-      {
-        "file": "apps/web/app/[lang]/events/[slug]/event-masthead.tsx",
-        "line": 463,
+        "line": 714,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -21387,7 +21375,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/event-masthead.tsx",
-        "line": 736,
+        "line": 699,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -21399,7 +21387,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/event-masthead.tsx",
-        "line": 734,
+        "line": 697,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -21432,7 +21420,7 @@
       },
       {
         "file": "apps/web/app/[lang]/events/[slug]/event-masthead.tsx",
-        "line": 791,
+        "line": 754,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -21444,7 +21432,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/event-masthead.tsx",
-        "line": 221,
+        "line": 210,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -22765,7 +22753,7 @@
       },
       {
         "file": "apps/web/app/[lang]/events/[slug]/page.tsx",
-        "line": 580,
+        "line": 579,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -23558,7 +23546,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/page.tsx",
-        "line": 681,
+        "line": 680,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -23570,7 +23558,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/page.tsx",
-        "line": 1204,
+        "line": 1203,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -23582,7 +23570,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/page.tsx",
-        "line": 1198,
+        "line": 1197,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -23594,7 +23582,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/page.tsx",
-        "line": 1133,
+        "line": 1132,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -23606,7 +23594,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/page.tsx",
-        "line": 677,
+        "line": 676,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -23618,7 +23606,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/page.tsx",
-        "line": 1154,
+        "line": 1153,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -23630,7 +23618,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/page.tsx",
-        "line": 1144,
+        "line": 1143,
         "grain": "str",
         "attr": "",
         "element": ""
