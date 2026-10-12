@@ -164,6 +164,8 @@
   "player.highlights.attendance": "{n, plural, one {# tournament entered} other {# tournaments entered}}",
   "player.highlights.best": "Best results",
   "player.highlights.best.row": "{place} of {field} at {event}{movement, select, gained {, gained {amount} rating} lost {, lost {amount} rating} other {}}",
+  "player.highlights.climb": "Biggest climb",
+  "player.highlights.climbSpan": "{from, number} to {to, number}",
   "player.highlights.column.gained": "Gained",
   "player.highlights.peak": "Peak rating",
   "player.highlights.peakIn": "In {community}",
