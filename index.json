@@ -8299,7 +8299,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/community-crosstable.tsx",
-        "line": 522,
+        "line": 528,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -8311,7 +8311,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/community-crosstable.tsx",
-        "line": 521,
+        "line": 527,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -8323,7 +8323,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/community-crosstable.tsx",
-        "line": 520,
+        "line": 526,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -8335,7 +8335,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/community-crosstable.tsx",
-        "line": 118,
+        "line": 124,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -8347,7 +8347,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/community-crosstable.tsx",
-        "line": 112,
+        "line": 118,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -8359,7 +8359,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/community-crosstable.tsx",
-        "line": 380,
+        "line": 386,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -8371,7 +8371,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/community-crosstable.tsx",
-        "line": 412,
+        "line": 418,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -8383,7 +8383,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/community-crosstable.tsx",
-        "line": 536,
+        "line": 542,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -8395,7 +8395,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/community-crosstable.tsx",
-        "line": 455,
+        "line": 461,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -8407,7 +8407,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/community-crosstable.tsx",
-        "line": 458,
+        "line": 464,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -8419,7 +8419,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/community-crosstable.tsx",
-        "line": 337,
+        "line": 343,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -8431,7 +8431,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/community-crosstable.tsx",
-        "line": 335,
+        "line": 341,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -8443,7 +8443,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/community-crosstable.tsx",
-        "line": 549,
+        "line": 555,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -31649,7 +31649,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/players/[id]/page.tsx",
-        "line": 642,
+        "line": 672,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -32184,7 +32184,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/players/[id]/page.tsx",
-        "line": 966,
+        "line": 1002,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -32203,7 +32203,7 @@
       },
       {
         "file": "apps/web/app/[lang]/players/[id]/page.tsx",
-        "line": 955,
+        "line": 991,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -32894,7 +32894,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/players/[id]/page.tsx",
-        "line": 941,
+        "line": 977,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -33033,7 +33033,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/players/[id]/page.tsx",
-        "line": 931,
+        "line": 967,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -33045,7 +33045,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/players/[id]/page.tsx",
-        "line": 926,
+        "line": 962,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -33232,7 +33232,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/players/[id]/page.tsx",
-        "line": 659,
+        "line": 689,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -33443,7 +33443,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/players/[id]/page.tsx",
-        "line": 878,
+        "line": 914,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -33572,7 +33572,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/players/[id]/page.tsx",
-        "line": 886,
+        "line": 922,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -33615,7 +33615,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/players/[id]/page.tsx",
-        "line": 885,
+        "line": 921,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -33627,7 +33627,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/players/[id]/page.tsx",
-        "line": 864,
+        "line": 900,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -33723,7 +33723,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/players/[id]/page.tsx",
-        "line": 728,
+        "line": 762,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -33941,7 +33941,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/players/[id]/page.tsx",
-        "line": 816,
+        "line": 852,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -34013,7 +34013,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/players/[id]/page.tsx",
-        "line": 797,
+        "line": 833,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -34085,7 +34085,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/players/[id]/page.tsx",
-        "line": 837,
+        "line": 873,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -34133,7 +34133,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/players/[id]/page.tsx",
-        "line": 679,
+        "line": 709,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -34349,14 +34349,14 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/players/[id]/page.tsx",
-        "line": 157,
+        "line": 167,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/app/[lang]/players/[id]/page.tsx",
-        "line": 934,
+        "line": 970,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -34368,14 +34368,14 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/players/[id]/page.tsx",
-        "line": 158,
+        "line": 168,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/app/[lang]/players/[id]/page.tsx",
-        "line": 865,
+        "line": 901,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -34387,14 +34387,14 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/players/[id]/page.tsx",
-        "line": 154,
+        "line": 164,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/app/[lang]/players/[id]/page.tsx",
-        "line": 705,
+        "line": 739,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -34406,7 +34406,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/players/[id]/page.tsx",
-        "line": 156,
+        "line": 166,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -34418,14 +34418,14 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/players/[id]/page.tsx",
-        "line": 155,
+        "line": 165,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/app/[lang]/players/[id]/page.tsx",
-        "line": 780,
+        "line": 814,
         "grain": "str",
         "attr": "",
         "element": ""
