@@ -269,7 +269,6 @@
   "common.home.timeline.won": "Won",
   "common.home.timeline.wonAgainst": "Won against {opponent}",
   "common.home.timeline.wonVs": "Won vs {opponent}",
-  "common.home.tower.gap": "Gap",
   "common.home.tower.player": "Player",
   "common.home.tower.points": "Pts",
   "common.home.tower.standing": "{community} · top {pct}% of {n, number}",

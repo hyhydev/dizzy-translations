@@ -240,7 +240,6 @@
   "common.home.timeline.won": "Screen-reader text before a set's score: the viewer won the set.",
   "common.home.timeline.wonAgainst": "Screen-reader text for one recent-set square.",
   "common.home.timeline.wonVs": "Tooltip on one recent-set square.",
-  "common.home.tower.gap": "Short column heading: the points between a player and the one ranked above.",
   "common.home.tower.player": "Column heading in the board around the viewer.",
   "common.home.tower.points": "Short column heading: the ranking points each player holds.",
   "common.home.tower.standing": "Under the board around the viewer: the community's name, the share of the board the viewer is in the top of, and the board's size.",

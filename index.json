@@ -4616,24 +4616,12 @@
       }
     ]
   },
-  "common.home.tower.gap": {
-    "accessibleName": false,
-    "sites": [
-      {
-        "file": "apps/web/components/home/board-tower.tsx",
-        "line": 51,
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      }
-    ]
-  },
   "common.home.tower.player": {
     "accessibleName": false,
     "sites": [
       {
         "file": "apps/web/components/home/board-tower.tsx",
-        "line": 49,
+        "line": 47,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -4645,7 +4633,7 @@
     "sites": [
       {
         "file": "apps/web/components/home/board-tower.tsx",
-        "line": 50,
+        "line": 48,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -4657,7 +4645,7 @@
     "sites": [
       {
         "file": "apps/web/components/home/board-tower.tsx",
-        "line": 156,
+        "line": 132,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -4669,7 +4657,7 @@
     "sites": [
       {
         "file": "apps/web/components/home/board-tower.tsx",
-        "line": 52,
+        "line": 49,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -4681,7 +4669,7 @@
     "sites": [
       {
         "file": "apps/web/components/home/board-tower.tsx",
-        "line": 166,
+        "line": 142,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -4693,7 +4681,7 @@
     "sites": [
       {
         "file": "apps/web/components/home/board-tower.tsx",
-        "line": 137,
+        "line": 113,
         "grain": "str",
         "attr": "",
         "element": ""
