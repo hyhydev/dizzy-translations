@@ -6,6 +6,7 @@
   "profile.account.signInNote": "Note under the account facts.",
   "profile.browseCommunities": "Link to the communities running the game, where a person finds the board they stand on and claims their player from it.",
   "profile.claim.declined": "After a player's name in the list of this account's claim requests: a moderator refused it.",
+  "profile.claim.merges": "Heading over the list of this account's requests to merge another player's record into the profile it holds.",
   "profile.claim.pending": "After a player's name in the list of this account's claim requests: a moderator has not decided yet.",
   "profile.deleteAccount.communities": "Why the delete button is disabled; {n} is how many communities, {names} their names already joined (A, B and C).",
   "profile.deleteAccount.confirm": "Dialog body before an account is deleted, for an account with no player.",

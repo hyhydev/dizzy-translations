@@ -56,6 +56,7 @@
   "common.characters.retired": "Drawn in place of the name for a pick whose character has been retired from the roster.",
   "common.characters.retiredName": "Stands in for the character's name inside the move and remove buttons' names when the character is retired. Lowercase, mid-sentence.",
   "common.claims.column.player": "Column heading: the player each request wants to claim.",
+  "common.claims.into": "Under the player a claim request names, when the requester already holds a profile and is asking for this one to be merged into it. `<link>` opens the profile they hold; {name} is its name.",
   "common.claims.ownRequest": "In the actions column of the claims queue, on the viewer's own request, which they cannot approve or reject.",
   "common.claims.via": "Under the player a claim request names, when the player was matched by a Parry.gg account. `<link>` opens that account on Parry.gg.",
   "common.composition.open": "A bracket's entry shape where players and teams enter the same bracket. Also the last word of a bracket's default title.",

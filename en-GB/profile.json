@@ -6,6 +6,7 @@
   "profile.account.signInNote": "Your sign-in name comes from Discord. Sign out and theme live in the menu at the top-right.",
   "profile.browseCommunities": "Find your community",
   "profile.claim.declined": "(request declined)",
+  "profile.claim.merges": "Profiles you asked to merge into yours",
   "profile.claim.pending": "(request pending review)",
   "profile.deleteAccount.communities": "Your account owns {n, plural, one {a community} other {these communities}}: {names}. Site staff must hand {n, plural, one {it} other {each one}} to another owner before you can delete your account.",
   "profile.deleteAccount.confirm": "This cannot be undone. Your sign-in, sessions, notifications and settings go now.",

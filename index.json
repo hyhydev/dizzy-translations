@@ -28,7 +28,7 @@
     "sites": [
       {
         "file": "apps/web/components/admin/claims-table.tsx",
-        "line": 111,
+        "line": 132,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -827,7 +827,7 @@
     "sites": [
       {
         "file": "apps/web/components/admin/claims-table.tsx",
-        "line": 93,
+        "line": 114,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -1845,7 +1845,7 @@
     "sites": [
       {
         "file": "apps/web/components/admin/claims-table.tsx",
-        "line": 174,
+        "line": 195,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -1857,14 +1857,14 @@
     "sites": [
       {
         "file": "apps/web/components/admin/claims-table.tsx",
-        "line": 152,
+        "line": 173,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/components/admin/claims-table.tsx",
-        "line": 176,
+        "line": 197,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -1876,7 +1876,19 @@
     "sites": [
       {
         "file": "apps/web/components/admin/claims-table.tsx",
-        "line": 173,
+        "line": 194,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "common.claims.into": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/admin/claims-table.tsx",
+        "line": 62,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -1888,7 +1900,7 @@
     "sites": [
       {
         "file": "apps/web/components/admin/claims-table.tsx",
-        "line": 79,
+        "line": 100,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -1900,7 +1912,7 @@
     "sites": [
       {
         "file": "apps/web/components/admin/claims-table.tsx",
-        "line": 160,
+        "line": 181,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -1912,7 +1924,7 @@
     "sites": [
       {
         "file": "apps/web/components/admin/claims-table.tsx",
-        "line": 58,
+        "line": 79,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -6147,7 +6159,7 @@
       },
       {
         "file": "apps/web/app/[lang]/players/[id]/claim-section.tsx",
-        "line": 91,
+        "line": 98,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -16145,7 +16157,7 @@
       },
       {
         "file": "apps/web/components/admin/claims-table.tsx",
-        "line": 185,
+        "line": 206,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -33100,7 +33112,19 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/players/[id]/claim-section.tsx",
-        "line": 78,
+        "line": 83,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "player.claim.also": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/players/[id]/claim-section.tsx",
+        "line": 85,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -33124,7 +33148,31 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/players/[id]/claim-section.tsx",
-        "line": 63,
+        "line": 68,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "player.claim.mergePending": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/players/[id]/claim-section.tsx",
+        "line": 55,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "player.claim.mergePublic": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/players/[id]/claim-section.tsx",
+        "line": 93,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -33136,7 +33184,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/players/[id]/claim-section.tsx",
-        "line": 50,
+        "line": 55,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -33148,7 +33196,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/players/[id]/claim-section.tsx",
-        "line": 86,
+        "line": 93,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -33160,7 +33208,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/players/[id]/claim-section.tsx",
-        "line": 79,
+        "line": 86,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -34380,7 +34428,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/profile/account-hub.tsx",
-        "line": 663,
+        "line": 695,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -34392,7 +34440,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/profile/account-hub.tsx",
-        "line": 667,
+        "line": 699,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -34404,7 +34452,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/profile/account-hub.tsx",
-        "line": 673,
+        "line": 705,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -34416,7 +34464,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/profile/account-hub.tsx",
-        "line": 674,
+        "line": 706,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -34428,7 +34476,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/profile/account-hub.tsx",
-        "line": 681,
+        "line": 713,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -34447,7 +34495,7 @@
       },
       {
         "file": "apps/web/app/[lang]/profile/account-hub.tsx",
-        "line": 520,
+        "line": 552,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -34459,7 +34507,26 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/profile/account-hub.tsx",
-        "line": 545,
+        "line": 535,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
+        "file": "apps/web/app/[lang]/profile/account-hub.tsx",
+        "line": 577,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "profile.claim.merges": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/profile/account-hub.tsx",
+        "line": 518,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -34471,7 +34538,14 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/profile/account-hub.tsx",
-        "line": 544,
+        "line": 534,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
+        "file": "apps/web/app/[lang]/profile/account-hub.tsx",
+        "line": 576,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -35703,7 +35777,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/profile/account-hub.tsx",
-        "line": 737,
+        "line": 769,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -35715,7 +35789,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/profile/account-hub.tsx",
-        "line": 743,
+        "line": 775,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -35727,7 +35801,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/profile/account-hub.tsx",
-        "line": 749,
+        "line": 781,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -35739,7 +35813,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/profile/account-hub.tsx",
-        "line": 746,
+        "line": 778,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -35751,7 +35825,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/profile/account-hub.tsx",
-        "line": 790,
+        "line": 822,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -35763,7 +35837,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/profile/account-hub.tsx",
-        "line": 791,
+        "line": 823,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -35775,7 +35849,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/profile/account-hub.tsx",
-        "line": 726,
+        "line": 758,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -35787,7 +35861,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/profile/account-hub.tsx",
-        "line": 725,
+        "line": 757,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -35799,7 +35873,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/profile/account-hub.tsx",
-        "line": 723,
+        "line": 755,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -35811,7 +35885,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/profile/account-hub.tsx",
-        "line": 724,
+        "line": 756,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -35823,7 +35897,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/profile/account-hub.tsx",
-        "line": 700,
+        "line": 732,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -36070,7 +36144,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/profile/account-hub.tsx",
-        "line": 498,
+        "line": 499,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -36082,7 +36156,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/profile/account-hub.tsx",
-        "line": 514,
+        "line": 546,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -36738,7 +36812,7 @@
       },
       {
         "file": "apps/web/app/[lang]/profile/account-hub.tsx",
-        "line": 660,
+        "line": 692,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -36757,7 +36831,7 @@
       },
       {
         "file": "apps/web/app/[lang]/profile/account-hub.tsx",
-        "line": 649,
+        "line": 681,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -36776,7 +36850,7 @@
       },
       {
         "file": "apps/web/app/[lang]/profile/account-hub.tsx",
-        "line": 563,
+        "line": 595,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -36795,7 +36869,7 @@
       },
       {
         "file": "apps/web/app/[lang]/profile/account-hub.tsx",
-        "line": 611,
+        "line": 643,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -36821,7 +36895,7 @@
       },
       {
         "file": "apps/web/app/[lang]/profile/account-hub.tsx",
-        "line": 557,
+        "line": 589,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -36840,7 +36914,7 @@
       },
       {
         "file": "apps/web/app/[lang]/profile/account-hub.tsx",
-        "line": 631,
+        "line": 663,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -36885,7 +36959,7 @@
       },
       {
         "file": "apps/web/app/[lang]/profile/account-hub.tsx",
-        "line": 572,
+        "line": 604,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -37146,7 +37220,7 @@
       },
       {
         "file": "apps/web/app/[lang]/profile/account-hub.tsx",
-        "line": 689,
+        "line": 721,
         "grain": "str",
         "attr": "",
         "element": ""

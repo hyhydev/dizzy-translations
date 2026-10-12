@@ -71,6 +71,7 @@
   "common.claims.column.player": "Wants to claim",
   "common.claims.column.requested": "Requested",
   "common.claims.column.requester": "Requester",
+  "common.claims.into": "Merge into <link>{name}</link>, the profile they hold",
   "common.claims.ownRequest": "Your request",
   "common.claims.search": "Search by requester or player…",
   "common.claims.via": "via <link>Parry.gg account</link>",
