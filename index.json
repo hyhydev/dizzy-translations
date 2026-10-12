@@ -1216,7 +1216,7 @@
       },
       {
         "file": "apps/web/components/me-home.tsx",
-        "line": 638,
+        "line": 635,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -3806,7 +3806,7 @@
     "sites": [
       {
         "file": "apps/web/components/me-home.tsx",
-        "line": 430,
+        "line": 427,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -3818,7 +3818,7 @@
     "sites": [
       {
         "file": "apps/web/components/me-home.tsx",
-        "line": 433,
+        "line": 430,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -3873,18 +3873,6 @@
       }
     ]
   },
-  "common.home.climbs.subtitle": {
-    "accessibleName": false,
-    "sites": [
-      {
-        "file": "apps/web/components/me-home.tsx",
-        "line": 200,
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      }
-    ]
-  },
   "common.home.climbs.title": {
     "accessibleName": false,
     "sites": [
@@ -3902,7 +3890,7 @@
     "sites": [
       {
         "file": "apps/web/components/me-home.tsx",
-        "line": 603,
+        "line": 600,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -3974,7 +3962,7 @@
     "sites": [
       {
         "file": "apps/web/components/me-home.tsx",
-        "line": 658,
+        "line": 655,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -3993,7 +3981,7 @@
       },
       {
         "file": "apps/web/components/me-home.tsx",
-        "line": 442,
+        "line": 439,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -4012,7 +4000,7 @@
       },
       {
         "file": "apps/web/components/me-home.tsx",
-        "line": 318,
+        "line": 315,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -4024,7 +4012,7 @@
     "sites": [
       {
         "file": "apps/web/components/me-home.tsx",
-        "line": 638,
+        "line": 635,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -4036,7 +4024,7 @@
     "sites": [
       {
         "file": "apps/web/components/me-home.tsx",
-        "line": 282,
+        "line": 279,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -4048,7 +4036,7 @@
     "sites": [
       {
         "file": "apps/web/components/me-home.tsx",
-        "line": 294,
+        "line": 291,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -4060,7 +4048,7 @@
     "sites": [
       {
         "file": "apps/web/components/me-home.tsx",
-        "line": 309,
+        "line": 306,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -4072,7 +4060,7 @@
     "sites": [
       {
         "file": "apps/web/components/me-home.tsx",
-        "line": 306,
+        "line": 303,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -4084,7 +4072,7 @@
     "sites": [
       {
         "file": "apps/web/components/me-home.tsx",
-        "line": 668,
+        "line": 665,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -4103,7 +4091,7 @@
       },
       {
         "file": "apps/web/components/me-home.tsx",
-        "line": 529,
+        "line": 526,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -4122,7 +4110,7 @@
       },
       {
         "file": "apps/web/components/me-home.tsx",
-        "line": 528,
+        "line": 525,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -4141,7 +4129,7 @@
       },
       {
         "file": "apps/web/components/me-home.tsx",
-        "line": 527,
+        "line": 524,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -4153,7 +4141,7 @@
     "sites": [
       {
         "file": "apps/web/components/me-home.tsx",
-        "line": 537,
+        "line": 534,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -4165,7 +4153,7 @@
     "sites": [
       {
         "file": "apps/web/components/me-home.tsx",
-        "line": 246,
+        "line": 243,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -4184,7 +4172,7 @@
       },
       {
         "file": "apps/web/components/me-home.tsx",
-        "line": 245,
+        "line": 242,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -4250,7 +4238,7 @@
       },
       {
         "file": "apps/web/components/me-home.tsx",
-        "line": 483,
+        "line": 480,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -4262,7 +4250,7 @@
     "sites": [
       {
         "file": "apps/web/components/me-home.tsx",
-        "line": 236,
+        "line": 233,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -4274,7 +4262,7 @@
     "sites": [
       {
         "file": "apps/web/components/me-home.tsx",
-        "line": 235,
+        "line": 232,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -4293,7 +4281,7 @@
       },
       {
         "file": "apps/web/components/me-home.tsx",
-        "line": 232,
+        "line": 229,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -4345,7 +4333,7 @@
     "sites": [
       {
         "file": "apps/web/components/me-home.tsx",
-        "line": 414,
+        "line": 411,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -4357,7 +4345,7 @@
     "sites": [
       {
         "file": "apps/web/components/me-home.tsx",
-        "line": 211,
+        "line": 208,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -4369,7 +4357,7 @@
     "sites": [
       {
         "file": "apps/web/components/me-home.tsx",
-        "line": 210,
+        "line": 207,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -4693,14 +4681,14 @@
     "sites": [
       {
         "file": "apps/web/components/me-home.tsx",
-        "line": 413,
+        "line": 410,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/components/me-home.tsx",
-        "line": 587,
+        "line": 584,
         "grain": "str",
         "attr": "",
         "element": ""

@@ -188,7 +188,6 @@
   "common.home.claim.notLinkedHint": "Under common.home.claim.notLinked.",
   "common.home.claim.pending": "Small label: the viewer asked to be linked to a player and is waiting.",
   "common.home.claim.pendingReview": "{player} is the player the viewer asked to be linked to; <link></link> makes the name a link to them, <b></b> dims the rest of the sentence.",
-  "common.home.climbs.subtitle": "Subtitle under common.home.climbs.title.",
   "common.home.climbs.title": "Section heading on a signed-in player's home page: the board around them, the rivals just above and below.",
   "common.home.details": "Button opening an event's page.",
   "common.home.door.emptyBody": "Under common.home.door.emptyTitle.",
