@@ -202,8 +202,10 @@
   "player.masthead.unranked": "",
   "player.rail.title": "",
   "player.rating.label": "",
-  "player.rating.title": "",
   "player.rating.tooltip.ranked": "",
+  "player.rating.window": "",
+  "player.rating.window.from": "",
+  "player.rating.window.to": "",
   "player.results.column.field": "",
   "player.results.column.place": "",
   "player.results.column.tournament": "",
@@ -213,6 +215,5 @@
   "player.section.h2h": "",
   "player.section.highlights": "",
   "player.section.hosted": "",
-  "player.section.rating": "",
   "player.section.tournaments": ""
 }

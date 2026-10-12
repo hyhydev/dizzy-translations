@@ -202,8 +202,10 @@
   "player.masthead.unranked": "Unranked in {community}",
   "player.rail.title": "This profile",
   "player.rating.label": "Rating",
-  "player.rating.title": "Rating history",
   "player.rating.tooltip.ranked": "Ranked #{rank} of {n}",
+  "player.rating.window": "Shown span",
+  "player.rating.window.from": "Start of the shown span",
+  "player.rating.window.to": "End of the shown span",
   "player.results.column.field": "Field",
   "player.results.column.place": "Place",
   "player.results.column.tournament": "Tournament",
@@ -213,6 +215,5 @@
   "player.section.h2h": "Head-to-head",
   "player.section.highlights": "Highlights",
   "player.section.hosted": "Hosted",
-  "player.section.rating": "Rating",
   "player.section.tournaments": "Tournaments"
 }
