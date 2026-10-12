@@ -38700,7 +38700,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-result-correction.tsx",
-        "line": 218,
+        "line": 226,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -39463,7 +39463,7 @@
       },
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-detail-dialog.tsx",
-        "line": 783,
+        "line": 760,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -40315,7 +40315,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/bracket-game-capture.tsx",
-        "line": 435,
+        "line": 380,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -40411,7 +40411,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/bracket-game-correction.tsx",
-        "line": 206,
+        "line": 207,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -40447,7 +40447,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/bracket-game-capture.tsx",
-        "line": 109,
+        "line": 110,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -40459,7 +40459,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/bracket-game-capture.tsx",
-        "line": 425,
+        "line": 370,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -40471,7 +40471,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/bracket-game-capture.tsx",
-        "line": 419,
+        "line": 364,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -40495,7 +40495,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/bracket-game-capture.tsx",
-        "line": 422,
+        "line": 367,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -40519,7 +40519,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/bracket-game-capture.tsx",
-        "line": 423,
+        "line": 368,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -44818,7 +44818,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-result-correction.tsx",
-        "line": 70,
+        "line": 75,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -44830,7 +44830,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-result-correction.tsx",
-        "line": 162,
+        "line": 170,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -44842,7 +44842,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-result-correction.tsx",
-        "line": 262,
+        "line": 270,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -44854,7 +44854,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-result-correction.tsx",
-        "line": 198,
+        "line": 206,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -44866,7 +44866,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-result-correction.tsx",
-        "line": 157,
+        "line": 165,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -44878,7 +44878,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-result-correction.tsx",
-        "line": 205,
+        "line": 213,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -44890,7 +44890,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-result-correction.tsx",
-        "line": 271,
+        "line": 279,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -44902,7 +44902,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-result-correction.tsx",
-        "line": 231,
+        "line": 239,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -46000,7 +46000,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-detail-dialog.tsx",
-        "line": 711,
+        "line": 688,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -46012,7 +46012,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-detail-dialog.tsx",
-        "line": 713,
+        "line": 691,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -46024,14 +46024,14 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/bracket-game-correction.tsx",
-        "line": 202,
+        "line": 203,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-detail-dialog.tsx",
-        "line": 714,
+        "line": 690,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -46069,7 +46069,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-detail-dialog.tsx",
-        "line": 632,
+        "line": 613,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -46081,7 +46081,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-detail-dialog.tsx",
-        "line": 623,
+        "line": 604,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -46093,7 +46093,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-result-correction.tsx",
-        "line": 59,
+        "line": 64,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -46581,7 +46581,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-detail-dialog.tsx",
-        "line": 579,
+        "line": 560,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -46662,7 +46662,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-detail-dialog.tsx",
-        "line": 791,
+        "line": 768,
         "grain": "str",
         "attr": "",
         "element": ""
