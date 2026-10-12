@@ -264,7 +264,7 @@
       },
       {
         "file": "apps/web/components/community/power-ranking-composer.tsx",
-        "line": 845,
+        "line": 846,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -548,14 +548,14 @@
       },
       {
         "file": "apps/web/app/[lang]/dashboard/scene/seasons/season-dialog.tsx",
-        "line": 443,
+        "line": 439,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/app/[lang]/dashboard/scene/seasons/season-dialog.tsx",
-        "line": 457,
+        "line": 453,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -583,7 +583,7 @@
       },
       {
         "file": "apps/web/components/community/power-ranking-composer.tsx",
-        "line": 821,
+        "line": 822,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -644,7 +644,7 @@
       },
       {
         "file": "apps/web/components/community/power-ranking-composer.tsx",
-        "line": 803,
+        "line": 804,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -736,7 +736,7 @@
       },
       {
         "file": "apps/web/components/community/power-ranking-composer.tsx",
-        "line": 799,
+        "line": 800,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -1082,7 +1082,7 @@
       },
       {
         "file": "apps/web/components/community/power-ranking-composer.tsx",
-        "line": 857,
+        "line": 858,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -13927,14 +13927,14 @@
     "sites": [
       {
         "file": "apps/web/components/community/power-ranking-composer.tsx",
-        "line": 756,
+        "line": 757,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/components/community/power-ranking-composer.tsx",
-        "line": 761,
+        "line": 762,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -13946,7 +13946,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/power-ranking-composer.tsx",
-        "line": 783,
+        "line": 784,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -13958,7 +13958,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/seasons/season-dialog.tsx",
-        "line": 325,
+        "line": 328,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -13977,7 +13977,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/power-ranking-composer.tsx",
-        "line": 837,
+        "line": 838,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -13989,7 +13989,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/power-ranking-composer.tsx",
-        "line": 808,
+        "line": 809,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -14001,7 +14001,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/power-ranking-composer.tsx",
-        "line": 811,
+        "line": 812,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -14013,7 +14013,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/power-ranking-composer.tsx",
-        "line": 798,
+        "line": 799,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -14286,14 +14286,14 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/seasons/season-dialog.tsx",
-        "line": 389,
+        "line": 385,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/components/community/power-ranking-composer.tsx",
-        "line": 562,
+        "line": 563,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -14336,14 +14336,14 @@
     "sites": [
       {
         "file": "apps/web/components/community/power-ranking-composer.tsx",
-        "line": 636,
+        "line": 637,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/components/community/power-ranking-composer.tsx",
-        "line": 641,
+        "line": 642,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -14355,7 +14355,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/power-ranking-composer.tsx",
-        "line": 663,
+        "line": 664,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -14379,7 +14379,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/power-ranking-composer.tsx",
-        "line": 552,
+        "line": 553,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -14391,7 +14391,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/power-ranking-composer.tsx",
-        "line": 550,
+        "line": 551,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -14403,14 +14403,14 @@
     "sites": [
       {
         "file": "apps/web/components/community/power-ranking-composer.tsx",
-        "line": 673,
+        "line": 674,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/components/community/power-ranking-composer.tsx",
-        "line": 678,
+        "line": 679,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -14422,7 +14422,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/power-ranking-composer.tsx",
-        "line": 700,
+        "line": 701,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -14434,7 +14434,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/power-ranking-composer.tsx",
-        "line": 713,
+        "line": 714,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -14446,7 +14446,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/power-ranking-composer.tsx",
-        "line": 714,
+        "line": 715,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -14458,14 +14458,14 @@
     "sites": [
       {
         "file": "apps/web/components/community/power-ranking-composer.tsx",
-        "line": 715,
+        "line": 716,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/components/community/power-ranking-composer.tsx",
-        "line": 719,
+        "line": 720,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -14489,7 +14489,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/power-ranking-composer.tsx",
-        "line": 858,
+        "line": 859,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -14501,7 +14501,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/power-ranking-composer.tsx",
-        "line": 585,
+        "line": 586,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -14513,7 +14513,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/power-ranking-composer.tsx",
-        "line": 626,
+        "line": 627,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -14525,7 +14525,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/power-ranking-composer.tsx",
-        "line": 597,
+        "line": 598,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -14537,7 +14537,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/power-ranking-composer.tsx",
-        "line": 604,
+        "line": 605,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -14573,7 +14573,7 @@
     "sites": [
       {
         "file": "apps/web/components/community/power-ranking-composer.tsx",
-        "line": 572,
+        "line": 573,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -14700,7 +14700,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/seasons/season-dialog.tsx",
-        "line": 529,
+        "line": 525,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -14795,7 +14795,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/seasons/season-dialog.tsx",
-        "line": 427,
+        "line": 423,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -14807,7 +14807,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/seasons/season-dialog.tsx",
-        "line": 448,
+        "line": 444,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -14975,7 +14975,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/seasons/season-dialog.tsx",
-        "line": 522,
+        "line": 518,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -14987,7 +14987,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/seasons/season-dialog.tsx",
-        "line": 561,
+        "line": 557,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -14999,7 +14999,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/seasons/season-dialog.tsx",
-        "line": 556,
+        "line": 552,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -15011,7 +15011,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/seasons/season-dialog.tsx",
-        "line": 536,
+        "line": 532,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -15023,7 +15023,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/seasons/season-dialog.tsx",
-        "line": 546,
+        "line": 542,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -15200,7 +15200,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/seasons/season-dialog.tsx",
-        "line": 348,
+        "line": 344,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -15219,7 +15219,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/seasons/season-dialog.tsx",
-        "line": 352,
+        "line": 348,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -15231,7 +15231,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/seasons/season-dialog.tsx",
-        "line": 360,
+        "line": 356,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -15243,14 +15243,14 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/seasons/season-dialog.tsx",
-        "line": 377,
+        "line": 373,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/app/[lang]/dashboard/scene/seasons/season-dialog.tsx",
-        "line": 406,
+        "line": 402,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -15262,7 +15262,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/seasons/season-dialog.tsx",
-        "line": 396,
+        "line": 392,
         "grain": "str",
         "attr": "",
         "element": ""
