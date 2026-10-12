@@ -31649,7 +31649,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/players/[id]/page.tsx",
-        "line": 581,
+        "line": 642,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -32184,7 +32184,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/players/[id]/page.tsx",
-        "line": 885,
+        "line": 966,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -32203,7 +32203,7 @@
       },
       {
         "file": "apps/web/app/[lang]/players/[id]/page.tsx",
-        "line": 874,
+        "line": 955,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -32894,7 +32894,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/players/[id]/page.tsx",
-        "line": 860,
+        "line": 941,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -33033,7 +33033,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/players/[id]/page.tsx",
-        "line": 850,
+        "line": 931,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -33045,7 +33045,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/players/[id]/page.tsx",
-        "line": 845,
+        "line": 926,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -33232,7 +33232,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/players/[id]/page.tsx",
-        "line": 598,
+        "line": 659,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -33438,6 +33438,75 @@
       }
     ]
   },
+  "player.h2h.back": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/players/[id]/page.tsx",
+        "line": 878,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "player.h2h.column.lastMet": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/players/[id]/h2h-opponents-table.tsx",
+        "line": 72,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
+        "file": "apps/web/app/[lang]/players/[id]/h2h-opponents-table.tsx",
+        "line": 114,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "player.h2h.column.record": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/players/[id]/h2h-opponents-table.tsx",
+        "line": 75,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
+        "file": "apps/web/app/[lang]/players/[id]/h2h-opponents-table.tsx",
+        "line": 108,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "player.h2h.column.sets": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/players/[id]/h2h-opponents-table.tsx",
+        "line": 74,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
+        "file": "apps/web/app/[lang]/players/[id]/h2h-opponents-table.tsx",
+        "line": 102,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
   "player.h2h.empty": {
     "accessibleName": false,
     "sites": [
@@ -33474,24 +33543,24 @@
       }
     ]
   },
-  "player.h2h.minChars": {
+  "player.h2h.filter": {
     "accessibleName": false,
     "sites": [
       {
-        "file": "apps/web/app/[lang]/players/[id]/h2h-section.tsx",
-        "line": 160,
+        "file": "apps/web/app/[lang]/players/[id]/h2h-opponents-table.tsx",
+        "line": 70,
         "grain": "str",
         "attr": "",
         "element": ""
       }
     ]
   },
-  "player.h2h.noResults": {
+  "player.h2h.noMatch": {
     "accessibleName": false,
     "sites": [
       {
-        "file": "apps/web/app/[lang]/players/[id]/h2h-section.tsx",
-        "line": 167,
+        "file": "apps/web/app/[lang]/players/[id]/h2h-opponents-table.tsx",
+        "line": 196,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -33503,7 +33572,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/players/[id]/page.tsx",
-        "line": 820,
+        "line": 886,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -33514,32 +33583,27 @@
     "accessibleName": false,
     "sites": [
       {
-        "file": "apps/web/app/[lang]/players/[id]/h2h-section.tsx",
-        "line": 110,
+        "file": "apps/web/app/[lang]/players/[id]/h2h-opponents-table.tsx",
+        "line": 73,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
+        "file": "apps/web/app/[lang]/players/[id]/h2h-opponents-table.tsx",
+        "line": 96,
         "grain": "str",
         "attr": "",
         "element": ""
       }
     ]
   },
-  "player.h2h.pick": {
+  "player.h2h.record": {
     "accessibleName": false,
     "sites": [
       {
-        "file": "apps/web/app/[lang]/players/[id]/page.tsx",
-        "line": 824,
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      }
-    ]
-  },
-  "player.h2h.recent": {
-    "accessibleName": false,
-    "sites": [
-      {
-        "file": "apps/web/app/[lang]/players/[id]/h2h-section.tsx",
-        "line": 155,
+        "file": "apps/web/app/[lang]/players/[id]/h2h-opponents-table.tsx",
+        "line": 174,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -33551,7 +33615,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/players/[id]/page.tsx",
-        "line": 819,
+        "line": 885,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -33563,50 +33627,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/players/[id]/page.tsx",
-        "line": 803,
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      }
-    ]
-  },
-  "player.h2h.search": {
-    "accessibleName": false,
-    "sites": [
-      {
-        "file": "apps/web/app/[lang]/players/[id]/h2h-section.tsx",
-        "line": 125,
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      },
-      {
-        "file": "apps/web/app/[lang]/players/[id]/h2h-section.tsx",
-        "line": 146,
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      }
-    ]
-  },
-  "player.h2h.searchShort": {
-    "accessibleName": false,
-    "sites": [
-      {
-        "file": "apps/web/app/[lang]/players/[id]/h2h-section.tsx",
-        "line": 147,
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      }
-    ]
-  },
-  "player.h2h.searching": {
-    "accessibleName": false,
-    "sites": [
-      {
-        "file": "apps/web/app/[lang]/players/[id]/h2h-section.tsx",
-        "line": 166,
+        "line": 864,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -33702,7 +33723,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/players/[id]/page.tsx",
-        "line": 667,
+        "line": 728,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -33920,7 +33941,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/players/[id]/page.tsx",
-        "line": 755,
+        "line": 816,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -33992,7 +34013,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/players/[id]/page.tsx",
-        "line": 736,
+        "line": 797,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -34064,7 +34085,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/players/[id]/page.tsx",
-        "line": 776,
+        "line": 837,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -34112,7 +34133,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/players/[id]/page.tsx",
-        "line": 618,
+        "line": 679,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -34328,14 +34349,14 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/players/[id]/page.tsx",
-        "line": 141,
+        "line": 157,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/app/[lang]/players/[id]/page.tsx",
-        "line": 853,
+        "line": 934,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -34347,14 +34368,14 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/players/[id]/page.tsx",
-        "line": 142,
+        "line": 158,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/app/[lang]/players/[id]/page.tsx",
-        "line": 804,
+        "line": 865,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -34366,14 +34387,14 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/players/[id]/page.tsx",
-        "line": 138,
+        "line": 154,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/app/[lang]/players/[id]/page.tsx",
-        "line": 644,
+        "line": 705,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -34385,7 +34406,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/players/[id]/page.tsx",
-        "line": 140,
+        "line": 156,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -34397,14 +34418,14 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/players/[id]/page.tsx",
-        "line": 139,
+        "line": 155,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/app/[lang]/players/[id]/page.tsx",
-        "line": 719,
+        "line": 780,
         "grain": "str",
         "attr": "",
         "element": ""
