@@ -195,7 +195,9 @@
   "player.masthead.unranked": "Under the name of a player with no rank on {community}'s board.",
   "player.rail.title": "Heading of the player profile's section rail.",
   "player.rating.label": "Name of the rating series in the rating chart.",
-  "player.rating.title": "Section heading over the rating chart.",
+  "player.rating.window": "Accessible name of the pane under the rating chart that shows which span of the series is on screen; drag it to pan.",
+  "player.rating.window.from": "Accessible name of the pane's left edge, a slider setting where the shown span starts.",
+  "player.rating.window.to": "Accessible name of the pane's right edge, a slider setting where the shown span ends.",
   "player.rating.tooltip.ranked": "Rating chart tooltip: the player's rank on the board of {n} at that point.",
   "player.results.column.field": "Results column: how many entered.",
   "player.results.column.place": "Results column: the finishing place.",
@@ -206,6 +208,5 @@
   "player.section.h2h": "Profile section and rail entry: one player's record against another.",
   "player.section.highlights": "Profile section and rail entry.",
   "player.section.hosted": "Rail entry for the events this player organised.",
-  "player.section.rating": "Rail entry for the rating history.",
   "player.section.tournaments": "Profile section and rail entry: tournament history."
 }

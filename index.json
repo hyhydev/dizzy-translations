@@ -353,7 +353,7 @@
       },
       {
         "file": "apps/web/components/blob-image-field.tsx",
-        "line": 182,
+        "line": 187,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -930,14 +930,14 @@
       },
       {
         "file": "apps/web/components/blob-image-field.tsx",
-        "line": 193,
+        "line": 198,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/components/blob-image-field.tsx",
-        "line": 202,
+        "line": 207,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -1190,7 +1190,7 @@
     "sites": [
       {
         "file": "apps/web/components/blob-image-field.tsx",
-        "line": 182,
+        "line": 187,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -4719,12 +4719,24 @@
       }
     ]
   },
+  "common.image.refused": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/blob-image-field.tsx",
+        "line": 140,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
   "common.image.removeDescription": {
     "accessibleName": false,
     "sites": [
       {
         "file": "apps/web/components/blob-image-field.tsx",
-        "line": 201,
+        "line": 206,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -4736,7 +4748,7 @@
     "sites": [
       {
         "file": "apps/web/components/blob-image-field.tsx",
-        "line": 198,
+        "line": 203,
         "grain": "str",
         "attr": "",
         "element": ""

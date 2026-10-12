@@ -277,6 +277,7 @@
   "common.home.tower.wholeBoard": "Whole board",
   "common.home.tower.you": "YOU",
   "common.home.via": "via {community}",
+  "common.image.refused": "This upload wasn't allowed. Check that you can still edit this page, then try again.",
   "common.image.removeDescription": "It comes off straight away. You can upload another at any time.",
   "common.image.removeTitle": "Remove this {label}?",
   "common.image.sizeMb": "{n} MB",

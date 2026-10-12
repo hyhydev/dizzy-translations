@@ -253,6 +253,7 @@
   "common.image.sizeMb": "A file size limit in megabytes, such as \"2 MB\".",
   "common.image.tooLargeForSlot": "Error under an image field when the picked file is over the slot's limit. {mb} is the file's size in megabytes, already formatted; {max} is the limit as a label such as \"5 MB\".",
   "common.image.tooLargeForSlotUnsized": "Error under an image field when the upload was refused for size and the file's size is not known. {max} is the limit as a label such as \"5 MB\".",
+  "common.image.refused": "Upload error when the server refused to issue an upload token; the library hides the server's reason, so this stands in for a permission refusal.",
   "common.image.typeNotAccepted": "Upload error for a file type the slot refuses; {hint} is the slot's own hint sentence naming the types it takes.",
   "common.image.uploadFailed": "Error when an image upload fails without a reason.",
   "common.location.add": "The location control before the viewer has said where they are.",
