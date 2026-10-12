@@ -122,7 +122,6 @@
   "player.claim.claimed": "On a player's profile: an account has claimed this player.",
   "player.claim.declined": "On a player's profile, to the viewer whose claim was refused.",
   "player.claim.mergePending": "In place of the merge button once the request is made: a moderator has not decided yet.",
-  "player.claim.mergePublic": "One line beside the merge button saying what merging does, followed by a link to the privacy notice.",
   "player.claim.pending": "On a player's profile, to the viewer whose claim awaits a moderator.",
   "player.claim.public": "Beside the claim button on a player's profile, in words a 13-year-old can read. \"What else\" is the optional details a claimed player can add, like country, pronouns and avatar. A link to the privacy notice follows it.",
   "player.claim.request": "Button: ask a moderator to link this player to the viewer's account.",

@@ -122,7 +122,6 @@
   "player.claim.claimed": "Claimed",
   "player.claim.declined": "Your previous claim request was declined.",
   "player.claim.mergePending": "Merge request pending review",
-  "player.claim.mergePublic": "Merging adds this profile's history to the profile you hold. You can choose what else to share.",
   "player.claim.pending": "Claim request pending review",
   "player.claim.public": "Claiming links this profile's history to your account. You can choose what else to share.",
   "player.claim.request": "This is me, request to claim",

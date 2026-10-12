@@ -6159,7 +6159,7 @@
       },
       {
         "file": "apps/web/app/[lang]/players/[id]/claim-section.tsx",
-        "line": 98,
+        "line": 101,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -33167,18 +33167,6 @@
       }
     ]
   },
-  "player.claim.mergePublic": {
-    "accessibleName": false,
-    "sites": [
-      {
-        "file": "apps/web/app/[lang]/players/[id]/claim-section.tsx",
-        "line": 93,
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      }
-    ]
-  },
   "player.claim.pending": {
     "accessibleName": false,
     "sites": [
@@ -33196,7 +33184,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/players/[id]/claim-section.tsx",
-        "line": 93,
+        "line": 96,
         "grain": "str",
         "attr": "",
         "element": ""
