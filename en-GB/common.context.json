@@ -279,6 +279,7 @@
   "common.meta.brand": "The site's name, used as the application and site name in link previews. Keep as is.",
   "common.meta.site.description": "The site's default description in search results and link previews.",
   "common.meta.site.title": "The site's default page title and link-preview title.",
+  "common.meta.titlePart": "How a tab title names where the reader is inside a page: {part} is the place (a section of the page, or the community a dashboard is showing), {rest} the title the page already had. Keep the separator the same as in common.meta.titleTemplate.",
   "common.meta.titleTemplate": "How every page title is built: %s is replaced by the page's own title. Keep %s exactly.",
   "common.modLink.approve": "Button: approves the game's request to link to the person's account.",
   "common.modLink.ask": "{version} is the plugin's version number, such as 0.3.2. Link Account is the name of a switch in the game's own settings and stays in English.",

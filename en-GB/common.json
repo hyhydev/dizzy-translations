@@ -318,6 +318,7 @@
   "common.meta.brand": "Dizzy",
   "common.meta.site.description": "The community-run home for grassroots tournaments. Browse events, brackets, rankings and player history across every game and community on Dizzy.",
   "common.meta.site.title": "Dizzy: grassroots tournaments, rankings and players",
+  "common.meta.titlePart": "{part} | {rest}",
   "common.meta.titleTemplate": "%s | Dizzy",
   "common.modLink.approve": "Link this game",
   "common.modLink.approved": "Linked. You can go back to the game.",
