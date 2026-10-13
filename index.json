@@ -313,7 +313,7 @@
       },
       {
         "file": "apps/web/components/search-picker.tsx",
-        "line": 311,
+        "line": 321,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -776,7 +776,7 @@
       },
       {
         "file": "apps/web/app/[lang]/dashboard/scene/moderators/community-moderators-panel.tsx",
-        "line": 224,
+        "line": 288,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -909,14 +909,14 @@
       },
       {
         "file": "apps/web/app/[lang]/dashboard/scene/moderators/moderator-dialog.tsx",
-        "line": 241,
+        "line": 262,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/app/[lang]/dashboard/scene/moderators/moderator-dialog.tsx",
-        "line": 266,
+        "line": 287,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -1026,7 +1026,7 @@
       },
       {
         "file": "apps/web/app/[lang]/dashboard/scene/moderators/moderator-dialog.tsx",
-        "line": 194,
+        "line": 215,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -6319,7 +6319,7 @@
       },
       {
         "file": "apps/web/components/person-picker.tsx",
-        "line": 150,
+        "line": 153,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -6338,7 +6338,7 @@
       },
       {
         "file": "apps/web/components/person-picker.tsx",
-        "line": 145,
+        "line": 148,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -13212,14 +13212,14 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/moderators/community-moderators-panel.tsx",
-        "line": 122,
+        "line": 145,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/app/[lang]/dashboard/scene/moderators/community-moderators-panel.tsx",
-        "line": 125,
+        "line": 148,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -13231,7 +13231,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/moderators/community-moderators-panel.tsx",
-        "line": 123,
+        "line": 146,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -13243,7 +13243,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/moderators/community-moderators-panel.tsx",
-        "line": 112,
+        "line": 134,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -13255,7 +13255,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/moderators/moderator-dialog.tsx",
-        "line": 166,
+        "line": 148,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -13291,21 +13291,28 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/moderators/community-moderators-panel.tsx",
-        "line": 170,
+        "line": 158,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
+        "file": "apps/web/app/[lang]/dashboard/scene/moderators/community-moderators-panel.tsx",
+        "line": 211,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/app/[lang]/dashboard/scene/moderators/moderator-dialog.tsx",
-        "line": 111,
+        "line": 175,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/app/[lang]/dashboard/scene/moderators/moderator-dialog.tsx",
-        "line": 359,
+        "line": 380,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -13317,14 +13324,14 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/moderators/community-moderators-panel.tsx",
-        "line": 162,
+        "line": 203,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/app/[lang]/dashboard/scene/moderators/moderator-dialog.tsx",
-        "line": 345,
+        "line": 366,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -13336,7 +13343,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/moderators/community-moderators-panel.tsx",
-        "line": 235,
+        "line": 300,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -13348,7 +13355,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/moderators/moderator-dialog.tsx",
-        "line": 371,
+        "line": 392,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -13360,7 +13367,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/moderators/moderator-dialog.tsx",
-        "line": 376,
+        "line": 397,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -13372,7 +13379,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/moderators/moderator-dialog.tsx",
-        "line": 132,
+        "line": 114,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -13384,7 +13391,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/moderators/community-moderators-panel.tsx",
-        "line": 219,
+        "line": 283,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -13396,7 +13403,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/moderators/moderator-dialog.tsx",
-        "line": 115,
+        "line": 179,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -13408,7 +13415,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/moderators/community-moderators-panel.tsx",
-        "line": 103,
+        "line": 120,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -13420,7 +13427,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/moderators/community-moderators-panel.tsx",
-        "line": 186,
+        "line": 266,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -13432,7 +13439,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/moderators/moderator-dialog.tsx",
-        "line": 219,
+        "line": 240,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -13444,7 +13451,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/moderators/moderator-dialog.tsx",
-        "line": 167,
+        "line": 149,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -13456,7 +13463,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/moderators/community-moderators-panel.tsx",
-        "line": 193,
+        "line": 272,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -13468,7 +13475,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/moderators/moderator-dialog.tsx",
-        "line": 248,
+        "line": 269,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -13480,7 +13487,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/moderators/community-moderators-panel.tsx",
-        "line": 30,
+        "line": 35,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -13492,7 +13499,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/moderators/moderator-dialog.tsx",
-        "line": 329,
+        "line": 350,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -13504,7 +13511,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/moderators/moderator-dialog.tsx",
-        "line": 334,
+        "line": 355,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -15765,6 +15772,13 @@
     "accessibleName": false,
     "sites": [
       {
+        "file": "apps/web/app/[lang]/dashboard/scene/moderators/community-moderators-panel.tsx",
+        "line": 216,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
         "file": "apps/web/app/[lang]/dashboard/scene/series/community-series-table.tsx",
         "line": 95,
         "grain": "str",
@@ -16469,7 +16483,7 @@
       },
       {
         "file": "apps/web/app/[lang]/dashboard/scene/moderators/community-moderators-panel.tsx",
-        "line": 147,
+        "line": 188,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -16495,7 +16509,7 @@
       },
       {
         "file": "apps/web/app/[lang]/dashboard/scene/moderators/community-moderators-panel.tsx",
-        "line": 33,
+        "line": 38,
         "grain": "str",
         "attr": "",
         "element": ""

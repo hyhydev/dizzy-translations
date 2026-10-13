@@ -191,7 +191,7 @@
   "dashboard.community.location.town": "The town",
   "dashboard.community.location.town.venue": "The town it is in",
   "dashboard.community.moderators.add": "Add moderator",
-  "dashboard.community.moderators.add.description": "Gives someone moderation rights over this community. Which rights they hold is set per moderator, from their row.",
+  "dashboard.community.moderators.add.description": "Gives someone moderation rights over this community.",
   "dashboard.community.moderators.add.open": "+ Add moderator",
   "dashboard.community.moderators.adding": "Adding",
   "dashboard.community.moderators.change.adds": "Adds {list}.",
