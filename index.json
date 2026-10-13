@@ -1228,7 +1228,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/api-keys/api-keys-client.tsx",
-        "line": 318,
+        "line": 331,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -1240,7 +1240,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/api-keys/api-keys-client.tsx",
-        "line": 303,
+        "line": 316,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -1252,7 +1252,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/api-keys/api-keys-client.tsx",
-        "line": 307,
+        "line": 320,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -1264,7 +1264,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/api-keys/api-keys-client.tsx",
-        "line": 296,
+        "line": 308,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -1276,7 +1276,31 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/api-keys/api-keys-client.tsx",
-        "line": 311,
+        "line": 324,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "common.apiKeys.column.name": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/api-keys/api-keys-client.tsx",
+        "line": 302,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "common.apiKeys.column.rateLimit": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/api-keys/api-keys-client.tsx",
+        "line": 312,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -1288,7 +1312,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/api-keys/api-keys-client.tsx",
-        "line": 139,
+        "line": 146,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -1300,7 +1324,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/api-keys/api-keys-client.tsx",
-        "line": 140,
+        "line": 147,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -1312,14 +1336,14 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/api-keys/api-keys-client.tsx",
-        "line": 185,
+        "line": 192,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/app/[lang]/api-keys/api-keys-client.tsx",
-        "line": 288,
+        "line": 294,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -1331,7 +1355,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/api-keys/api-keys-client.tsx",
-        "line": 463,
+        "line": 465,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -1355,7 +1379,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/api-keys/api-keys-client.tsx",
-        "line": 189,
+        "line": 196,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -1367,7 +1391,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/api-keys/api-keys-client.tsx",
-        "line": 269,
+        "line": 275,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -1383,7 +1407,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/api-keys/api-keys-client.tsx",
-        "line": 108,
+        "line": 113,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -1395,7 +1419,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/api-keys/api-keys-client.tsx",
-        "line": 106,
+        "line": 111,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -1407,7 +1431,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/api-keys/api-keys-client.tsx",
-        "line": 107,
+        "line": 112,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -1431,7 +1455,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/api-keys/api-keys-client.tsx",
-        "line": 193,
+        "line": 200,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -1443,7 +1467,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/api-keys/api-keys-client.tsx",
-        "line": 205,
+        "line": 212,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -1455,7 +1479,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/api-keys/api-keys-client.tsx",
-        "line": 195,
+        "line": 202,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -1467,14 +1491,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/api-keys/api-keys-client.tsx",
-        "line": 109,
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      },
-      {
-        "file": "apps/web/app/[lang]/api-keys/api-keys-client.tsx",
-        "line": 349,
+        "line": 114,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -1488,12 +1505,24 @@
       }
     ]
   },
+  "common.apiKeys.noRateLimit": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/api-keys/api-keys-client.tsx",
+        "line": 389,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
   "common.apiKeys.rateLimit": {
     "accessibleName": false,
     "sites": [
       {
         "file": "apps/web/app/[lang]/api-keys/api-keys-client.tsx",
-        "line": 388,
+        "line": 390,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -1505,7 +1534,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/api-keys/api-keys-client.tsx",
-        "line": 439,
+        "line": 441,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -1517,14 +1546,14 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/api-keys/api-keys-client.tsx",
-        "line": 450,
+        "line": 452,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/app/[lang]/api-keys/api-keys-client.tsx",
-        "line": 493,
+        "line": 495,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -1536,7 +1565,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/api-keys/api-keys-client.tsx",
-        "line": 491,
+        "line": 493,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -1548,7 +1577,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/api-keys/api-keys-client.tsx",
-        "line": 488,
+        "line": 490,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -1560,7 +1589,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/api-keys/api-keys-client.tsx",
-        "line": 485,
+        "line": 487,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -1572,7 +1601,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/api-keys/api-keys-client.tsx",
-        "line": 339,
+        "line": 360,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -1603,14 +1632,14 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/api-keys/api-keys-client.tsx",
-        "line": 328,
+        "line": 345,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/app/[lang]/api-keys/api-keys-client.tsx",
-        "line": 376,
+        "line": 373,
         "grain": "str",
         "attr": "",
         "element": ""
