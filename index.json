@@ -109,6 +109,13 @@
         "element": ""
       },
       {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/reorder-stages-control.tsx",
+        "line": 113,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/stage-setup-panel.tsx",
         "line": 167,
         "grain": "str",
@@ -131,7 +138,7 @@
       },
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/tournament-settings-sections.tsx",
-        "line": 1069,
+        "line": 1073,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -393,7 +400,7 @@
       },
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/tournament-settings-sections.tsx",
-        "line": 235,
+        "line": 239,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -454,7 +461,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/tournament-settings-sections.tsx",
-        "line": 1069,
+        "line": 1073,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -1143,7 +1150,7 @@
       },
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/tournament-settings-sections.tsx",
-        "line": 559,
+        "line": 563,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -3144,7 +3151,7 @@
     "sites": [
       {
         "file": "apps/web/app/global-error.tsx",
-        "line": 147,
+        "line": 146,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -3156,7 +3163,7 @@
     "sites": [
       {
         "file": "apps/web/app/global-error.tsx",
-        "line": 141,
+        "line": 140,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -3168,7 +3175,7 @@
     "sites": [
       {
         "file": "apps/web/app/global-error.tsx",
-        "line": 143,
+        "line": 142,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -3218,7 +3225,7 @@
       },
       {
         "file": "apps/web/app/global-error.tsx",
-        "line": 148,
+        "line": 147,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -7137,7 +7144,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/settings-panels.tsx",
-        "line": 601,
+        "line": 602,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -7156,7 +7163,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/settings-panels.tsx",
-        "line": 568,
+        "line": 569,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -7175,7 +7182,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/settings-panels.tsx",
-        "line": 619,
+        "line": 620,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -7194,7 +7201,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/settings-panels.tsx",
-        "line": 848,
+        "line": 867,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -7227,7 +7234,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/settings-panels.tsx",
-        "line": 654,
+        "line": 655,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -7260,7 +7267,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/settings-panels.tsx",
-        "line": 628,
+        "line": 629,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -7293,7 +7300,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/settings-panels.tsx",
-        "line": 724,
+        "line": 725,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -7312,7 +7319,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/settings-panels.tsx",
-        "line": 770,
+        "line": 771,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -38875,7 +38882,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/change-log-panel.tsx",
-        "line": 78,
+        "line": 79,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -38887,7 +38894,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/change-log-panel.tsx",
-        "line": 75,
+        "line": 76,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -38899,7 +38906,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/change-log-panel.tsx",
-        "line": 72,
+        "line": 73,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -38911,7 +38918,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/change-log-panel.tsx",
-        "line": 81,
+        "line": 82,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -38923,7 +38930,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/change-log-panel.tsx",
-        "line": 58,
+        "line": 59,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -39008,6 +39015,18 @@
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/change-log-panel.tsx",
         "line": 36,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.changeLog.type.stageReorder": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/change-log-panel.tsx",
+        "line": 38,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -39586,14 +39605,14 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/tournament-settings-sections.tsx",
-        "line": 913,
+        "line": 917,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/tournament-settings-sections.tsx",
-        "line": 1307,
+        "line": 1328,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -39605,7 +39624,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/tournament-settings-sections.tsx",
-        "line": 912,
+        "line": 916,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -39617,7 +39636,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/tournament-settings-sections.tsx",
-        "line": 907,
+        "line": 911,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -39629,7 +39648,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/tournament-settings-sections.tsx",
-        "line": 1308,
+        "line": 1329,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -39641,7 +39660,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/tournament-settings-sections.tsx",
-        "line": 911,
+        "line": 915,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -40217,7 +40236,7 @@
       },
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/tournament-settings-sections.tsx",
-        "line": 745,
+        "line": 749,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -41210,7 +41229,7 @@
       },
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/tournament-settings-sections.tsx",
-        "line": 1291,
+        "line": 1312,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -41349,7 +41368,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/tournament-settings-sections.tsx",
-        "line": 1292,
+        "line": 1313,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -43074,7 +43093,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/tournament-settings-sections.tsx",
-        "line": 794,
+        "line": 798,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -43086,7 +43105,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/tournament-settings-sections.tsx",
-        "line": 751,
+        "line": 755,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -43098,7 +43117,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/tournament-settings-sections.tsx",
-        "line": 722,
+        "line": 726,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -43110,7 +43129,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/tournament-settings-sections.tsx",
-        "line": 715,
+        "line": 719,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -43122,7 +43141,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/tournament-settings-sections.tsx",
-        "line": 691,
+        "line": 695,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -43134,7 +43153,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/tournament-settings-sections.tsx",
-        "line": 812,
+        "line": 816,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -43146,7 +43165,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/tournament-settings-sections.tsx",
-        "line": 801,
+        "line": 805,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -43433,7 +43452,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/tournament-settings-sections.tsx",
-        "line": 871,
+        "line": 875,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -43445,7 +43464,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/tournament-settings-sections.tsx",
-        "line": 862,
+        "line": 866,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -43457,7 +43476,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/tournament-settings-sections.tsx",
-        "line": 861,
+        "line": 865,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -43476,7 +43495,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/tournament-settings-sections.tsx",
-        "line": 858,
+        "line": 862,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -43759,14 +43778,14 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/tournament-settings-sections.tsx",
-        "line": 1080,
+        "line": 1084,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/tournament-settings-sections.tsx",
-        "line": 1282,
+        "line": 1290,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -43778,7 +43797,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/tournament-settings-sections.tsx",
-        "line": 1079,
+        "line": 1083,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -43790,7 +43809,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/tournament-settings-sections.tsx",
-        "line": 1039,
+        "line": 1043,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -43802,7 +43821,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/tournament-settings-sections.tsx",
-        "line": 1032,
+        "line": 1036,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -43826,7 +43845,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/tournament-settings-sections.tsx",
-        "line": 1015,
+        "line": 1019,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -43838,7 +43857,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/tournament-settings-sections.tsx",
-        "line": 991,
+        "line": 995,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -43850,7 +43869,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/tournament-settings-sections.tsx",
-        "line": 1283,
+        "line": 1291,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -43862,7 +43881,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/tournament-settings-sections.tsx",
-        "line": 1030,
+        "line": 1034,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -47473,7 +47492,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/tournament-settings-sections.tsx",
-        "line": 595,
+        "line": 599,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -47485,7 +47504,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/tournament-settings-sections.tsx",
-        "line": 602,
+        "line": 606,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -47497,7 +47516,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/tournament-settings-sections.tsx",
-        "line": 536,
+        "line": 540,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -47509,7 +47528,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/tournament-settings-sections.tsx",
-        "line": 537,
+        "line": 541,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -47521,7 +47540,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/settings-panels.tsx",
-        "line": 578,
+        "line": 579,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -47533,7 +47552,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/settings-panels.tsx",
-        "line": 590,
+        "line": 591,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -47545,7 +47564,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/settings-panels.tsx",
-        "line": 610,
+        "line": 611,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -47557,7 +47576,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/tournament-settings-sections.tsx",
-        "line": 502,
+        "line": 506,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -47569,7 +47588,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/tournament-settings-sections.tsx",
-        "line": 512,
+        "line": 516,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -47581,7 +47600,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/settings-panels.tsx",
-        "line": 880,
+        "line": 900,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -47600,7 +47619,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/settings-panels.tsx",
-        "line": 700,
+        "line": 701,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -47619,14 +47638,14 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/settings-panels.tsx",
-        "line": 504,
+        "line": 505,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/settings-panels.tsx",
-        "line": 512,
+        "line": 513,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -47645,7 +47664,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/settings-panels.tsx",
-        "line": 350,
+        "line": 351,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -47664,7 +47683,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/settings-panels.tsx",
-        "line": 285,
+        "line": 286,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -47683,7 +47702,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/settings-panels.tsx",
-        "line": 461,
+        "line": 462,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -47702,7 +47721,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/tournament-settings-sections.tsx",
-        "line": 132,
+        "line": 136,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -47714,7 +47733,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/tournament-settings-sections.tsx",
-        "line": 155,
+        "line": 159,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -47726,7 +47745,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/settings-panels.tsx",
-        "line": 798,
+        "line": 799,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -47738,14 +47757,14 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/tournament-settings-sections.tsx",
-        "line": 149,
+        "line": 153,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/tournament-settings-sections.tsx",
-        "line": 610,
+        "line": 614,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -47757,7 +47776,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/tournament-settings-sections.tsx",
-        "line": 217,
+        "line": 221,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -47769,7 +47788,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/tournament-settings-sections.tsx",
-        "line": 299,
+        "line": 303,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -47781,7 +47800,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/tournament-settings-sections.tsx",
-        "line": 291,
+        "line": 295,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -47793,7 +47812,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/tournament-settings-sections.tsx",
-        "line": 350,
+        "line": 354,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -47805,7 +47824,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/tournament-settings-sections.tsx",
-        "line": 361,
+        "line": 365,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -47817,7 +47836,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/tournament-settings-sections.tsx",
-        "line": 242,
+        "line": 246,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -47829,7 +47848,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/tournament-settings-sections.tsx",
-        "line": 251,
+        "line": 255,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -47841,7 +47860,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/tournament-settings-sections.tsx",
-        "line": 224,
+        "line": 228,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -47853,7 +47872,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/tournament-settings-sections.tsx",
-        "line": 310,
+        "line": 314,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -47865,7 +47884,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/tournament-settings-sections.tsx",
-        "line": 309,
+        "line": 313,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -47877,7 +47896,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/tournament-settings-sections.tsx",
-        "line": 260,
+        "line": 264,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -47889,7 +47908,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/tournament-settings-sections.tsx",
-        "line": 266,
+        "line": 270,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -47901,7 +47920,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/tournament-settings-sections.tsx",
-        "line": 108,
+        "line": 112,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -47913,7 +47932,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/tournament-settings-sections.tsx",
-        "line": 520,
+        "line": 524,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -47925,7 +47944,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/settings-panels.tsx",
-        "line": 261,
+        "line": 262,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -48955,6 +48974,78 @@
       }
     ]
   },
+  "tournament.stageOrder.action": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/tournament-settings-sections.tsx",
+        "line": 1299,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.stageOrder.description": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/reorder-stages-control.tsx",
+        "line": 78,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.stageOrder.open": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/reorder-stages-control.tsx",
+        "line": 70,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.stageOrder.row.description": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/tournament-settings-sections.tsx",
+        "line": 1300,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.stageOrder.save": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/reorder-stages-control.tsx",
+        "line": 121,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.stageOrder.title": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/reorder-stages-control.tsx",
+        "line": 76,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
   "tournament.stageView.crosstable": {
     "accessibleName": false,
     "sites": [
@@ -49969,7 +50060,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/settings-panels.tsx",
-        "line": 506,
+        "line": 507,
         "grain": "str",
         "attr": "",
         "element": ""
