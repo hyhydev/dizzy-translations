@@ -39236,7 +39236,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-dialog-rail.tsx",
-        "line": 907,
+        "line": 915,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -39255,7 +39255,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-dialog-rail.tsx",
-        "line": 902,
+        "line": 910,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -39274,7 +39274,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-dialog-rail.tsx",
-        "line": 906,
+        "line": 914,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -39293,7 +39293,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-dialog-rail.tsx",
-        "line": 901,
+        "line": 909,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -39494,7 +39494,7 @@
       },
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-dialog-rail.tsx",
-        "line": 912,
+        "line": 920,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -39570,14 +39570,14 @@
       },
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-detail-dialog.tsx",
-        "line": 760,
+        "line": 776,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-dialog-rail.tsx",
-        "line": 249,
+        "line": 257,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -45890,7 +45890,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-dialog-rail.tsx",
-        "line": 876,
+        "line": 884,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -45909,7 +45909,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-dialog-rail.tsx",
-        "line": 320,
+        "line": 328,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -45933,14 +45933,14 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-dialog-rail.tsx",
-        "line": 528,
+        "line": 536,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-dialog-rail.tsx",
-        "line": 825,
+        "line": 833,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -45952,7 +45952,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-dialog-rail.tsx",
-        "line": 888,
+        "line": 896,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -45964,14 +45964,14 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-dialog-rail.tsx",
-        "line": 860,
+        "line": 868,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-dialog-rail.tsx",
-        "line": 911,
+        "line": 919,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -46009,7 +46009,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-dialog-rail.tsx",
-        "line": 967,
+        "line": 975,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -46021,7 +46021,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-dialog-rail.tsx",
-        "line": 849,
+        "line": 857,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -46052,7 +46052,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-dialog-rail.tsx",
-        "line": 535,
+        "line": 543,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -46064,7 +46064,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-dialog-rail.tsx",
-        "line": 762,
+        "line": 770,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -46095,7 +46095,31 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-dialog-rail.tsx",
-        "line": 775,
+        "line": 783,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.set.forfeit.played": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/set-forfeit-ruling.tsx",
+        "line": 62,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.set.forfeit.rule": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/set-forfeit-ruling.tsx",
+        "line": 63,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -46107,7 +46131,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-detail-dialog.tsx",
-        "line": 688,
+        "line": 704,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -46119,7 +46143,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-detail-dialog.tsx",
-        "line": 691,
+        "line": 707,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -46138,7 +46162,7 @@
       },
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-detail-dialog.tsx",
-        "line": 690,
+        "line": 706,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -46150,14 +46174,14 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-dialog-rail.tsx",
-        "line": 412,
+        "line": 420,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-dialog-rail.tsx",
-        "line": 444,
+        "line": 452,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -46176,7 +46200,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-detail-dialog.tsx",
-        "line": 613,
+        "line": 629,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -46188,7 +46212,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-detail-dialog.tsx",
-        "line": 604,
+        "line": 620,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -46212,7 +46236,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-dialog-rail.tsx",
-        "line": 731,
+        "line": 739,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -46224,7 +46248,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-dialog-rail.tsx",
-        "line": 657,
+        "line": 665,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -46236,7 +46260,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-dialog-rail.tsx",
-        "line": 656,
+        "line": 664,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -46248,7 +46272,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-dialog-rail.tsx",
-        "line": 651,
+        "line": 659,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -46260,14 +46284,14 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-dialog-rail.tsx",
-        "line": 734,
+        "line": 742,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-dialog-rail.tsx",
-        "line": 987,
+        "line": 995,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -46279,14 +46303,14 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-dialog-rail.tsx",
-        "line": 744,
+        "line": 752,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-dialog-rail.tsx",
-        "line": 992,
+        "line": 1000,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -46298,14 +46322,14 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-dialog-rail.tsx",
-        "line": 740,
+        "line": 748,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-dialog-rail.tsx",
-        "line": 1098,
+        "line": 1106,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -46317,7 +46341,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-dialog-rail.tsx",
-        "line": 754,
+        "line": 762,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -46336,7 +46360,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-dialog-rail.tsx",
-        "line": 1097,
+        "line": 1105,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -46348,7 +46372,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-dialog-rail.tsx",
-        "line": 1058,
+        "line": 1066,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -46360,7 +46384,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-dialog-rail.tsx",
-        "line": 1071,
+        "line": 1079,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -46372,7 +46396,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-dialog-rail.tsx",
-        "line": 1074,
+        "line": 1082,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -46384,7 +46408,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-dialog-rail.tsx",
-        "line": 1057,
+        "line": 1065,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -46396,7 +46420,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-dialog-rail.tsx",
-        "line": 724,
+        "line": 732,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -46446,14 +46470,14 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-dialog-rail.tsx",
-        "line": 370,
+        "line": 378,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-dialog-rail.tsx",
-        "line": 410,
+        "line": 418,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -46477,7 +46501,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-dialog-rail.tsx",
-        "line": 418,
+        "line": 426,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -46489,7 +46513,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-dialog-rail.tsx",
-        "line": 372,
+        "line": 380,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -46501,7 +46525,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-dialog-rail.tsx",
-        "line": 251,
+        "line": 259,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -46513,7 +46537,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-dialog-rail.tsx",
-        "line": 255,
+        "line": 263,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -46525,7 +46549,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-dialog-rail.tsx",
-        "line": 257,
+        "line": 265,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -46537,7 +46561,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-dialog-rail.tsx",
-        "line": 253,
+        "line": 261,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -46549,7 +46573,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-dialog-rail.tsx",
-        "line": 723,
+        "line": 731,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -46580,7 +46604,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-dialog-rail.tsx",
-        "line": 490,
+        "line": 498,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -46592,7 +46616,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-dialog-rail.tsx",
-        "line": 499,
+        "line": 507,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -46652,7 +46676,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-dialog-rail.tsx",
-        "line": 569,
+        "line": 577,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -46664,7 +46688,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-dialog-rail.tsx",
-        "line": 543,
+        "line": 551,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -46676,7 +46700,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-dialog-rail.tsx",
-        "line": 551,
+        "line": 559,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -46688,7 +46712,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-detail-dialog.tsx",
-        "line": 560,
+        "line": 576,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -46700,7 +46724,14 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-dialog-rail.tsx",
-        "line": 622,
+        "line": 630,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/set-forfeit-ruling.tsx",
+        "line": 43,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -46712,7 +46743,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-dialog-rail.tsx",
-        "line": 867,
+        "line": 875,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -46731,14 +46762,14 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-dialog-rail.tsx",
-        "line": 769,
+        "line": 777,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-dialog-rail.tsx",
-        "line": 832,
+        "line": 840,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -46757,7 +46788,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-dialog-rail.tsx",
-        "line": 952,
+        "line": 960,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -46769,7 +46800,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-detail-dialog.tsx",
-        "line": 768,
+        "line": 784,
         "grain": "str",
         "attr": "",
         "element": ""

@@ -618,6 +618,8 @@
   "tournament.set.dqTimer.startFor": "Start DQ timer for {name}",
   "tournament.set.dqTimer.startNamed": "DQ {name}",
   "tournament.set.dqTimer.startShort": "DQ · {name}",
+  "tournament.set.forfeit.played": "Mark as played",
+  "tournament.set.forfeit.rule": "Mark as DQ",
   "tournament.set.games.forfeit": "This set was decided by forfeit, so it has no games.",
   "tournament.set.games.none": "No game-by-game record for this set.",
   "tournament.set.games.noneImported": "No game-by-game record for this set. Its source reported the scoreline only.",

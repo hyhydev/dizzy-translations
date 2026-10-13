@@ -618,6 +618,8 @@
   "tournament.set.dqTimer.startFor": "",
   "tournament.set.dqTimer.startNamed": "",
   "tournament.set.dqTimer.startShort": "",
+  "tournament.set.forfeit.played": "",
+  "tournament.set.forfeit.rule": "",
   "tournament.set.games.forfeit": "",
   "tournament.set.games.none": "",
   "tournament.set.games.noneImported": "",
