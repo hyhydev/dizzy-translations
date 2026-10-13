@@ -40858,7 +40858,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/bracket-game-capture.tsx",
-        "line": 380,
+        "line": 388,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -41002,7 +41002,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/bracket-game-capture.tsx",
-        "line": 370,
+        "line": 378,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -41014,7 +41014,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/bracket-game-capture.tsx",
-        "line": 364,
+        "line": 370,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -41038,7 +41038,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/bracket-game-capture.tsx",
-        "line": 367,
+        "line": 375,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -41057,12 +41057,24 @@
       }
     ]
   },
+  "tournament.game.remove.replayNote": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/bracket-game-capture.tsx",
+        "line": 373,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
   "tournament.game.remove.reportedNote": {
     "accessibleName": false,
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/bracket-game-capture.tsx",
-        "line": 368,
+        "line": 376,
         "grain": "str",
         "attr": "",
         "element": ""

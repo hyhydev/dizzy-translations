@@ -184,6 +184,7 @@
   "tournament.game.remove.hint": "Tooltip on a game's remove button.",
   "tournament.game.remove.importedNote": "Remove-game dialog, on an imported set: the source's result is kept.",
   "tournament.game.remove.label": "Accessible name of a game's remove button; {n} is the game's number in the set.",
+  "tournament.game.remove.replayNote": "In the dialog that asks before a game is removed from a set's game log, when that game has a replay attached.",
   "tournament.game.remove.reportedNote": "Remove-game dialog, on a set already reported here.",
   "tournament.game.score.label": "Heading of a game's optional score picker (stocks or rounds left).",
   "tournament.game.score.set": "Accessible name of a game's score picker.",

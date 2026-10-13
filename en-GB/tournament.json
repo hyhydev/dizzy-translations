@@ -221,6 +221,7 @@
   "tournament.game.remove.hint": "Remove this game (later games renumber)",
   "tournament.game.remove.importedNote": "Later games renumber. The reported result stays as the source gave it.",
   "tournament.game.remove.label": "Remove game {n}",
+  "tournament.game.remove.replayNote": "This game's replay is removed with it, and later games renumber.",
   "tournament.game.remove.reportedNote": "This set is already reported. Removing a game can change its result, and later games renumber.",
   "tournament.game.score.label": "Game score (optional)",
   "tournament.game.score.set": "Set game score",
