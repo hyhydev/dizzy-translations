@@ -32,7 +32,7 @@
   "common.apiKeys.new.expiry": "Accessible name of the dropdown that chooses how long a new API key lasts.",
   "common.apiKeys.new.help": "Under the description box in the dialog for making an API key.",
   "common.apiKeys.noExpiry": "An API key that never stops working. Also the last choice in the list of lifetimes when making a key.",
-  "common.apiKeys.rateLimit": "After the creation date of an API key that has its own request limit. `{n}` is the number of requests allowed each minute.",
+  "common.apiKeys.rateLimit": "On its own line under the prefix of an API key that has its own request limit. `{n}` is the number of requests allowed each minute.",
   "common.apiKeys.renew": "Button on an API key's row: give the key another year before it expires.",
   "common.apiKeys.revoke.confirm": "Confirmation body for revoking an API key that has no description.",
   "common.apiKeys.revoke.confirmNamed": "Confirmation body for revoking an API key; {name} is the description the owner gave the key.",
