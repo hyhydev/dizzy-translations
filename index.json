@@ -5335,7 +5335,7 @@
       },
       {
         "file": "apps/web/app/[lang]/profile/integrations-section.tsx",
-        "line": 65,
+        "line": 61,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -5354,7 +5354,7 @@
       },
       {
         "file": "apps/web/app/[lang]/profile/integrations-section.tsx",
-        "line": 67,
+        "line": 63,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -5437,7 +5437,7 @@
       },
       {
         "file": "apps/web/app/[lang]/profile/integrations-section.tsx",
-        "line": 87,
+        "line": 83,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -34697,7 +34697,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/profile/account-hub.tsx",
-        "line": 700,
+        "line": 713,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -34709,7 +34709,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/profile/account-hub.tsx",
-        "line": 704,
+        "line": 717,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -34721,7 +34721,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/profile/account-hub.tsx",
-        "line": 710,
+        "line": 723,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -34733,7 +34733,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/profile/account-hub.tsx",
-        "line": 711,
+        "line": 724,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -34745,7 +34745,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/profile/account-hub.tsx",
-        "line": 718,
+        "line": 731,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -34757,14 +34757,14 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/profile/account-hub.tsx",
-        "line": 466,
+        "line": 471,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/app/[lang]/profile/account-hub.tsx",
-        "line": 553,
+        "line": 558,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -34776,14 +34776,14 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/profile/account-hub.tsx",
-        "line": 536,
+        "line": 541,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/app/[lang]/profile/account-hub.tsx",
-        "line": 578,
+        "line": 583,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -34795,7 +34795,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/profile/account-hub.tsx",
-        "line": 519,
+        "line": 524,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -34807,14 +34807,14 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/profile/account-hub.tsx",
-        "line": 535,
+        "line": 540,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/app/[lang]/profile/account-hub.tsx",
-        "line": 577,
+        "line": 582,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -35953,14 +35953,14 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/profile/integrations-section.tsx",
-        "line": 47,
+        "line": 43,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/app/[lang]/profile/integrations-section.tsx",
-        "line": 60,
+        "line": 56,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -35972,7 +35972,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/profile/integrations-section.tsx",
-        "line": 48,
+        "line": 44,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -35984,7 +35984,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/profile/integrations-section.tsx",
-        "line": 52,
+        "line": 48,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -35996,7 +35996,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/profile/integrations-section.tsx",
-        "line": 36,
+        "line": 32,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -36008,7 +36008,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/profile/integrations-section.tsx",
-        "line": 37,
+        "line": 33,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -36020,19 +36020,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/profile/integrations-section.tsx",
-        "line": 41,
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      }
-    ]
-  },
-  "profile.integrations.title": {
-    "accessibleName": false,
-    "sites": [
-      {
-        "file": "apps/web/app/[lang]/profile/integrations-section.tsx",
-        "line": 32,
+        "line": 37,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -36137,7 +36125,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/profile/account-hub.tsx",
-        "line": 774,
+        "line": 787,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -36149,7 +36137,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/profile/account-hub.tsx",
-        "line": 780,
+        "line": 793,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -36161,7 +36149,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/profile/account-hub.tsx",
-        "line": 786,
+        "line": 799,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -36173,7 +36161,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/profile/account-hub.tsx",
-        "line": 783,
+        "line": 796,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -36185,7 +36173,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/profile/account-hub.tsx",
-        "line": 827,
+        "line": 840,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -36197,7 +36185,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/profile/account-hub.tsx",
-        "line": 828,
+        "line": 841,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -36209,7 +36197,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/profile/account-hub.tsx",
-        "line": 763,
+        "line": 776,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -36221,7 +36209,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/profile/account-hub.tsx",
-        "line": 762,
+        "line": 775,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -36233,7 +36221,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/profile/account-hub.tsx",
-        "line": 760,
+        "line": 773,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -36245,7 +36233,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/profile/account-hub.tsx",
-        "line": 761,
+        "line": 774,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -36257,7 +36245,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/profile/account-hub.tsx",
-        "line": 737,
+        "line": 750,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -36504,7 +36492,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/profile/account-hub.tsx",
-        "line": 500,
+        "line": 505,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -36516,7 +36504,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/profile/account-hub.tsx",
-        "line": 547,
+        "line": 552,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -36780,7 +36768,7 @@
       },
       {
         "file": "apps/web/app/[lang]/profile/account-hub.tsx",
-        "line": 118,
+        "line": 121,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -36799,7 +36787,7 @@
       },
       {
         "file": "apps/web/app/[lang]/profile/account-hub.tsx",
-        "line": 119,
+        "line": 122,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -37134,7 +37122,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/profile/account-hub.tsx",
-        "line": 460,
+        "line": 465,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -37165,14 +37153,14 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/profile/account-hub.tsx",
-        "line": 101,
+        "line": 104,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/app/[lang]/profile/account-hub.tsx",
-        "line": 697,
+        "line": 710,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -37184,14 +37172,14 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/profile/account-hub.tsx",
-        "line": 100,
+        "line": 102,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/app/[lang]/profile/account-hub.tsx",
-        "line": 682,
+        "line": 687,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -37203,14 +37191,14 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/profile/account-hub.tsx",
-        "line": 96,
+        "line": 98,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/app/[lang]/profile/account-hub.tsx",
-        "line": 596,
+        "line": 601,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -37222,14 +37210,33 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/profile/account-hub.tsx",
-        "line": 98,
+        "line": 100,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/app/[lang]/profile/account-hub.tsx",
-        "line": 644,
+        "line": 649,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "profile.section.integrations": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/profile/account-hub.tsx",
+        "line": 103,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
+        "file": "apps/web/app/[lang]/profile/account-hub.tsx",
+        "line": 696,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -37248,14 +37255,14 @@
       },
       {
         "file": "apps/web/app/[lang]/profile/account-hub.tsx",
-        "line": 95,
+        "line": 97,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/app/[lang]/profile/account-hub.tsx",
-        "line": 590,
+        "line": 595,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -37267,14 +37274,14 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/profile/account-hub.tsx",
-        "line": 99,
+        "line": 101,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/app/[lang]/profile/account-hub.tsx",
-        "line": 664,
+        "line": 669,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -37286,14 +37293,14 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/profile/account-hub.tsx",
-        "line": 94,
+        "line": 96,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/app/[lang]/profile/account-hub.tsx",
-        "line": 475,
+        "line": 480,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -37312,14 +37319,14 @@
       },
       {
         "file": "apps/web/app/[lang]/profile/account-hub.tsx",
-        "line": 97,
+        "line": 99,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/app/[lang]/profile/account-hub.tsx",
-        "line": 605,
+        "line": 610,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -37331,14 +37338,14 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/profile/account-hub.tsx",
-        "line": 93,
+        "line": 95,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/app/[lang]/profile/account-hub.tsx",
-        "line": 427,
+        "line": 432,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -37350,7 +37357,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/profile/account-hub.tsx",
-        "line": 404,
+        "line": 409,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -37580,7 +37587,7 @@
       },
       {
         "file": "apps/web/app/[lang]/profile/account-hub.tsx",
-        "line": 726,
+        "line": 739,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -37675,14 +37682,14 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/profile/account-hub.tsx",
-        "line": 305,
+        "line": 310,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/app/[lang]/profile/account-hub.tsx",
-        "line": 312,
+        "line": 317,
         "grain": "str",
         "attr": "",
         "element": ""
