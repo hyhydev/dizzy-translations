@@ -34009,6 +34009,12 @@
         "grain": "str",
         "attr": "",
         "element": ""
+      },
+      {
+        "file": "apps/web/app/[lang]/profile/premium-billing.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
       }
     ]
   },
@@ -34205,6 +34211,39 @@
     ]
   },
   "profile.premium.subscribeYearly": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/profile/premium-billing.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "profile.premium.terms.cancel": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/profile/premium-billing.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "profile.premium.terms.renews": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/profile/premium-billing.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "profile.premium.terms.startNow": {
     "accessibleName": false,
     "sites": [
       {
