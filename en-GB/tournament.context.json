@@ -390,6 +390,7 @@
   "tournament.rebuild.row.description": "Under the Re-pull bracket data row in the Advanced node. A VOD is a recorded video of a set.",
   "tournament.rebuild.title": "Title of the dialog that re-pulls an imported tournament from its source.",
   "tournament.replay.addTo": "Accessible name of the upload button on a game's row in a set's log: choose the replay file that game recorded.",
+  "tournament.replay.art": "Toggle button in the replay player: draw the stage's and the characters' art from the game behind the diagram, in place of plain boxes.",
   "tournament.replay.axis.defence": "One of four dimensions of a player's game: how well they avoided being hit.",
   "tournament.replay.axis.defenceAbout": "The sentence shown when the Defence figure in the replay player is hovered, pressed or focused. It says what the percentage counts.",
   "tournament.replay.axis.interception": "One of four dimensions of a player's game: taking the ball off the opponent.",

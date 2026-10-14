@@ -429,6 +429,7 @@
   "tournament.rebuild.title": "Re-pull bracket data?",
   "tournament.replay.addTo": "Add a replay of game {number}",
   "tournament.replay.analysing": "Analysing…",
+  "tournament.replay.art": "Game art",
   "tournament.replay.axis.defence": "Defence",
   "tournament.replay.axis.defenceAbout": "How often they stayed safe: the share of balls sent at them that did not hit them.",
   "tournament.replay.axis.interception": "Interception",
