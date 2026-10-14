@@ -40,7 +40,7 @@
     "sites": [
       {
         "file": "apps/mobile/app/(tabs)/my-run.tsx",
-        "line": 468,
+        "line": 469,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -393,7 +393,14 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/stage-dialog.tsx",
-        "line": 262,
+        "line": 270,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/stage-dialog.tsx",
+        "line": 351,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -534,21 +541,21 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/stage-dialog.tsx",
-        "line": 455,
+        "line": 535,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/stage-dialog.tsx",
-        "line": 466,
+        "line": 546,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/stage-dialog.tsx",
-        "line": 637,
+        "line": 718,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -644,7 +651,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/stage-dialog.tsx",
-        "line": 413,
+        "line": 493,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -736,7 +743,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/stage-dialog.tsx",
-        "line": 409,
+        "line": 489,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -991,21 +998,28 @@
       },
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/stage-dialog.tsx",
-        "line": 147,
+        "line": 155,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/stage-dialog.tsx",
-        "line": 205,
+        "line": 213,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/stage-dialog.tsx",
-        "line": 288,
+        "line": 296,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/stage-dialog.tsx",
+        "line": 368,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -1720,6 +1734,60 @@
       }
     ]
   },
+  "common.bestOf": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/mobile/app/(tabs)/my-run.tsx",
+        "line": 288,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/set-detail-dialog.tsx",
+        "line": 368,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/stage-dialog.tsx",
+        "line": 322,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/stage-dialog.tsx",
+        "line": 342,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/stage-reads.ts",
+        "line": 235,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/your-match-card.tsx",
+        "line": 248,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
+        "file": "apps/web/app/[lang]/events/[slug]/your-run-rail.tsx",
+        "line": 95,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
   "common.board.caution.plain": {
     "accessibleName": false,
     "sites": [
@@ -2385,7 +2453,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/stage-reads.ts",
-        "line": 256,
+        "line": 259,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -3417,7 +3485,7 @@
     "sites": [
       {
         "file": "apps/mobile/app/(tabs)/my-run.tsx",
-        "line": 461,
+        "line": 462,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -5764,7 +5832,14 @@
       },
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/stage-dialog.tsx",
-        "line": 239,
+        "line": 247,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/stage-dialog.tsx",
+        "line": 324,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -25678,7 +25753,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/your-run-rail.tsx",
-        "line": 102,
+        "line": 106,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -30235,7 +30310,7 @@
     "sites": [
       {
         "file": "apps/mobile/app/(tabs)/my-run.tsx",
-        "line": 312,
+        "line": 313,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -30283,7 +30358,7 @@
     "sites": [
       {
         "file": "apps/mobile/app/(tabs)/my-run.tsx",
-        "line": 315,
+        "line": 316,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -30343,7 +30418,7 @@
     "sites": [
       {
         "file": "apps/mobile/app/(tabs)/my-run.tsx",
-        "line": 360,
+        "line": 361,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -30427,7 +30502,7 @@
     "sites": [
       {
         "file": "apps/mobile/app/(tabs)/my-run.tsx",
-        "line": 317,
+        "line": 318,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -30439,7 +30514,7 @@
     "sites": [
       {
         "file": "apps/mobile/app/(tabs)/my-run.tsx",
-        "line": 322,
+        "line": 323,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -30451,7 +30526,7 @@
     "sites": [
       {
         "file": "apps/mobile/app/(tabs)/my-run.tsx",
-        "line": 329,
+        "line": 330,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -30463,7 +30538,7 @@
     "sites": [
       {
         "file": "apps/mobile/app/(tabs)/my-run.tsx",
-        "line": 415,
+        "line": 416,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -30475,7 +30550,7 @@
     "sites": [
       {
         "file": "apps/mobile/app/(tabs)/my-run.tsx",
-        "line": 447,
+        "line": 448,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -30487,7 +30562,7 @@
     "sites": [
       {
         "file": "apps/mobile/app/(tabs)/my-run.tsx",
-        "line": 462,
+        "line": 463,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -30499,7 +30574,7 @@
     "sites": [
       {
         "file": "apps/mobile/app/(tabs)/my-run.tsx",
-        "line": 435,
+        "line": 436,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -30621,7 +30696,7 @@
     "sites": [
       {
         "file": "apps/mobile/app/(tabs)/my-run.tsx",
-        "line": 289,
+        "line": 290,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -40006,7 +40081,7 @@
       },
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-detail-dialog.tsx",
-        "line": 776,
+        "line": 783,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -40203,7 +40278,7 @@
       },
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/stage-dialog.tsx",
-        "line": 108,
+        "line": 116,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42741,7 +42816,7 @@
       },
       {
         "file": "apps/web/lib/native-tournaments.ts",
-        "line": 285,
+        "line": 286,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -42772,7 +42847,7 @@
     "sites": [
       {
         "file": "apps/web/lib/native-tournaments.ts",
-        "line": 288,
+        "line": 289,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -45328,7 +45403,7 @@
     "sites": [
       {
         "file": "apps/mobile/app/(tabs)/my-run.tsx",
-        "line": 333,
+        "line": 334,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -45347,7 +45422,7 @@
     "sites": [
       {
         "file": "apps/mobile/app/(tabs)/my-run.tsx",
-        "line": 332,
+        "line": 333,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -45579,14 +45654,14 @@
       },
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/stage-dialog.tsx",
-        "line": 104,
+        "line": 112,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/stage-dialog.tsx",
-        "line": 121,
+        "line": 129,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -46579,7 +46654,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-detail-dialog.tsx",
-        "line": 704,
+        "line": 711,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -46591,7 +46666,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-detail-dialog.tsx",
-        "line": 707,
+        "line": 714,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -46610,7 +46685,7 @@
       },
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-detail-dialog.tsx",
-        "line": 706,
+        "line": 713,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -46648,7 +46723,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-detail-dialog.tsx",
-        "line": 629,
+        "line": 636,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -46660,7 +46735,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-detail-dialog.tsx",
-        "line": 620,
+        "line": 627,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -47160,7 +47235,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-detail-dialog.tsx",
-        "line": 576,
+        "line": 583,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -47248,7 +47323,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-detail-dialog.tsx",
-        "line": 784,
+        "line": 791,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -48064,7 +48139,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/stage-dialog.tsx",
-        "line": 629,
+        "line": 710,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -48076,7 +48151,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/stage-dialog.tsx",
-        "line": 437,
+        "line": 517,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -48100,7 +48175,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/stage-dialog.tsx",
-        "line": 167,
+        "line": 175,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -48215,7 +48290,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/stage-dialog.tsx",
-        "line": 562,
+        "line": 642,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -48227,7 +48302,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/stage-dialog.tsx",
-        "line": 624,
+        "line": 705,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -48366,7 +48441,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/stage-reads.ts",
-        "line": 267,
+        "line": 270,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -48378,7 +48453,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/stage-reads.ts",
-        "line": 268,
+        "line": 271,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -48426,7 +48501,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/stage-reads.ts",
-        "line": 241,
+        "line": 244,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -48438,7 +48513,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/stage-reads.ts",
-        "line": 236,
+        "line": 239,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -48498,7 +48573,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/stage-reads.ts",
-        "line": 260,
+        "line": 263,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -48546,7 +48621,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/stage-dialog.tsx",
-        "line": 382,
+        "line": 462,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -48558,7 +48633,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/stage-dialog.tsx",
-        "line": 408,
+        "line": 488,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -48570,7 +48645,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/stage-dialog.tsx",
-        "line": 571,
+        "line": 651,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -48589,7 +48664,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/stage-dialog.tsx",
-        "line": 365,
+        "line": 445,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -48613,7 +48688,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/stage-dialog.tsx",
-        "line": 574,
+        "line": 654,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -48632,7 +48707,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/stage-dialog.tsx",
-        "line": 311,
+        "line": 391,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -48680,7 +48755,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/stage-dialog.tsx",
-        "line": 307,
+        "line": 387,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -48693,6 +48768,25 @@
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/stage-setup-panel.tsx",
         "line": 382,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.stage.setLength": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/stage-dialog.tsx",
+        "line": 319,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/stage-dialog.tsx",
+        "line": 337,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -48850,14 +48944,14 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/stage-dialog.tsx",
-        "line": 231,
+        "line": 239,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/stage-dialog.tsx",
-        "line": 252,
+        "line": 260,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -48919,7 +49013,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/stage-dialog.tsx",
-        "line": 459,
+        "line": 539,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -48979,7 +49073,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/stage-dialog.tsx",
-        "line": 613,
+        "line": 694,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -50909,7 +51003,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/your-match-card.tsx",
-        "line": 272,
+        "line": 278,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -50921,7 +51015,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/your-match-card.tsx",
-        "line": 274,
+        "line": 280,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -50964,7 +51058,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/your-match-card.tsx",
-        "line": 275,
+        "line": 281,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -51014,7 +51108,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/your-match-card.tsx",
-        "line": 288,
+        "line": 294,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -51038,7 +51132,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/your-match-card.tsx",
-        "line": 292,
+        "line": 298,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -51050,7 +51144,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/your-match-card.tsx",
-        "line": 284,
+        "line": 290,
         "grain": "str",
         "attr": "",
         "element": ""

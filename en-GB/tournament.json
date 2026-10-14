@@ -781,6 +781,7 @@
   "tournament.stage.routing.out.final": "Final",
   "tournament.stage.routing.whoGetsHere": "Who gets here",
   "tournament.stage.seedInEntrantsTab": "Seed the active Stage and arrange its Pools in the <b>Entrants</b> tab.",
+  "tournament.stage.setLength": "Set length",
   "tournament.stage.start.action": "Start stage",
   "tournament.stage.start.blockedIntro": "Every stage needs at least two players in each pool. Add entrants or adjust the advancement before starting:",
   "tournament.stage.start.configure": "Configure in Setup",

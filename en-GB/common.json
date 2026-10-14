@@ -58,6 +58,7 @@
   "common.avatar.animatedPerk": "An animated avatar",
   "common.avatar.hint": "Square works best (e.g. 512×512). PNG, JPEG or WebP, up to 2 MB.",
   "common.avatar.label": "Avatar",
+  "common.bestOf": "Best of {n}",
   "common.board.caution.plain": "This board ranks on the rating as it stands.",
   "common.board.caution.takenOff": "This board ranks on the rating with {n, plural, =1 {one deviation} =2 {two deviations} =3 {three deviations} other {{n} deviations}} taken off.",
   "common.brand.discord": "Discord",

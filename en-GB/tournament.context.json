@@ -730,6 +730,7 @@
   "tournament.stage.routing.out.final": "Badge on a final stage that writes places but no champion.",
   "tournament.stage.routing.whoGetsHere": "Heading over the list of who arrives at a stage.",
   "tournament.stage.seedInEntrantsTab": "Pointer under the stage setup panel; the emphasised word is the name of the Entrants tab as it appears in the page.",
+  "tournament.stage.setLength": "Field label: how many games a stage's sets are played to (best of 3, best of 5). \"Set\" is the match between two entrants.",
   "tournament.stage.start.action": "Button: start the stage.",
   "tournament.stage.start.blockedIntro": "Before the list of stages that cannot start and why.",
   "tournament.stage.start.configure": "Link to the stage's setup when it cannot start yet.",

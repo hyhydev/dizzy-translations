@@ -46,6 +46,7 @@
   "common.avatar.animatedPerk": "Subject of the Premium perk sentence shown when the animated avatar is locked: \"An animated avatar is a Premium perk.\"",
   "common.avatar.hint": "Hint under the static avatar upload slot.",
   "common.avatar.label": "Label of the static avatar upload slot.",
+  "common.bestOf": "How many games a set is played to at most: {n} is 1, 3, 5, 7 or 9. A set that is best of 5 is won by the first side to take 3 games.",
   "common.board.caution.plain": "What a board says about its own order when nothing is taken off the rating.",
   "common.board.caution.takenOff": "What a board says about its own order; {n} is how many deviations are taken off the rating before ranking. The four amounts a community can pick are spelled out as words; any other number is written as digits.",
   "common.brand.discord": "Accessible name of the Discord logo. A brand name: usually left as it is.",
