@@ -50,7 +50,7 @@
   "dashboard.nav.site.users": "Users",
   "dashboard.nav.title": "Dashboard",
   "dashboard.overview.games.entrants": "entrants",
-  "dashboard.overview.games.entrantsInBrackets": "{entrants} in {n, plural, one {{n} bracket} other {{n} brackets}}",
+  "dashboard.overview.games.entrantsInBrackets": "{entrants} in {n, plural, one {{n} tournament} other {{n} tournaments}}",
   "dashboard.overview.games.ofEntrants": "of entrants",
   "dashboard.overview.games.series": "Entrants",
   "dashboard.overview.roster.series": "Active players",

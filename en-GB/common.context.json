@@ -89,7 +89,7 @@
   "common.control.loading": "Screen-reader name of a spinning progress indicator.",
   "common.control.moveDown": "Button in a reorderable list; {item} names the row being moved.",
   "common.control.moveUp": "Button in a reorderable list; {item} names the row being moved.",
-  "common.count.brackets": "A count with its noun, in one run of text; {n} is the count. A bracket is one tournament inside an event.",
+  "common.count.brackets": "A count with its noun, in one run of text; {n} is the count. A tournament is one competition inside an event.",
   "common.count.entrants": "A count with its noun, in one run of text; {n} is the count.",
   "common.count.events": "A count with its noun, in one run of text; {n} is the count.",
   "common.count.players": "A count with its noun, in one run of text; {n} is the count.",

@@ -50,7 +50,7 @@
   "dashboard.nav.site.users": "Site dashboard panel: accounts.",
   "dashboard.nav.title": "The management console's name: its rail heading and its page title.",
   "dashboard.overview.games.entrants": "Under the total in the middle of the games chart.",
-  "dashboard.overview.games.entrantsInBrackets": "Caption under a game in the dashboard's games chart; {entrants} is an already-formatted count of entrants, {n} how many brackets they played in.",
+  "dashboard.overview.games.entrantsInBrackets": "Caption under a game in the dashboard's games chart; {entrants} is an already-formatted count of entrants, {n} how many tournaments they played in.",
   "dashboard.overview.games.ofEntrants": "Games chart tooltip, after a percentage: that game's share of all entrants.",
   "dashboard.overview.games.series": "Name of the series in the dashboard's games chart.",
   "dashboard.overview.roster.series": "Name of the one series in the dashboard's roster chart.",

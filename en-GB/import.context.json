@@ -43,7 +43,7 @@
   "import.form.links.challongeCost": "Challonge limits how many requests an account makes. {cost} is the estimated number of requests, {allowance} the limit, {days} its period.",
   "import.form.links.overLimit": "Follows the count of links found, after a · separator, so it starts lower case. {max} is the most links one batch takes, {excess} how many to remove.",
   "import.form.links.platformOff": "Why a pasted link was skipped: the community has turned off importing from {platform}, a bracket site.",
-  "import.form.rescue.explainer": "A Challonge organisation's brackets live at its own subdomain. The <code> tags wrap an example host; keep 'challonge.com' as is.",
+  "import.form.rescue.explainer": "A Challonge organisation's tournaments live at its own subdomain. The <code> tags wrap an example host; keep 'challonge.com' as is.",
   "import.form.resume.unfinished": "Offers back a bulk import that was stopped part way; {n} is how many tournaments it holds. Keep the <b> tags around the count.",
   "import.form.series.none": "Option in the series picker: file the import under no series.",
   "import.nameMatch.appearsIn": "After a player's name in a bulk import: how many of the batch's events they entered. Starts with a · separator.",

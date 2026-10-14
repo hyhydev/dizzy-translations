@@ -149,12 +149,6 @@
         "element": ""
       },
       {
-        "file": "apps/web/app/[lang]/dashboard/scene/events/event-row-actions.tsx",
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      },
-      {
         "file": "apps/web/app/[lang]/dashboard/scene/events/scene-transfers.tsx",
         "grain": "str",
         "attr": "",
@@ -370,12 +364,6 @@
       },
       {
         "file": "apps/web/app/[lang]/dashboard/scene/challonge/challonge-key-panel.tsx",
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      },
-      {
-        "file": "apps/web/app/[lang]/dashboard/scene/events/event-row-actions.tsx",
         "grain": "str",
         "attr": "",
         "element": ""
@@ -10953,48 +10941,9 @@
       }
     ]
   },
-  "dashboard.community.events.send.alreadySent": {
-    "accessibleName": false,
-    "sites": [
-      {
-        "file": "apps/web/app/[lang]/dashboard/scene/events/event-row-actions.tsx",
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      }
-    ]
-  },
-  "dashboard.community.events.send.challongeWarning": {
-    "accessibleName": false,
-    "sites": [
-      {
-        "file": "apps/web/app/[lang]/dashboard/scene/events/event-row-actions.tsx",
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      }
-    ]
-  },
-  "dashboard.community.events.send.description": {
-    "accessibleName": false,
-    "sites": [
-      {
-        "file": "apps/web/app/[lang]/dashboard/scene/events/event-row-actions.tsx",
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      }
-    ]
-  },
   "dashboard.community.events.send.keepFollowing": {
     "accessibleName": false,
     "sites": [
-      {
-        "file": "apps/web/app/[lang]/dashboard/scene/events/event-row-actions.tsx",
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      },
       {
         "file": "apps/web/app/[lang]/dashboard/scene/events/send-events-dialog.tsx",
         "grain": "str",
@@ -11007,35 +10956,7 @@
     "accessibleName": false,
     "sites": [
       {
-        "file": "apps/web/app/[lang]/dashboard/scene/events/event-row-actions.tsx",
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      },
-      {
         "file": "apps/web/app/[lang]/dashboard/scene/events/send-events-dialog.tsx",
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      }
-    ]
-  },
-  "dashboard.community.events.send.menu": {
-    "accessibleName": false,
-    "sites": [
-      {
-        "file": "apps/web/app/[lang]/dashboard/scene/events/event-row-actions.tsx",
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      }
-    ]
-  },
-  "dashboard.community.events.send.pickFirst": {
-    "accessibleName": false,
-    "sites": [
-      {
-        "file": "apps/web/app/[lang]/dashboard/scene/events/event-row-actions.tsx",
         "grain": "str",
         "attr": "",
         "element": ""
@@ -11046,29 +10967,7 @@
     "accessibleName": false,
     "sites": [
       {
-        "file": "apps/web/app/[lang]/dashboard/scene/events/event-row-actions.tsx",
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      }
-    ]
-  },
-  "dashboard.community.events.send.submit": {
-    "accessibleName": false,
-    "sites": [
-      {
-        "file": "apps/web/app/[lang]/dashboard/scene/events/event-row-actions.tsx",
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      }
-    ]
-  },
-  "dashboard.community.events.send.title": {
-    "accessibleName": false,
-    "sites": [
-      {
-        "file": "apps/web/app/[lang]/dashboard/scene/events/event-row-actions.tsx",
+        "file": "apps/web/app/[lang]/dashboard/scene/events/send-events-dialog.tsx",
         "grain": "str",
         "attr": "",
         "element": ""
@@ -11079,12 +10978,6 @@
     "accessibleName": false,
     "sites": [
       {
-        "file": "apps/web/app/[lang]/dashboard/scene/events/event-row-actions.tsx",
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      },
-      {
         "file": "apps/web/app/[lang]/dashboard/scene/events/send-events-dialog.tsx",
         "grain": "str",
         "attr": "",
@@ -11093,17 +10986,6 @@
     ]
   },
   "dashboard.community.events.sendMany.button": {
-    "accessibleName": false,
-    "sites": [
-      {
-        "file": "apps/web/app/[lang]/dashboard/scene/events/send-events-dialog.tsx",
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      }
-    ]
-  },
-  "dashboard.community.events.sendMany.column.brackets": {
     "accessibleName": false,
     "sites": [
       {
@@ -11126,6 +11008,17 @@
     ]
   },
   "dashboard.community.events.sendMany.column.event": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/dashboard/scene/events/send-events-dialog.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "dashboard.community.events.sendMany.column.tournaments": {
     "accessibleName": false,
     "sites": [
       {
@@ -15286,12 +15179,6 @@
     "accessibleName": false,
     "sites": [
       {
-        "file": "apps/web/app/[lang]/dashboard/scene/events/community-tournaments-table.tsx",
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      },
-      {
         "file": "apps/web/app/[lang]/dashboard/scene/players/community-players-table.tsx",
         "grain": "str",
         "attr": "",
@@ -15456,7 +15343,7 @@
         "element": ""
       },
       {
-        "file": "apps/web/app/[lang]/dashboard/scene/events/event-row-actions.tsx",
+        "file": "apps/web/app/[lang]/dashboard/scene/events/send-events-dialog.tsx",
         "grain": "str",
         "attr": "",
         "element": ""
@@ -15496,7 +15383,7 @@
         "element": ""
       },
       {
-        "file": "apps/web/app/[lang]/dashboard/scene/events/event-row-actions.tsx",
+        "file": "apps/web/app/[lang]/dashboard/scene/events/send-events-dialog.tsx",
         "grain": "str",
         "attr": "",
         "element": ""
