@@ -35,6 +35,18 @@
       }
     ]
   },
+  "common.action.back": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/pick-and-move.tsx",
+        "line": 178,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
   "common.action.cancel": {
     "accessibleName": false,
     "sites": [
@@ -427,6 +439,13 @@
         "element": ""
       },
       {
+        "file": "apps/web/app/[lang]/dashboard/scene/events/send-events-dialog.tsx",
+        "line": 302,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
         "file": "apps/web/app/[lang]/dashboard/scene/identity/location-editor.tsx",
         "line": 360,
         "grain": "str",
@@ -704,6 +723,13 @@
         "element": ""
       },
       {
+        "file": "apps/web/app/[lang]/dashboard/scene/events/send-events-dialog.tsx",
+        "line": 413,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
         "file": "apps/web/app/[lang]/dashboard/scene/seasons/season-dialog.tsx",
         "line": 265,
         "grain": "str",
@@ -833,6 +859,18 @@
       {
         "file": "apps/web/components/events/passes-panel.tsx",
         "line": 404,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "common.action.next": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/pick-and-move.tsx",
+        "line": 182,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -11928,7 +11966,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/events/community-tournaments-table.tsx",
-        "line": 120,
+        "line": 126,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -11947,7 +11985,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/events/community-tournaments-table.tsx",
-        "line": 143,
+        "line": 149,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -11959,7 +11997,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/events/community-tournaments-table.tsx",
-        "line": 152,
+        "line": 158,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -11971,14 +12009,14 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/events/community-tournaments-table.tsx",
-        "line": 165,
+        "line": 171,
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
         "file": "apps/web/app/[lang]/dashboard/scene/events/community-tournaments-table.tsx",
-        "line": 327,
+        "line": 333,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -11990,7 +12028,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/events/community-tournaments-table.tsx",
-        "line": 128,
+        "line": 134,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -12009,7 +12047,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/events/community-tournaments-table.tsx",
-        "line": 161,
+        "line": 167,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -12021,7 +12059,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/events/community-tournaments-table.tsx",
-        "line": 238,
+        "line": 244,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -12033,7 +12071,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/events/community-tournaments-table.tsx",
-        "line": 236,
+        "line": 242,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -12045,7 +12083,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/events/community-tournaments-table.tsx",
-        "line": 359,
+        "line": 365,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -12057,7 +12095,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/events/community-tournaments-table.tsx",
-        "line": 250,
+        "line": 256,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -12069,7 +12107,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/events/community-tournaments-table.tsx",
-        "line": 248,
+        "line": 254,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -12121,6 +12159,13 @@
         "grain": "str",
         "attr": "",
         "element": ""
+      },
+      {
+        "file": "apps/web/app/[lang]/dashboard/scene/events/send-events-dialog.tsx",
+        "line": 316,
+        "grain": "str",
+        "attr": "",
+        "element": ""
       }
     ]
   },
@@ -12130,6 +12175,13 @@
       {
         "file": "apps/web/app/[lang]/dashboard/scene/events/event-row-actions.tsx",
         "line": 212,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
+        "file": "apps/web/app/[lang]/dashboard/scene/events/send-events-dialog.tsx",
+        "line": 318,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -12205,6 +12257,296 @@
         "grain": "str",
         "attr": "",
         "element": ""
+      },
+      {
+        "file": "apps/web/app/[lang]/dashboard/scene/events/send-events-dialog.tsx",
+        "line": 291,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "dashboard.community.events.sendMany.button": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/dashboard/scene/events/send-events-dialog.tsx",
+        "line": 57,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "dashboard.community.events.sendMany.column.brackets": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/dashboard/scene/events/send-events-dialog.tsx",
+        "line": 271,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "dashboard.community.events.sendMany.column.date": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/dashboard/scene/events/send-events-dialog.tsx",
+        "line": 258,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "dashboard.community.events.sendMany.column.event": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/dashboard/scene/events/send-events-dialog.tsx",
+        "line": 243,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "dashboard.community.events.sendMany.description": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/dashboard/scene/events/send-events-dialog.tsx",
+        "line": 100,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "dashboard.community.events.sendMany.done.moved": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/dashboard/scene/events/send-events-dialog.tsx",
+        "line": 381,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "dashboard.community.events.sendMany.done.offered": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/dashboard/scene/events/send-events-dialog.tsx",
+        "line": 389,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "dashboard.community.events.sendMany.done.skipped": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/dashboard/scene/events/send-events-dialog.tsx",
+        "line": 398,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "dashboard.community.events.sendMany.empty": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/dashboard/scene/events/send-events-dialog.tsx",
+        "line": 196,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "dashboard.community.events.sendMany.filter": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/dashboard/scene/events/send-events-dialog.tsx",
+        "line": 224,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
+        "file": "apps/web/app/[lang]/dashboard/scene/events/send-events-dialog.tsx",
+        "line": 225,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "dashboard.community.events.sendMany.loading": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/dashboard/scene/events/send-events-dialog.tsx",
+        "line": 105,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "dashboard.community.events.sendMany.pending": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/dashboard/scene/events/send-events-dialog.tsx",
+        "line": 250,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "dashboard.community.events.sendMany.review.challongeWarning": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/dashboard/scene/events/send-events-dialog.tsx",
+        "line": 348,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "dashboard.community.events.sendMany.review.count": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/dashboard/scene/events/send-events-dialog.tsx",
+        "line": 328,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "dashboard.community.events.sendMany.selectAll": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/dashboard/scene/events/send-events-dialog.tsx",
+        "line": 238,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "dashboard.community.events.sendMany.selectRow": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/dashboard/scene/events/send-events-dialog.tsx",
+        "line": 233,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "dashboard.community.events.sendMany.selected": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/dashboard/scene/events/send-events-dialog.tsx",
+        "line": 280,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "dashboard.community.events.sendMany.step.pick": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/dashboard/scene/events/send-events-dialog.tsx",
+        "line": 150,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "dashboard.community.events.sendMany.step.review": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/dashboard/scene/events/send-events-dialog.tsx",
+        "line": 152,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "dashboard.community.events.sendMany.step.to": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/dashboard/scene/events/send-events-dialog.tsx",
+        "line": 151,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "dashboard.community.events.sendMany.steps": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/dashboard/scene/events/send-events-dialog.tsx",
+        "line": 205,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "dashboard.community.events.sendMany.submit": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/dashboard/scene/events/send-events-dialog.tsx",
+        "line": 215,
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "dashboard.community.events.sendMany.title": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/dashboard/scene/events/send-events-dialog.tsx",
+        "line": 97,
+        "grain": "str",
+        "attr": "",
+        "element": ""
       }
     ]
   },
@@ -12213,7 +12555,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/events/community-tournaments-table.tsx",
-        "line": 50,
+        "line": 51,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -12225,7 +12567,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/events/community-tournaments-table.tsx",
-        "line": 55,
+        "line": 56,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -12237,7 +12579,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/events/community-tournaments-table.tsx",
-        "line": 58,
+        "line": 59,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -12273,7 +12615,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/events/community-tournaments-table.tsx",
-        "line": 334,
+        "line": 340,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -12285,7 +12627,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/events/community-tournaments-table.tsx",
-        "line": 332,
+        "line": 338,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -12297,7 +12639,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/events/community-tournaments-table.tsx",
-        "line": 225,
+        "line": 231,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -16525,7 +16867,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/events/community-tournaments-table.tsx",
-        "line": 175,
+        "line": 181,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -16565,7 +16907,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/events/community-tournaments-table.tsx",
-        "line": 106,
+        "line": 107,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -16591,7 +16933,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/events/community-tournaments-table.tsx",
-        "line": 53,
+        "line": 54,
         "grain": "str",
         "attr": "",
         "element": ""

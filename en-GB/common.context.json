@@ -1,6 +1,7 @@
 {
   "common.action.accept": "Button: accept an offer addressed to you (an event another community is handing over).",
   "common.action.apply": "Button: apply a pending choice (a cluster size on the seeding board).",
+  "common.action.back": "Button in a multi-step dialog: go to the previous step.",
   "common.action.cancel": "A button that closes a dialog without saving.",
   "common.action.change": "Button on a correction line in an item dialog: open the line to change what it holds. The house verb; never Edit or Rename.",
   "common.action.clear": "Button: clear a field's value (a stage's start time).",
@@ -11,6 +12,7 @@
   "common.action.done": "A button that closes a dialog after its work is finished.",
   "common.action.keepEditing": "Button beside Discard: keep the unsaved changes and stay in the editor.",
   "common.action.manage": "Button, or a verb in an accessible name: open something for managing (a stage, a moderator, a series).",
+  "common.action.next": "Button in a multi-step dialog: go to the next step.",
   "common.action.remove": "A button that removes the thing the dialog is about, after a confirmation.",
   "common.action.save": "A button that saves a form.",
   "common.action.saveChanges": "A form's one submit button (the Details forms on the event and tournament pages).",
