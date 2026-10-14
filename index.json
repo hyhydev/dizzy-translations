@@ -1746,7 +1746,7 @@
       },
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-detail-dialog.tsx",
-        "line": 368,
+        "line": 394,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -40095,7 +40095,7 @@
       },
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-detail-dialog.tsx",
-        "line": 783,
+        "line": 810,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -46680,7 +46680,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-detail-dialog.tsx",
-        "line": 711,
+        "line": 738,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -46692,7 +46692,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-detail-dialog.tsx",
-        "line": 714,
+        "line": 741,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -46711,7 +46711,7 @@
       },
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-detail-dialog.tsx",
-        "line": 713,
+        "line": 740,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -46749,7 +46749,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-detail-dialog.tsx",
-        "line": 636,
+        "line": 663,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -46761,7 +46761,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-detail-dialog.tsx",
-        "line": 627,
+        "line": 654,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -47261,7 +47261,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-detail-dialog.tsx",
-        "line": 583,
+        "line": 610,
         "grain": "str",
         "attr": "",
         "element": ""
@@ -47349,7 +47349,7 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-detail-dialog.tsx",
-        "line": 791,
+        "line": 818,
         "grain": "str",
         "attr": "",
         "element": ""
