@@ -43,6 +43,7 @@
   "dashboard.nav.site.overview": "Site dashboard panel.",
   "dashboard.nav.site.payments": "Site dashboard panel.",
   "dashboard.nav.site.players": "Site dashboard panel: player profiles.",
+  "dashboard.nav.site.privacy": "Site dashboard sidebar: the queue of requests from people asking for their name to be removed from results, or for a copy of their data.",
   "dashboard.nav.site.provisional": "Site dashboard panel: walk-up players not yet matched to a profile.",
   "dashboard.nav.site.ratings": "Site dashboard panel: the rating engine.",
   "dashboard.nav.site.retention": "Site dashboard panel: what the site deletes once it is past its retention period, and when each rule last ran.",
