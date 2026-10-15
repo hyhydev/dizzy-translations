@@ -92,7 +92,7 @@
   "common.consent.prefs.analytics": "Analytics",
   "common.consent.prefs.analyticsHint": "Anonymous usage stats (Vercel Analytics, and our own Umami instance) to improve the site. Off by default.",
   "common.consent.prefs.appearance": "Appearance",
-  "common.consent.prefs.appearanceHint": "Remembers your theme and language on this device. On unless you turn it off. Turned off, a pick lasts for this visit.",
+  "common.consent.prefs.appearanceHint": "Remembers your theme and language on this device. On by default.",
   "common.consent.prefs.description": "Dizzy keeps cookies to a minimum. Review or change what you allow. <link>Read the privacy notice</link>",
   "common.consent.prefs.functional": "Functional",
   "common.consent.prefs.functionalHint": "Remembers your location and your time-display preference across visits. Off by default.",
