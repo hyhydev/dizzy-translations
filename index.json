@@ -1829,6 +1829,45 @@
       }
     ]
   },
+  "common.closed.body": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/closed/page.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "common.closed.staffSignIn": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/closed/page.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "common.closed.title": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/closed/page.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
+        "file": "apps/web/app/[lang]/closed/page.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
   "common.composition.open": {
     "accessibleName": false,
     "sites": [
@@ -6815,7 +6854,7 @@
         "element": ""
       },
       {
-        "file": "apps/web/app/[lang]/sign-in/page.tsx",
+        "file": "apps/web/app/[lang]/sign-in/sign-in-card.tsx",
         "grain": "str",
         "attr": "",
         "element": ""
@@ -6827,6 +6866,12 @@
     "sites": [
       {
         "file": "apps/mobile/components/ui.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
+        "file": "apps/web/app/[lang]/sign-in/staff-sign-in-card.tsx",
         "grain": "str",
         "attr": "",
         "element": ""
@@ -6861,6 +6906,28 @@
       }
     ]
   },
+  "common.signIn.staff.description": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/sign-in/staff-sign-in-card.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "common.signIn.staff.title": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/sign-in/staff-sign-in-card.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
   "common.signIn.tickFirst": {
     "accessibleName": false,
     "sites": [
@@ -6882,7 +6949,7 @@
     "accessibleName": false,
     "sites": [
       {
-        "file": "apps/web/app/[lang]/sign-in/page.tsx",
+        "file": "apps/web/app/[lang]/sign-in/sign-in-card.tsx",
         "grain": "str",
         "attr": "",
         "element": ""
