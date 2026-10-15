@@ -179,6 +179,7 @@
   "profile.under18.status.flagged": "Shown to a player who was marked as under 18 by someone else: an event host, or a site moderator. Their own answer does not remove that mark.",
   "profile.under18.status.until": "What is saved about someone who said they are under 18. {month} is a month and a year already written in the reader's language, for example 'June 2030'.",
   "profile.under18.title": "Heading over the under-18 question in a person's account settings, and the name of the same question where it is asked on the home page.",
+  "profile.under18.under13": "Shown in place of saving when the birth month picked means the person is under 13. Read by a child: keep it short, plain and kind. Nothing is stored.",
   "profile.under18.why": "Under the birth month and year fields. It tells a child what is kept before they answer, so use short sentences and no legal words.",
   "profile.under18.year": "Label of the field for the year someone was born in.",
   "profile.under18.year.placeholder": "Grey text in the empty birth-year field.",

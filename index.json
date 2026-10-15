@@ -3374,6 +3374,17 @@
       }
     ]
   },
+  "common.footer.terms": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/footer.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
   "common.footer.whatsNew": {
     "accessibleName": false,
     "sites": [
@@ -5189,6 +5200,12 @@
     "accessibleName": false,
     "sites": [
       {
+        "file": "apps/mobile/app/_layout.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
         "file": "apps/web/app/[lang]/sign-in/layout.tsx",
         "grain": "str",
         "attr": "",
@@ -6748,9 +6765,55 @@
       }
     ]
   },
+  "common.signIn.ageRule": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/mobile/components/ui.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
+        "file": "apps/web/components/sign-in-consent.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "common.signIn.agree": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/mobile/components/ui.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
+        "file": "apps/mobile/components/ui.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
+        "file": "apps/web/components/sign-in-consent.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
   "common.signIn.description": {
     "accessibleName": false,
     "sites": [
+      {
+        "file": "apps/mobile/app/sign-in.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
       {
         "file": "apps/web/app/[lang]/sign-in/page.tsx",
         "grain": "str",
@@ -6769,13 +6832,46 @@
         "element": ""
       },
       {
-        "file": "apps/web/app/[lang]/link/sign-in-to-link.tsx",
+        "file": "apps/web/components/sign-in-consent.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "common.signIn.readPrivacy": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/sign-in-consent.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "common.signIn.readTerms": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/sign-in-consent.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "common.signIn.tickFirst": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/mobile/components/ui.tsx",
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
-        "file": "apps/web/app/[lang]/sign-in/page.tsx",
+        "file": "apps/web/components/sign-in-consent.tsx",
         "grain": "str",
         "attr": "",
         "element": ""
@@ -28672,6 +28768,12 @@
         "grain": "str",
         "attr": "",
         "element": ""
+      },
+      {
+        "file": "apps/mobile/components/ui.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
       }
     ]
   },
@@ -28720,6 +28822,17 @@
     ]
   },
   "mobile.ui.privacyNotice": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/mobile/components/ui.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "mobile.ui.terms": {
     "accessibleName": false,
     "sites": [
       {
@@ -34709,6 +34822,23 @@
       },
       {
         "file": "apps/web/components/under-18-footer-ask.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "profile.under18.under13": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/mobile/app/under-18.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
+        "file": "apps/web/components/under-18-question.tsx",
         "grain": "str",
         "attr": "",
         "element": ""
@@ -46751,6 +46881,17 @@
     ]
   },
   "tournament.walkUp.submit": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/manual-entrant-controls.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.walkUp.under18Note": {
     "accessibleName": false,
     "sites": [
       {

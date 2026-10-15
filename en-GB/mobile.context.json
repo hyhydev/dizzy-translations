@@ -35,6 +35,7 @@
   "mobile.title.pairing": "Header title of the screen where a doubles entrant picks or confirms a partner.",
   "mobile.ui.pager.position": "Between the Previous and Next buttons of a paged list: which items are shown, out of how many.",
   "mobile.ui.pager.positionLabel": "Screen-reader reading of a paged list's position; {label} names the list.",
+  "mobile.ui.terms": "Link that opens the website's Terms of Service page in the phone's browser, beside the privacy notice link.",
   "mobile.under18.answer": "Button on the app's home screen under the question 'Are you under 18?'. It opens the screen where the question is answered.",
   "mobile.under18.loadFailed": "Shown when the app's Under 18 screen fails to load. {error} is the technical error text.",
   "mobile.under18.saveFailed": "Shown when saving the answer to 'Are you under 18?' fails in the app. {error} is the reason.",

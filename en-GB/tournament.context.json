@@ -896,6 +896,7 @@
   "tournament.walkUp.add": "A walk-up is an attendee with no account, entered by staff at the venue.",
   "tournament.walkUp.handle": "The label of the field for the name a player competes under.",
   "tournament.walkUp.prefix": "The label of the optional team or sponsor prefix before a handle.",
+  "tournament.walkUp.under18Note": "Notice in the Add a walk-up dialog. \"Under 18\" is the mark a host puts on an attendee from the event's Check in desk (event.attendee.under18.label, event.desk.node.door); use the same words those keys use.",
   "tournament.yourMatch.advancing": "Heading of the viewer's match card while they wait for the next stage.",
   "tournament.yourMatch.eliminated": "Heading of the viewer's match card once they are out.",
   "tournament.yourMatch.next.inQueue": "The viewer's next set is ready, with other sets ahead of it on its stream.",

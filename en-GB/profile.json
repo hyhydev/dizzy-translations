@@ -182,6 +182,7 @@
   "profile.under18.status.flagged": "A host or a moderator marked you as under 18. Only a moderator can change that.",
   "profile.under18.status.until": "You count as under 18 until {month}.",
   "profile.under18.title": "Under 18",
+  "profile.under18.under13": "Dizzy accounts are for people aged 13 and over, so we can't take this answer. You can still look at everything on Dizzy without an account.",
   "profile.under18.why": "We only keep the month you turn 18. We never keep your birthday.",
   "profile.under18.year": "Year",
   "profile.under18.year.placeholder": "Pick a year",

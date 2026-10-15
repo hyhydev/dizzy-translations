@@ -229,6 +229,7 @@
   "mobile.ui.pager.positionLabel": "{label}, showing {first, number} to {last, number} of {total, number}",
   "mobile.ui.pager.previousLabel": "Previous page of {label}",
   "mobile.ui.privacyNotice": "Privacy notice →",
+  "mobile.ui.terms": "Terms →",
   "mobile.under18.answer": "Answer",
   "mobile.under18.loadFailed": "Could not load this: {error}",
   "mobile.under18.saveFailed": "Could not save your answer: {error}",

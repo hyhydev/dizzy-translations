@@ -951,6 +951,7 @@
   "tournament.walkUp.handleNote": "The name they play under. Never their real name.",
   "tournament.walkUp.prefix": "Prefix",
   "tournament.walkUp.submit": "Add walk-up",
+  "tournament.walkUp.under18Note": "If this player is under 18, mark them Under 18 at the event's Check in desk once they're added. Their name then stays out of public lists until the bracket starts. Check with a parent or guardian before you add a player under 13.",
   "tournament.yourMatch.advancing": "Advancing",
   "tournament.yourMatch.eliminated": "Eliminated",
   "tournament.yourMatch.next.inQueue": "In the stream queue",
