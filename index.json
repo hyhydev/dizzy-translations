@@ -5268,7 +5268,19 @@
         "element": ""
       },
       {
+        "file": "apps/mobile/components/terms-prompt.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
         "file": "apps/web/components/navigation.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
+        "file": "apps/web/components/terms-prompt.tsx",
         "grain": "str",
         "attr": "",
         "element": ""
@@ -6847,6 +6859,12 @@
         "grain": "str",
         "attr": "",
         "element": ""
+      },
+      {
+        "file": "apps/web/components/terms-prompt.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
       }
     ]
   },
@@ -6909,6 +6927,12 @@
         "grain": "str",
         "attr": "",
         "element": ""
+      },
+      {
+        "file": "apps/web/components/terms-prompt.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
       }
     ]
   },
@@ -6945,6 +6969,12 @@
       },
       {
         "file": "apps/web/components/sign-in-consent.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
+        "file": "apps/web/components/terms-prompt.tsx",
         "grain": "str",
         "attr": "",
         "element": ""
@@ -7180,6 +7210,74 @@
     "sites": [
       {
         "file": "apps/web/components/page-size-select.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "common.termsPrompt.accept": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/mobile/components/terms-prompt.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
+        "file": "apps/web/components/terms-prompt.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "common.termsPrompt.changed": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/mobile/components/terms-prompt.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
+        "file": "apps/web/components/terms-prompt.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "common.termsPrompt.new": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/mobile/components/terms-prompt.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
+        "file": "apps/web/components/terms-prompt.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "common.termsPrompt.title": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/mobile/components/terms-prompt.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
+        "file": "apps/web/components/terms-prompt.tsx",
         "grain": "str",
         "attr": "",
         "element": ""
