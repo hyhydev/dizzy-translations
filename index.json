@@ -26501,28 +26501,6 @@
       }
     ]
   },
-  "mobile.deleteAccount.premiumLink": {
-    "accessibleName": false,
-    "sites": [
-      {
-        "file": "apps/mobile/app/delete-account.tsx",
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      }
-    ]
-  },
-  "mobile.deleteAccount.subscription": {
-    "accessibleName": false,
-    "sites": [
-      {
-        "file": "apps/mobile/app/delete-account.tsx",
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      }
-    ]
-  },
   "mobile.display.intro": {
     "accessibleName": false,
     "sites": [
@@ -27421,6 +27399,17 @@
       }
     ]
   },
+  "mobile.premium.buyMoreOnWeb": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/mobile/app/premium.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
   "mobile.premium.claimOnWeb": {
     "accessibleName": false,
     "sites": [
@@ -27433,17 +27422,6 @@
     ]
   },
   "mobile.premium.loadFailed": {
-    "accessibleName": false,
-    "sites": [
-      {
-        "file": "apps/mobile/app/premium.tsx",
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      }
-    ]
-  },
-  "mobile.premium.manageOnWeb": {
     "accessibleName": false,
     "sites": [
       {
@@ -29039,6 +29017,28 @@
       }
     ]
   },
+  "notifications.category.account": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "packages/domain/src/notifications.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "notifications.category.account.description": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "packages/domain/src/notifications.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
   "notifications.category.announcement": {
     "accessibleName": false,
     "sites": [
@@ -29374,6 +29374,28 @@
     "sites": [
       {
         "file": "packages/api/src/notifications/triggers.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "notifications.push.premium.ended": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "packages/api/src/premium.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "notifications.push.premium.ending": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "packages/api/src/premium.ts",
         "grain": "str",
         "attr": "",
         "element": ""
@@ -32374,6 +32396,23 @@
       }
     ]
   },
+  "profile.deleteAccount.paidTime": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/mobile/app/delete-account.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
+        "file": "apps/web/app/[lang]/profile/delete-account-section.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
   "profile.deleteAccount.payments": {
     "accessibleName": false,
     "sites": [
@@ -32417,17 +32456,6 @@
         "attr": "",
         "element": ""
       },
-      {
-        "file": "apps/web/app/[lang]/profile/delete-account-section.tsx",
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      }
-    ]
-  },
-  "profile.deleteAccount.subscription": {
-    "accessibleName": false,
-    "sites": [
       {
         "file": "apps/web/app/[lang]/profile/delete-account-section.tsx",
         "grain": "str",
@@ -33825,6 +33853,17 @@
       }
     ]
   },
+  "profile.premium.atCap": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/profile/premium-billing.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
   "profile.premium.avatar": {
     "accessibleName": false,
     "sites": [
@@ -33893,17 +33932,11 @@
       }
     ]
   },
-  "profile.premium.cancelling": {
+  "profile.premium.buy": {
     "accessibleName": false,
     "sites": [
       {
-        "file": "apps/mobile/app/premium.tsx",
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      },
-      {
-        "file": "apps/web/app/[lang]/profile/premium-section.tsx",
+        "file": "apps/web/app/[lang]/profile/premium-billing.tsx",
         "grain": "str",
         "attr": "",
         "element": ""
@@ -33956,6 +33989,23 @@
     ]
   },
   "profile.premium.dormant": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/mobile/app/premium.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
+        "file": "apps/web/app/[lang]/profile/premium-section.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "profile.premium.endedOn": {
     "accessibleName": false,
     "sites": [
       {
@@ -34034,40 +34084,6 @@
       }
     ]
   },
-  "profile.premium.interval.month": {
-    "accessibleName": false,
-    "sites": [
-      {
-        "file": "apps/mobile/app/premium.tsx",
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      },
-      {
-        "file": "apps/web/app/[lang]/profile/account-hub.tsx",
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      }
-    ]
-  },
-  "profile.premium.interval.year": {
-    "accessibleName": false,
-    "sites": [
-      {
-        "file": "apps/mobile/app/premium.tsx",
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      },
-      {
-        "file": "apps/web/app/[lang]/profile/account-hub.tsx",
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      }
-    ]
-  },
   "profile.premium.lapse": {
     "accessibleName": false,
     "sites": [
@@ -34114,23 +34130,6 @@
       }
     ]
   },
-  "profile.premium.manage": {
-    "accessibleName": false,
-    "sites": [
-      {
-        "file": "apps/web/app/[lang]/profile/premium-billing.tsx",
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      },
-      {
-        "file": "apps/web/app/[lang]/profile/premium-billing.tsx",
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      }
-    ]
-  },
   "profile.premium.onProfile": {
     "accessibleName": false,
     "sites": [
@@ -34148,75 +34147,7 @@
       }
     ]
   },
-  "profile.premium.period.ended": {
-    "accessibleName": false,
-    "sites": [
-      {
-        "file": "apps/mobile/app/premium.tsx",
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      },
-      {
-        "file": "apps/web/app/[lang]/profile/premium-section.tsx",
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      }
-    ]
-  },
-  "profile.premium.period.ends": {
-    "accessibleName": false,
-    "sites": [
-      {
-        "file": "apps/mobile/app/premium.tsx",
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      },
-      {
-        "file": "apps/web/app/[lang]/profile/premium-section.tsx",
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      }
-    ]
-  },
-  "profile.premium.period.renews": {
-    "accessibleName": false,
-    "sites": [
-      {
-        "file": "apps/mobile/app/premium.tsx",
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      },
-      {
-        "file": "apps/web/app/[lang]/profile/premium-section.tsx",
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      }
-    ]
-  },
-  "profile.premium.plan": {
-    "accessibleName": false,
-    "sites": [
-      {
-        "file": "apps/mobile/app/premium.tsx",
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      },
-      {
-        "file": "apps/web/app/[lang]/profile/premium-section.tsx",
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      }
-    ]
-  },
-  "profile.premium.plan.subscription": {
+  "profile.premium.paidUntil": {
     "accessibleName": false,
     "sites": [
       {
@@ -34312,7 +34243,7 @@
       }
     ]
   },
-  "profile.premium.subscribe": {
+  "profile.premium.terms.adds": {
     "accessibleName": false,
     "sites": [
       {
@@ -34323,7 +34254,7 @@
       }
     ]
   },
-  "profile.premium.subscribeYearly": {
+  "profile.premium.terms.oneOff": {
     "accessibleName": false,
     "sites": [
       {
@@ -34334,18 +34265,7 @@
       }
     ]
   },
-  "profile.premium.terms.cancel": {
-    "accessibleName": false,
-    "sites": [
-      {
-        "file": "apps/web/app/[lang]/profile/premium-billing.tsx",
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      }
-    ]
-  },
-  "profile.premium.terms.renews": {
+  "profile.premium.terms.reminder": {
     "accessibleName": false,
     "sites": [
       {

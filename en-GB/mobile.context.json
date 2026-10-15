@@ -18,6 +18,7 @@
   "mobile.myEvents.loadFailed": "{error} is a technical error message.",
   "mobile.notifications.settings": "Link at the top of the notifications screen to the notification settings screen.",
   "mobile.pager.emptyPage": "A paged list whose current page came back empty; the reader should go to the previous page.",
+  "mobile.premium.buyMoreOnWeb": "Android-only link to the web Premium section, for an account that has bought Premium before.",
   "mobile.privacy.appearance": "Label of a switch on the phone's Privacy screen. On (the default), the language and date format picked on this phone are stored on it; off, they are forgotten when the app closes.",
   "mobile.push.channel": "Name of the app's notification channel in Android's system settings.",
   "mobile.register.block.finished": "Beside a bracket the reader has not entered: it is over, so it cannot be picked.",
