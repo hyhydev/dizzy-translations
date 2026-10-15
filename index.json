@@ -26910,6 +26910,28 @@
       }
     ]
   },
+  "mobile.home.dataExport": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/mobile/app/(tabs)/index.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "mobile.home.dataExport.failed": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/mobile/app/(tabs)/index.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
   "mobile.home.deleteAccount": {
     "accessibleName": false,
     "sites": [
@@ -28808,6 +28830,12 @@
   "mobile.ui.opensInBrowser": {
     "accessibleName": false,
     "sites": [
+      {
+        "file": "apps/mobile/app/(tabs)/index.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
       {
         "file": "apps/mobile/components/ui.tsx",
         "grain": "str",
@@ -32367,6 +32395,61 @@
       },
       {
         "file": "apps/web/app/[lang]/profile/account-hub.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "profile.dataExport.body": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/profile/data-export-section.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "profile.dataExport.button": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/profile/data-export-section.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "profile.dataExport.failed": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/profile/data-export-section.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "profile.dataExport.pending": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/profile/data-export-section.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "profile.dataExport.title": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/profile/data-export-section.tsx",
         "grain": "str",
         "attr": "",
         "element": ""

@@ -9,6 +9,8 @@
   "mobile.event.register": "The button on the event screen that opens the registration form.",
   "mobile.format.dateTbc": "Shown in place of a date and time that is not known yet.",
   "mobile.format.listAnd": "Joins the last name onto a list of names, as in \"A, B and C\"; {head} is the names before the last, already joined with commas.",
+  "mobile.home.dataExport": "Link under Sign out that opens a copy of everything Dizzy holds about the person, as a file, in the phone's browser.",
+  "mobile.home.dataExport.failed": "Alert when the download link could not be made; {error} is the technical reason.",
   "mobile.home.played": "Beside a suggested community: how many of its events the viewer has played. The × reads as 'times'.",
   "mobile.home.recentSet.a11y": "Read by screen readers for one of the viewer's recent sets. {mine} and {theirs} are the two scores (or ?), the viewer's first.",
   "mobile.home.trend": "After the viewer's rating change: the period it covers. 88d is 88 days.",

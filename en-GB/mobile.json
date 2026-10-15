@@ -52,6 +52,8 @@
   "mobile.format.listAnd": "{head} and {last}",
   "mobile.home.claim.empty": "Nothing on your calendar yet. Follow a community to seed your horizon.",
   "mobile.home.claim.title": "Find your communities",
+  "mobile.home.dataExport": "Download your data →",
+  "mobile.home.dataExport.failed": "Your data couldn't be prepared: {error}",
   "mobile.home.deleteAccount": "Delete account →",
   "mobile.home.error": "Couldn't load home: {error}",
   "mobile.home.explore.empty": "No events found.",

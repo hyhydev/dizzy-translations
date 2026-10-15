@@ -52,6 +52,8 @@
   "mobile.format.listAnd": "",
   "mobile.home.claim.empty": "",
   "mobile.home.claim.title": "",
+  "mobile.home.dataExport": "",
+  "mobile.home.dataExport.failed": "",
   "mobile.home.deleteAccount": "",
   "mobile.home.error": "",
   "mobile.home.explore.empty": "",
