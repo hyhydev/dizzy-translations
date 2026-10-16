@@ -26673,6 +26673,28 @@
       }
     ]
   },
+  "import.results.rule.advancedNowhere": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/lib/import/results-read.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "import.results.rule.backToWinners": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/lib/import/results-read.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
   "import.results.rule.below": {
     "accessibleName": false,
     "sites": [
@@ -26740,6 +26762,17 @@
     ]
   },
   "import.results.rule.duplicateTournament": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/lib/import/results-read.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "import.results.rule.eliminationOnly": {
     "accessibleName": false,
     "sites": [
       {
@@ -26827,6 +26860,17 @@
       }
     ]
   },
+  "import.results.rule.grandFinalPlayers": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/lib/import/results-read.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
   "import.results.rule.idFormat": {
     "accessibleName": false,
     "sites": [
@@ -26861,6 +26905,17 @@
     ]
   },
   "import.results.rule.long": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/lib/import/results-read.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "import.results.rule.losersBeforeLoss": {
     "accessibleName": false,
     "sites": [
       {
@@ -26948,7 +27003,40 @@
       }
     ]
   },
+  "import.results.rule.outOfBracket": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/lib/import/results-read.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
   "import.results.rule.pairTwice": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/lib/import/results-read.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "import.results.rule.playedUntilLastStage": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/lib/import/results-read.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "import.results.rule.playedUntilMismatch": {
     "accessibleName": false,
     "sites": [
       {
@@ -27004,6 +27092,28 @@
     ]
   },
   "import.results.rule.required": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/lib/import/results-read.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "import.results.rule.resetMissing": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/lib/import/results-read.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "import.results.rule.resetNotOwed": {
     "accessibleName": false,
     "sites": [
       {
@@ -27124,6 +27234,17 @@
       }
     ]
   },
+  "import.results.rule.sideRequired": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/lib/import/results-read.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
   "import.results.rule.sideSingleElimination": {
     "accessibleName": false,
     "sites": [
@@ -27136,6 +27257,28 @@
     ]
   },
   "import.results.rule.stageRequired": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/lib/import/results-read.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "import.results.rule.starterOnWinners": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/lib/import/results-read.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "import.results.rule.stillInBracket": {
     "accessibleName": false,
     "sites": [
       {
