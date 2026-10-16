@@ -5707,6 +5707,12 @@
         "grain": "str",
         "attr": "",
         "element": ""
+      },
+      {
+        "file": "apps/web/components/import/results-import.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
       }
     ]
   },
@@ -25848,6 +25854,12 @@
         "grain": "str",
         "attr": "",
         "element": ""
+      },
+      {
+        "file": "apps/web/components/import/results-import.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
       }
     ]
   },
@@ -25884,6 +25896,12 @@
       },
       {
         "file": "apps/web/components/import/import-client.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
+        "file": "apps/web/components/import/results-import.tsx",
         "grain": "str",
         "attr": "",
         "element": ""
@@ -26052,6 +26070,12 @@
         "grain": "str",
         "attr": "",
         "element": ""
+      },
+      {
+        "file": "apps/web/components/import/results-import.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
       }
     ]
   },
@@ -26151,6 +26175,12 @@
         "grain": "str",
         "attr": "",
         "element": ""
+      },
+      {
+        "file": "apps/web/components/import/results-import.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
       }
     ]
   },
@@ -26159,6 +26189,12 @@
     "sites": [
       {
         "file": "apps/web/components/import/import-client.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
+        "file": "apps/web/components/import/results-import.tsx",
         "grain": "str",
         "attr": "",
         "element": ""
@@ -26206,6 +26242,12 @@
         "grain": "str",
         "attr": "",
         "element": ""
+      },
+      {
+        "file": "apps/web/components/import/results-import.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
       }
     ]
   },
@@ -26223,6 +26265,18 @@
         "grain": "str",
         "attr": "",
         "element": ""
+      },
+      {
+        "file": "apps/web/components/import/results-import.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
+        "file": "apps/web/components/import/results-import.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
       }
     ]
   },
@@ -26231,6 +26285,45 @@
     "sites": [
       {
         "file": "apps/web/components/import/import-client.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
+        "file": "apps/web/components/import/results-import.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "import.modes.label": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/import/import-modes.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "import.modes.links": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/import/import-modes.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "import.modes.results": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/import/import-modes.tsx",
         "grain": "str",
         "attr": "",
         "element": ""
@@ -26336,6 +26429,728 @@
     "sites": [
       {
         "file": "apps/web/components/import/name-match-fields.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "import.results.check": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/import/results-import.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "import.results.choose": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/import/results-import.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "import.results.done": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/import/results-import.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "import.results.guide": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/import/results-import.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "import.results.import": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/import/results-import.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "import.results.kept": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/import/results-import.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
+        "file": "apps/web/components/import/results-import.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "import.results.label": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/import/results-import.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "import.results.named": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/import/results-import.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "import.results.newTab": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/import/results-import.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "import.results.outcome": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/import/results-import.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "import.results.ownedBySite": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/import/results-import.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
+        "file": "apps/web/components/import/results-import.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "import.results.ownedElsewhere": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/import/results-import.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
+        "file": "apps/web/components/import/results-import.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "import.results.problems": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/import/results-import.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "import.results.readable": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/import/results-import.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "import.results.resend": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/import/results-import.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "import.results.rights": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/import/results-import.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "import.results.rule.above": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/lib/import/results-read.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "import.results.rule.advanceBackwards": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/lib/import/results-read.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "import.results.rule.advanceRange": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/lib/import/results-read.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "import.results.rule.advanceSide": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/lib/import/results-read.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "import.results.rule.below": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/lib/import/results-read.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "import.results.rule.composition": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/lib/import/results-read.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "import.results.rule.dqWithScores": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/lib/import/results-read.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "import.results.rule.duplicateId": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/lib/import/results-read.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "import.results.rule.duplicateSeed": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/lib/import/results-read.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "import.results.rule.duplicateTournament": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/lib/import/results-read.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "import.results.rule.empty": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/lib/import/results-read.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "import.results.rule.endBeforeStart": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/lib/import/results-read.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "import.results.rule.entrantFieldsWithPlayers": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/lib/import/results-read.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "import.results.rule.fewItems": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/lib/import/results-read.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "import.results.rule.gameNotInSet": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/lib/import/results-read.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "import.results.rule.gamesDisagree": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/lib/import/results-read.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "import.results.rule.idFormat": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/lib/import/results-read.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "import.results.rule.invisibleCharacters": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/lib/import/results-read.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "import.results.rule.link": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/lib/import/results-read.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "import.results.rule.long": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/lib/import/results-read.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "import.results.rule.manyItems": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/lib/import/results-read.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "import.results.rule.moment": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/lib/import/results-read.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "import.results.rule.noStages": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/lib/import/results-read.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "import.results.rule.notJson": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/lib/import/results-read.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "import.results.rule.oneOf": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/lib/import/results-read.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "import.results.rule.playerNotReturning": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/lib/import/results-read.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "import.results.rule.poolRequired": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/lib/import/results-read.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "import.results.rule.required": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/lib/import/results-read.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "import.results.rule.scoreOrder": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/lib/import/results-read.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "import.results.rule.scorePair": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/lib/import/results-read.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "import.results.rule.selfSet": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/lib/import/results-read.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "import.results.rule.sideInStandings": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/lib/import/results-read.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "import.results.rule.sideRoundPair": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/lib/import/results-read.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "import.results.rule.sideSingleElimination": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/lib/import/results-read.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "import.results.rule.stageRequired": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/lib/import/results-read.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "import.results.rule.tooLarge": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/lib/import/results-read.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "import.results.rule.tooManySets": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/lib/import/results-read.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "import.results.rule.unknownCharacter": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/lib/import/results-read.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "import.results.rule.unknownEntrant": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/lib/import/results-read.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "import.results.rule.unknownField": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/lib/import/results-read.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "import.results.rule.unknownGame": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/lib/import/results-read.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "import.results.rule.unknownPlayer": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/lib/import/results-read.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "import.results.rule.unknownPool": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/lib/import/results-read.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "import.results.rule.unknownStage": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/lib/import/results-read.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "import.results.rule.wrongType": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/lib/import/results-read.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "import.results.tournamentFacts": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/import/results-import.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "import.results.viewEvent": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/import/results-import.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "import.results.wholeDocument": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/import/results-import.tsx",
         "grain": "str",
         "attr": "",
         "element": ""
@@ -39890,6 +40705,12 @@
   "tournament.pool.lettered": {
     "accessibleName": false,
     "sites": [
+      {
+        "file": "apps/web/lib/import/results-document.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
       {
         "file": "apps/web/lib/native-tournaments.ts",
         "grain": "str",
