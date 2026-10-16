@@ -919,6 +919,12 @@
         "element": ""
       },
       {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/stage-dialog.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/vod-lines.tsx",
         "grain": "str",
         "attr": "",
@@ -1579,6 +1585,12 @@
       },
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/stage-dialog.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/stage-format-fields.tsx",
         "grain": "str",
         "attr": "",
         "element": ""
@@ -38269,6 +38281,18 @@
         "grain": "str",
         "attr": "",
         "element": ""
+      },
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/stage-dialog.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/stage-format-fields.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
       }
     ]
   },
@@ -39187,6 +39211,23 @@
     "sites": [
       {
         "file": "packages/domain/src/stage-format.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.format.ladder": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/stage-reads.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
+        "file": "packages/domain/src/stage-types.ts",
         "grain": "str",
         "attr": "",
         "element": ""
@@ -45980,6 +46021,40 @@
       }
     ]
   },
+  "tournament.stage.ladder.readyTimer": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/stage-dialog.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/stage-dialog.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/stage-format-fields.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.stage.ladder.readyTimer.value": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/stage-dialog.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
   "tournament.stage.lockedNote": {
     "accessibleName": false,
     "sites": [
@@ -46427,6 +46502,12 @@
       },
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/stage-dialog.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/stage-format-fields.tsx",
         "grain": "str",
         "attr": "",
         "element": ""
