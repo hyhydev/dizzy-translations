@@ -123,7 +123,7 @@
   "dashboard.community.export.report.invalid": "A line of the left-out list. {reason} is a sentence, already translated, saying which check the bracket failed.",
   "dashboard.community.export.report.never": "A short line then a list, one item per line starting with \"- \". Keep the line breaks and the dashes.",
   "dashboard.community.export.report.neverHeading": "Heading in the text file inside the zip, over the list of what results documents never contain.",
-  "dashboard.community.export.report.noBracket": "A line of the left-out list: an old imported bracket whose sets have no bracket positions, so it cannot be written down as a full bracket. {event} and {tournament} are names.",
+  "dashboard.community.export.report.noBracket": "A line of the left-out list: an old imported bracket whose sets have no bracket positions, so it is not exported. It tells the reader to import that bracket again from the site it came from, then export again. {event} and {tournament} are names.",
   "dashboard.community.export.report.overCap": "A line of the left-out list: the event has more brackets or sets than one file may hold. {event} and {tournament} are names.",
   "dashboard.community.export.report.stageType": "A line of the left-out list: a bracket using a stage format the results document format has no way to write, such as a ladder. {event} and {tournament} are names.",
   "dashboard.community.export.report.tiebreaks": "A line of the left-out list: tiebreak sets (played after a bracket to settle a tied placing) were dropped from the file. {n} is how many.",

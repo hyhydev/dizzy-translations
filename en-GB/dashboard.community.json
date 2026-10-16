@@ -140,7 +140,7 @@
   "dashboard.community.export.report.invalid": "{event} · {tournament}: {reason}",
   "dashboard.community.export.report.never": "These are not exported for any event. Keep your own copy of whatever you need.\n- Staff and the roles they were given\n- Streams and the stream queue\n- The schedule and announcements\n- Registrations, passes, orders and entry fees\n- Prize breakdowns (the prize pool total is kept)\n- Banners, icons and series\n- When each set was played, and its station\n- Whether a bracket is ranked or hidden (the import decides)",
   "dashboard.community.export.report.neverHeading": "Never in a results document",
-  "dashboard.community.export.report.noBracket": "{event} · {tournament}: its sets do not say where in the bracket they were played, and they are not the bracket Dizzy would draw from its seeds.",
+  "dashboard.community.export.report.noBracket": "{event} · {tournament}: its sets do not say where in the bracket they were played. Import it again from its source to bring its bracket in, then export again.",
   "dashboard.community.export.report.overCap": "{event} · {tournament}: one results document holds at most 16 brackets and 5,000 sets.",
   "dashboard.community.export.report.stageType": "{event} · {tournament}: it has a stage a results document cannot describe yet, such as a ladder.",
   "dashboard.community.export.report.tiebreaks": "{event} · {tournament}: {n, plural, one {# tiebreak set was} other {# tiebreak sets were}} left out, because results documents cannot hold tiebreaks yet.",
