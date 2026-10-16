@@ -58,7 +58,6 @@
   "dashboard.overview.roster.window": "Roster chart tooltip, under the player count: the trailing window the count covers. The bold part is drawn as a figure.",
   "dashboard.unrankedImports.awaiting": "Heading of the warning listing community imports waiting for an operator to decide whether they count; {n} is how many.",
   "dashboard.unrankedImports.completedSets": "On an imported tournament awaiting a ranked decision: how many of its sets finished.",
-  "dashboard.unrankedImports.excluded": "Heading of the same warning for a reader who cannot decide, counting tournaments left out of ratings; {n} is how many.",
   "dashboard.unrankedImports.keepUnranked": "Button leaving an imported tournament out of ratings.",
   "dashboard.unrankedImports.rank": "Button counting an imported tournament towards ratings.",
   "dashboard.unrankedImports.ranking": "The rank button while it runs."

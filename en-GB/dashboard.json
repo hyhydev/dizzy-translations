@@ -58,7 +58,6 @@
   "dashboard.overview.roster.window": "in the {days} days to <b>{date}</b>",
   "dashboard.unrankedImports.awaiting": "{n, plural, one {{n} community import awaiting a ranked decision.} other {{n} community imports awaiting a ranked decision.}}",
   "dashboard.unrankedImports.completedSets": "{n, plural, one {# completed set} other {# completed sets}}",
-  "dashboard.unrankedImports.excluded": "{n, plural, one {{n} tournament excluded from ratings. A site operator can promote.} other {{n} tournaments excluded from ratings. A site operator can promote.}}",
   "dashboard.unrankedImports.keepUnranked": "Keep unranked",
   "dashboard.unrankedImports.rank": "Rank",
   "dashboard.unrankedImports.ranking": "Ranking…"

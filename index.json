@@ -16555,17 +16555,6 @@
       }
     ]
   },
-  "dashboard.unrankedImports.excluded": {
-    "accessibleName": false,
-    "sites": [
-      {
-        "file": "apps/web/app/[lang]/dashboard/unranked-imports-warning.tsx",
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      }
-    ]
-  },
   "dashboard.unrankedImports.keepUnranked": {
     "accessibleName": false,
     "sites": [
