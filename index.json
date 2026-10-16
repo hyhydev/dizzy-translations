@@ -13048,39 +13048,11 @@
       }
     ]
   },
-  "dashboard.community.nameMatching.description": {
-    "accessibleName": false,
-    "sites": [
-      {
-        "file": "apps/web/app/[lang]/dashboard/scene/import/name-matching-form.tsx",
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      }
-    ]
-  },
   "dashboard.community.nameMatching.saveFailed": {
     "accessibleName": false,
     "sites": [
       {
         "file": "apps/web/app/[lang]/dashboard/scene/board/board-settings-form.tsx",
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      },
-      {
-        "file": "apps/web/app/[lang]/dashboard/scene/import/name-matching-form.tsx",
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      }
-    ]
-  },
-  "dashboard.community.nameMatching.title": {
-    "accessibleName": false,
-    "sites": [
-      {
-        "file": "apps/web/app/[lang]/dashboard/scene/import/name-matching-form.tsx",
         "grain": "str",
         "attr": "",
         "element": ""
