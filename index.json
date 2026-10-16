@@ -26684,6 +26684,17 @@
       }
     ]
   },
+  "import.results.rule.bracketTooBig": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/lib/import/results-read.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
   "import.results.rule.composition": {
     "accessibleName": false,
     "sites": [
@@ -26772,6 +26783,17 @@
       }
     ]
   },
+  "import.results.rule.entrantUnplaced": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/lib/import/results-read.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
   "import.results.rule.fewItems": {
     "accessibleName": false,
     "sites": [
@@ -26849,7 +26871,29 @@
       }
     ]
   },
+  "import.results.rule.losersSeedsNotDouble": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/lib/import/results-read.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
   "import.results.rule.manyItems": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/lib/import/results-read.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "import.results.rule.missingFromRound": {
     "accessibleName": false,
     "sites": [
       {
@@ -26871,7 +26915,7 @@
       }
     ]
   },
-  "import.results.rule.noStages": {
+  "import.results.rule.notInGroup": {
     "accessibleName": false,
     "sites": [
       {
@@ -26904,7 +26948,29 @@
       }
     ]
   },
+  "import.results.rule.pairTwice": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/lib/import/results-read.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
   "import.results.rule.playerNotReturning": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/lib/import/results-read.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "import.results.rule.playsTwiceInRound": {
     "accessibleName": false,
     "sites": [
       {
@@ -26926,7 +26992,40 @@
       }
     ]
   },
+  "import.results.rule.rematchNeedsSide": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/lib/import/results-read.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
   "import.results.rule.required": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/lib/import/results-read.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "import.results.rule.roundGap": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/lib/import/results-read.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "import.results.rule.roundRequired": {
     "accessibleName": false,
     "sites": [
       {
@@ -26959,6 +27058,39 @@
       }
     ]
   },
+  "import.results.rule.seededTwice": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/lib/import/results-read.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "import.results.rule.seedsOnSplitStage": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/lib/import/results-read.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "import.results.rule.seedsRequired": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/lib/import/results-read.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
   "import.results.rule.selfSet": {
     "accessibleName": false,
     "sites": [
@@ -26970,7 +27102,7 @@
       }
     ]
   },
-  "import.results.rule.sideInStandings": {
+  "import.results.rule.setFitsNowhere": {
     "accessibleName": false,
     "sites": [
       {
@@ -26981,7 +27113,7 @@
       }
     ]
   },
-  "import.results.rule.sideRoundPair": {
+  "import.results.rule.sideInStandings": {
     "accessibleName": false,
     "sites": [
       {
@@ -27103,6 +27235,28 @@
     ]
   },
   "import.results.rule.unknownStage": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/lib/import/results-read.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "import.results.rule.unplayedMatch": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/lib/import/results-read.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "import.results.rule.unplayedPair": {
     "accessibleName": false,
     "sites": [
       {
