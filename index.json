@@ -11617,6 +11617,226 @@
       }
     ]
   },
+  "dashboard.community.export.body": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/dashboard/scene/import/results-export-section.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "dashboard.community.export.button": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/dashboard/scene/import/results-export-section.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "dashboard.community.export.failed": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/dashboard/scene/import/results-export-section.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "dashboard.community.export.pending": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/dashboard/scene/import/results-export-section.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "dashboard.community.export.report.empty": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/lib/import/results-export-report.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "dashboard.community.export.report.emptyList": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/lib/import/results-export-report.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "dashboard.community.export.report.entrants": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/lib/import/results-export-report.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "dashboard.community.export.report.eventInvalid": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/lib/import/results-export-report.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "dashboard.community.export.report.heading": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/lib/import/results-export-report.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "dashboard.community.export.report.invalid": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/lib/import/results-export-report.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "dashboard.community.export.report.never": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/lib/import/results-export-report.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "dashboard.community.export.report.neverHeading": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/lib/import/results-export-report.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "dashboard.community.export.report.noBracket": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/lib/import/results-export-report.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "dashboard.community.export.report.overCap": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/lib/import/results-export-report.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "dashboard.community.export.report.stageType": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/lib/import/results-export-report.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "dashboard.community.export.report.tiebreaks": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/lib/import/results-export-report.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "dashboard.community.export.report.tooLarge": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/lib/import/results-export-report.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "dashboard.community.export.report.unfinished": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/lib/import/results-export-report.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "dashboard.community.export.report.vods": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/lib/import/results-export-report.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "dashboard.community.export.title": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/dashboard/scene/import/results-export-section.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
   "dashboard.community.identity.description": {
     "accessibleName": false,
     "sites": [
@@ -41010,6 +41230,12 @@
     "accessibleName": false,
     "sites": [
       {
+        "file": "apps/web/lib/import/results-export.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
         "file": "apps/web/lib/import/universal-pools.ts",
         "grain": "str",
         "attr": "",
@@ -41045,6 +41271,12 @@
     "sites": [
       {
         "file": "apps/web/lib/import/results-document.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
+        "file": "apps/web/lib/import/results-export.ts",
         "grain": "str",
         "attr": "",
         "element": ""
