@@ -40003,6 +40003,61 @@
       }
     ]
   },
+  "tournament.ladder.standing.empty": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/ladder-standing.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.ladder.standing.lastSet": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/ladder-standing.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.ladder.standing.playing": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/ladder-standing.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.ladder.standing.rating": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/ladder-standing.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.ladder.standing.record": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/ladder-standing.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
   "tournament.lens.goToEvent": {
     "accessibleName": false,
     "sites": [
@@ -41314,6 +41369,12 @@
   "tournament.pools.column.player": {
     "accessibleName": false,
     "sites": [
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/ladder-standing.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/pools-tab.tsx",
         "grain": "str",
