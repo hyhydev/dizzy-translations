@@ -89,6 +89,12 @@
         "element": ""
       },
       {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/ladder-board.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/manual-entrant-controls.tsx",
         "grain": "str",
         "attr": "",
@@ -40084,7 +40090,79 @@
       }
     ]
   },
+  "tournament.ladder.board.end": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/ladder-board.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.ladder.board.end.ask": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/ladder-board.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.ladder.board.end.label": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/ladder-board.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.ladder.board.end.line": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/ladder-board.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
   "tournament.ladder.board.feature": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/ladder-board.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.ladder.board.finishNow": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/ladder-board.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/ladder-board.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.ladder.board.finishNow.ask": {
     "accessibleName": false,
     "sites": [
       {
@@ -40129,6 +40207,39 @@
     ]
   },
   "tournament.ladder.board.inUse": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/ladder-board.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.ladder.board.lastCall.label": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/ladder-board.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.ladder.board.lastCall.line": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/ladder-board.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.ladder.board.lastCall.since": {
     "accessibleName": false,
     "sites": [
       {
@@ -40294,6 +40405,17 @@
     ]
   },
   "tournament.ladder.board.ready": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/ladder-board.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.ladder.board.reopen": {
     "accessibleName": false,
     "sites": [
       {
@@ -40553,6 +40675,85 @@
       }
     ]
   },
+  "tournament.ladder.dock.finished.figure": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/mobile/components/ladder-card.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/ladder-dock.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.ladder.dock.finished.figureNote": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/mobile/components/ladder-card.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.ladder.dock.finished.line": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/mobile/components/ladder-card.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/ladder-dock.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.ladder.dock.finished.status": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/mobile/components/ladder-card.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/ladder-dock.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.ladder.dock.finished.unplaced": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/mobile/components/ladder-card.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/ladder-dock.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
   "tournament.ladder.dock.hidden": {
     "accessibleName": false,
     "sites": [
@@ -40618,6 +40819,68 @@
   "tournament.ladder.dock.label": {
     "accessibleName": false,
     "sites": [
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/ladder-dock.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.ladder.dock.lastCall.figure": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/mobile/components/ladder-card.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/ladder-dock.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.ladder.dock.lastCall.figureNote": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/mobile/components/ladder-card.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.ladder.dock.lastCall.line": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/mobile/components/ladder-card.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/ladder-dock.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.ladder.dock.lastCall.status": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/mobile/components/ladder-card.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/ladder-dock.tsx",
         "grain": "str",
@@ -40853,6 +41116,35 @@
     "sites": [
       {
         "file": "apps/mobile/components/ladder-card.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/ladder-dock.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.ladder.dock.place": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/mobile/components/ladder-card.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
+        "file": "apps/mobile/components/ladder-card.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/ladder-dock.tsx",
         "grain": "str",
         "attr": "",
         "element": ""
@@ -43398,6 +43690,28 @@
     ]
   },
   "tournament.readiness.finish.cutFrontierUnreached": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "packages/domain/src/stage-readiness.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.readiness.finish.ladderLastCall": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "packages/domain/src/stage-readiness.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.readiness.finish.ladderSetsPlaying": {
     "accessibleName": false,
     "sites": [
       {
