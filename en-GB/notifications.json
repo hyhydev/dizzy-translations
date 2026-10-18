@@ -40,6 +40,8 @@
   "notifications.push.gameRequest.declined": "Your request for {game} was declined",
   "notifications.push.gameRequest.declined.reason": "Your request for {game} was declined: {reason}",
   "notifications.push.gameRequest.filed": "{n, plural, one {An importer requested the game {game}} other {# importers requested the game {game}}}",
+  "notifications.push.matchFound.by": "Match found. Ready by {time}",
+  "notifications.push.matchFound.within": "Match found. Ready within {n, plural, one {# minute} other {# minutes}}",
   "notifications.push.premium.ended": "Your Premium has ended. Your handle and animated avatar are kept for when you buy more time",
   "notifications.push.premium.ending": "Your Premium ends in {days, plural, one {# day} other {# days}}. You can buy more time whenever you like",
   "notifications.push.role.event": "You're now {role, select, host {a host} to {a TO} captain {a captain} other {a streamer}} at {event}",

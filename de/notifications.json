@@ -40,6 +40,8 @@
   "notifications.push.gameRequest.declined": "",
   "notifications.push.gameRequest.declined.reason": "",
   "notifications.push.gameRequest.filed": "",
+  "notifications.push.matchFound.by": "",
+  "notifications.push.matchFound.within": "",
   "notifications.push.premium.ended": "",
   "notifications.push.premium.ending": "",
   "notifications.push.role.event": "",
