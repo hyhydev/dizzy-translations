@@ -164,6 +164,8 @@
   "mobile.run.error": "Couldn't load your run: {error}",
   "mobile.run.eta.next": "Up next",
   "mobile.run.eta.waiting": "Waiting",
+  "mobile.run.ladder.paidEntry": "Entry is {fee}. Enter on the website",
+  "mobile.run.ladder.standing": "{place, selectordinal, one {#st} two {#nd} few {#rd} other {#th}} · {rating}",
   "mobile.run.link.activeSets": "View active sets →",
   "mobile.run.link.displaySettings": "Display settings →",
   "mobile.run.link.myEvents": "Your events →",

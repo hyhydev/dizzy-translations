@@ -26,6 +26,8 @@
   "mobile.register.block.finished": "Beside a bracket the reader has not entered: it is over, so it cannot be picked.",
   "mobile.register.prefix.placeholder": "Placeholder of the short box before the name: a sponsor or clan tag.",
   "mobile.register.registering": "The submit button while a registration is being sent.",
+  "mobile.run.ladder.paidEntry": "A running ladder the player can still enter, but entry costs money: the app takes no payments, so they enter on the website. {fee} is the formatted price, e.g. \"£5\".",
+  "mobile.run.ladder.standing": "A ladder card's header on the My run tab: the player's place in the ladder standing, then their rating, e.g. \"3rd · 1640\".",
   "mobile.run.link.under18": "Link in the app's list of account screens. It opens the screen with the question 'Are you under 18?'.",
   "mobile.run.pathStep": "One step of the viewer's path through a bracket. {result} is W or L; <b></b> draws it in bold.",
   "mobile.scope.selected": "Flag beside the community currently chosen in the community picker.",

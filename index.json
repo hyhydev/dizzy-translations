@@ -47,13 +47,13 @@
     "accessibleName": false,
     "sites": [
       {
-        "file": "apps/mobile/app/(tabs)/my-run.tsx",
+        "file": "apps/mobile/app/delete-account.tsx",
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
-        "file": "apps/mobile/app/delete-account.tsx",
+        "file": "apps/mobile/components/report-form.tsx",
         "grain": "str",
         "attr": "",
         "element": ""
@@ -3199,7 +3199,7 @@
     "accessibleName": false,
     "sites": [
       {
-        "file": "apps/mobile/app/(tabs)/my-run.tsx",
+        "file": "apps/mobile/components/report-form.tsx",
         "grain": "str",
         "attr": "",
         "element": ""
@@ -29590,6 +29590,28 @@
       }
     ]
   },
+  "mobile.run.ladder.paidEntry": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/mobile/components/ladder-card.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "mobile.run.ladder.standing": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/mobile/components/ladder-card.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
   "mobile.run.link.activeSets": {
     "accessibleName": false,
     "sites": [
@@ -29704,7 +29726,7 @@
     "accessibleName": false,
     "sites": [
       {
-        "file": "apps/mobile/app/(tabs)/my-run.tsx",
+        "file": "apps/mobile/components/report-form.tsx",
         "grain": "str",
         "attr": "",
         "element": ""
@@ -29715,7 +29737,7 @@
     "accessibleName": false,
     "sites": [
       {
-        "file": "apps/mobile/app/(tabs)/my-run.tsx",
+        "file": "apps/mobile/components/report-form.tsx",
         "grain": "str",
         "attr": "",
         "element": ""
@@ -29726,7 +29748,7 @@
     "accessibleName": false,
     "sites": [
       {
-        "file": "apps/mobile/app/(tabs)/my-run.tsx",
+        "file": "apps/mobile/components/report-form.tsx",
         "grain": "str",
         "attr": "",
         "element": ""
@@ -29737,7 +29759,7 @@
     "accessibleName": false,
     "sites": [
       {
-        "file": "apps/mobile/app/(tabs)/my-run.tsx",
+        "file": "apps/mobile/components/report-form.tsx",
         "grain": "str",
         "attr": "",
         "element": ""
@@ -40000,7 +40022,7 @@
     "accessibleName": false,
     "sites": [
       {
-        "file": "apps/web/app/[lang]/[game]/t/[slug]/ladder-dock.tsx",
+        "file": "packages/domain/src/ladder-dock.ts",
         "grain": "str",
         "attr": "",
         "element": ""
@@ -40011,7 +40033,7 @@
     "accessibleName": false,
     "sites": [
       {
-        "file": "apps/web/app/[lang]/[game]/t/[slug]/ladder-dock.tsx",
+        "file": "packages/domain/src/ladder-dock.ts",
         "grain": "str",
         "attr": "",
         "element": ""
@@ -40021,6 +40043,12 @@
   "tournament.ladder.dock.claim": {
     "accessibleName": false,
     "sites": [
+      {
+        "file": "apps/mobile/components/ladder-card.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/ladder-dock.tsx",
         "grain": "str",
@@ -40033,6 +40061,12 @@
     "accessibleName": false,
     "sites": [
       {
+        "file": "apps/mobile/components/ladder-card.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/ladder-dock.tsx",
         "grain": "str",
         "attr": "",
@@ -40043,6 +40077,12 @@
   "tournament.ladder.dock.claim.report": {
     "accessibleName": false,
     "sites": [
+      {
+        "file": "apps/mobile/components/ladder-card.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/ladder-dock.tsx",
         "grain": "str",
@@ -40066,6 +40106,12 @@
     "accessibleName": false,
     "sites": [
       {
+        "file": "apps/mobile/components/ladder-card.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/ladder-dock.tsx",
         "grain": "str",
         "attr": "",
@@ -40076,6 +40122,12 @@
   "tournament.ladder.dock.counts": {
     "accessibleName": false,
     "sites": [
+      {
+        "file": "apps/mobile/components/ladder-card.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/ladder-dock.tsx",
         "grain": "str",
@@ -40088,6 +40140,12 @@
     "accessibleName": false,
     "sites": [
       {
+        "file": "apps/mobile/components/ladder-card.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/ladder-dock.tsx",
         "grain": "str",
         "attr": "",
@@ -40099,6 +40157,12 @@
     "accessibleName": false,
     "sites": [
       {
+        "file": "apps/mobile/components/ladder-card.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/ladder-dock.tsx",
         "grain": "str",
         "attr": "",
@@ -40109,6 +40173,12 @@
   "tournament.ladder.dock.join": {
     "accessibleName": false,
     "sites": [
+      {
+        "file": "apps/mobile/components/ladder-card.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/ladder-dock.tsx",
         "grain": "str",
@@ -40132,6 +40202,12 @@
     "accessibleName": false,
     "sites": [
       {
+        "file": "apps/mobile/components/ladder-card.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/ladder-dock.tsx",
         "grain": "str",
         "attr": "",
@@ -40153,6 +40229,12 @@
   "tournament.ladder.dock.leave": {
     "accessibleName": false,
     "sites": [
+      {
+        "file": "apps/mobile/components/ladder-card.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/ladder-dock.tsx",
         "grain": "str",
@@ -40176,6 +40258,12 @@
     "accessibleName": false,
     "sites": [
       {
+        "file": "apps/mobile/components/ladder-card.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/ladder-dock.tsx",
         "grain": "str",
         "attr": "",
@@ -40186,6 +40274,12 @@
   "tournament.ladder.dock.noShow.line": {
     "accessibleName": false,
     "sites": [
+      {
+        "file": "apps/mobile/components/ladder-card.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/ladder-dock.tsx",
         "grain": "str",
@@ -40198,6 +40292,12 @@
     "accessibleName": false,
     "sites": [
       {
+        "file": "apps/mobile/components/ladder-card.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/ladder-dock.tsx",
         "grain": "str",
         "attr": "",
@@ -40208,6 +40308,12 @@
   "tournament.ladder.dock.noShow.status": {
     "accessibleName": false,
     "sites": [
+      {
+        "file": "apps/mobile/components/ladder-card.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/ladder-dock.tsx",
         "grain": "str",
@@ -40220,6 +40326,12 @@
     "accessibleName": false,
     "sites": [
       {
+        "file": "apps/mobile/components/ladder-card.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/ladder-dock.tsx",
         "grain": "str",
         "attr": "",
@@ -40231,6 +40343,12 @@
     "accessibleName": false,
     "sites": [
       {
+        "file": "apps/mobile/components/ladder-card.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/ladder-dock.tsx",
         "grain": "str",
         "attr": "",
@@ -40241,6 +40359,18 @@
   "tournament.ladder.dock.offered.note": {
     "accessibleName": false,
     "sites": [
+      {
+        "file": "apps/mobile/components/ladder-card.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
+        "file": "apps/mobile/components/ladder-card.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/ladder-dock.tsx",
         "grain": "str",
@@ -40259,6 +40389,18 @@
     "accessibleName": false,
     "sites": [
       {
+        "file": "apps/mobile/components/ladder-card.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
+        "file": "apps/mobile/components/ladder-card.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/ladder-dock.tsx",
         "grain": "str",
         "attr": "",
@@ -40276,6 +40418,12 @@
     "accessibleName": false,
     "sites": [
       {
+        "file": "apps/mobile/components/ladder-card.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/ladder-dock.tsx",
         "grain": "str",
         "attr": "",
@@ -40286,6 +40434,12 @@
   "tournament.ladder.dock.paused.line": {
     "accessibleName": false,
     "sites": [
+      {
+        "file": "apps/mobile/components/ladder-card.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/ladder-dock.tsx",
         "grain": "str",
@@ -40298,6 +40452,12 @@
     "accessibleName": false,
     "sites": [
       {
+        "file": "apps/mobile/components/ladder-card.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/ladder-dock.tsx",
         "grain": "str",
         "attr": "",
@@ -40308,6 +40468,12 @@
   "tournament.ladder.dock.playing.line": {
     "accessibleName": false,
     "sites": [
+      {
+        "file": "apps/mobile/components/ladder-card.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/ladder-dock.tsx",
         "grain": "str",
@@ -40320,6 +40486,12 @@
     "accessibleName": false,
     "sites": [
       {
+        "file": "apps/mobile/components/ladder-card.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/ladder-dock.tsx",
         "grain": "str",
         "attr": "",
@@ -40330,6 +40502,12 @@
   "tournament.ladder.dock.playing.lineSetup": {
     "accessibleName": false,
     "sites": [
+      {
+        "file": "apps/mobile/components/ladder-card.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/ladder-dock.tsx",
         "grain": "str",
@@ -40342,6 +40520,12 @@
     "accessibleName": false,
     "sites": [
       {
+        "file": "apps/mobile/components/ladder-card.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/ladder-dock.tsx",
         "grain": "str",
         "attr": "",
@@ -40353,6 +40537,12 @@
     "accessibleName": false,
     "sites": [
       {
+        "file": "apps/mobile/components/ladder-card.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/ladder-dock.tsx",
         "grain": "str",
         "attr": "",
@@ -40363,6 +40553,12 @@
   "tournament.ladder.dock.queueAgain": {
     "accessibleName": false,
     "sites": [
+      {
+        "file": "apps/mobile/components/ladder-card.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/ladder-dock.tsx",
         "grain": "str",
@@ -40386,6 +40582,12 @@
     "accessibleName": false,
     "sites": [
       {
+        "file": "apps/mobile/components/ladder-card.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/ladder-dock.tsx",
         "grain": "str",
         "attr": "",
@@ -40396,6 +40598,12 @@
   "tournament.ladder.dock.queued.line": {
     "accessibleName": false,
     "sites": [
+      {
+        "file": "apps/mobile/components/ladder-card.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/ladder-dock.tsx",
         "grain": "str",
@@ -40408,6 +40616,12 @@
     "accessibleName": false,
     "sites": [
       {
+        "file": "apps/mobile/components/ladder-card.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/ladder-dock.tsx",
         "grain": "str",
         "attr": "",
@@ -40418,6 +40632,12 @@
   "tournament.ladder.dock.readied.figure": {
     "accessibleName": false,
     "sites": [
+      {
+        "file": "apps/mobile/components/ladder-card.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/ladder-dock.tsx",
         "grain": "str",
@@ -40430,6 +40650,12 @@
     "accessibleName": false,
     "sites": [
       {
+        "file": "apps/mobile/components/ladder-card.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/ladder-dock.tsx",
         "grain": "str",
         "attr": "",
@@ -40441,6 +40667,12 @@
     "accessibleName": false,
     "sites": [
       {
+        "file": "apps/mobile/components/ladder-card.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/ladder-dock.tsx",
         "grain": "str",
         "attr": "",
@@ -40451,6 +40683,12 @@
   "tournament.ladder.dock.ready": {
     "accessibleName": false,
     "sites": [
+      {
+        "file": "apps/mobile/components/ladder-card.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/ladder-dock.tsx",
         "grain": "str",
@@ -40474,6 +40712,12 @@
     "accessibleName": false,
     "sites": [
       {
+        "file": "apps/mobile/components/ladder-card.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/ladder-dock.tsx",
         "grain": "str",
         "attr": "",
@@ -40484,6 +40728,18 @@
   "tournament.ladder.dock.register.status": {
     "accessibleName": false,
     "sites": [
+      {
+        "file": "apps/mobile/components/ladder-card.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
+        "file": "apps/mobile/components/ladder-card.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/ladder-dock.tsx",
         "grain": "str",
@@ -40513,6 +40769,12 @@
     "accessibleName": false,
     "sites": [
       {
+        "file": "apps/mobile/components/ladder-card.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/ladder-dock.tsx",
         "grain": "str",
         "attr": "",
@@ -40523,6 +40785,12 @@
   "tournament.ladder.dock.reported.lost": {
     "accessibleName": false,
     "sites": [
+      {
+        "file": "apps/mobile/components/ladder-card.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/ladder-dock.tsx",
         "grain": "str",
@@ -40535,6 +40803,12 @@
     "accessibleName": false,
     "sites": [
       {
+        "file": "apps/mobile/components/ladder-card.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/ladder-dock.tsx",
         "grain": "str",
         "attr": "",
@@ -40545,6 +40819,12 @@
   "tournament.ladder.dock.reported.won": {
     "accessibleName": false,
     "sites": [
+      {
+        "file": "apps/mobile/components/ladder-card.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/ladder-dock.tsx",
         "grain": "str",
@@ -40557,6 +40837,12 @@
     "accessibleName": false,
     "sites": [
       {
+        "file": "apps/mobile/components/ladder-card.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/ladder-dock.tsx",
         "grain": "str",
         "attr": "",
@@ -40567,6 +40853,12 @@
   "tournament.ladder.dock.versus": {
     "accessibleName": false,
     "sites": [
+      {
+        "file": "apps/mobile/components/ladder-card.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/ladder-dock.tsx",
         "grain": "str",
@@ -40579,6 +40871,12 @@
     "accessibleName": false,
     "sites": [
       {
+        "file": "apps/mobile/components/ladder-card.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/ladder-dock.tsx",
         "grain": "str",
         "attr": "",
@@ -40590,6 +40888,12 @@
     "accessibleName": false,
     "sites": [
       {
+        "file": "apps/mobile/components/ladder-card.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/ladder-dock.tsx",
         "grain": "str",
         "attr": "",
@@ -40600,6 +40904,12 @@
   "tournament.ladder.dock.you": {
     "accessibleName": false,
     "sites": [
+      {
+        "file": "apps/mobile/components/ladder-card.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/ladder-dock.tsx",
         "grain": "str",
@@ -42076,6 +42386,12 @@
       },
       {
         "file": "apps/mobile/app/tournaments/[id]/active-sets.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
+        "file": "apps/mobile/components/ladder-card.tsx",
         "grain": "str",
         "attr": "",
         "element": ""
