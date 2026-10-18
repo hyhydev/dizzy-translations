@@ -42663,6 +42663,12 @@
     "accessibleName": false,
     "sites": [
       {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/ladder-standing.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/pools-tab.tsx",
         "grain": "str",
         "attr": "",
