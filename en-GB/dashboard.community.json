@@ -128,7 +128,7 @@
   "dashboard.community.events.unranked": "Unranked",
   "dashboard.community.events.unranked.title": "Self-serve imports start unranked and don't feed ratings. A site operator can promote this.",
   "dashboard.community.events.vod": "VOD available",
-  "dashboard.community.export.body": "Every finished event this community holds, as results documents: one file per event, in a zip. Each file can be imported again from a results document. A players file lists everything each player entered, for reading only. A list in the zip says what is never included, and what could not be included and why.",
+  "dashboard.community.export.body": "Every finished event this community holds, as results documents: one file per event, in a zip. Each file can be imported again from a results document. A players file lists everything each player entered and their rating on this community's board, and a ratings file gives everyone's rating after every tournament, this board's and each season's. Both are for reading only. A list in the zip says what is never included, and what could not be included and why.",
   "dashboard.community.export.button": "Results documents (zip)",
   "dashboard.community.export.failed": "The results couldn't be prepared. Try again in a moment.",
   "dashboard.community.export.pending": "Preparing the results…",
