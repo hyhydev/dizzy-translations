@@ -111,7 +111,7 @@
   "dashboard.community.events.unranked": "Tag on a tournament that does not count toward player ratings.",
   "dashboard.community.events.unranked.title": "Tooltip on the Unranked tag.",
   "dashboard.community.events.vod": "Accessible name of the icon marking a tournament that has video.",
-  "dashboard.community.export.body": "What the download holds. A results document is Dizzy's own file format for an event's results; zip is a file format, keep it as is.",
+  "dashboard.community.export.body": "What the download holds. A results document is Dizzy's own file format for an event's results; zip is a file format, keep it as is. The players file is a second kind of file in the zip, an index by player that is never imported.",
   "dashboard.community.export.button": "Button that downloads the zip. It names the file, not the act. Zip is a file format; keep it as is.",
   "dashboard.community.export.failed": "Shown under the button when the zip could not be made.",
   "dashboard.community.export.pending": "The button's label while the zip is being made.",
