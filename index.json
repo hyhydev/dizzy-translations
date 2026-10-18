@@ -47669,6 +47669,116 @@
       }
     ]
   },
+  "tournament.stage.ladder.sessions": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/stage-dialog.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.stage.ladder.sessions.add": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/stage-dialog.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.stage.ladder.sessions.ends": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/stage-dialog.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.stage.ladder.sessions.none": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/stage-dialog.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.stage.ladder.sessions.now": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/stage-dialog.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.stage.ladder.sessions.range": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/stage-dialog.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.stage.ladder.sessions.remove": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/stage-dialog.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.stage.ladder.sessions.save": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/stage-dialog.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.stage.ladder.sessions.starts": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/stage-dialog.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.stage.ladder.sessions.to": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/stage-dialog.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
   "tournament.stage.lockedNote": {
     "accessibleName": false,
     "sites": [
