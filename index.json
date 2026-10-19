@@ -1062,6 +1062,12 @@
         "element": ""
       },
       {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/tournament-settings-sections.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
         "file": "apps/web/app/[lang]/events/[slug]/event-details-form.tsx",
         "grain": "str",
         "attr": "",
@@ -4656,6 +4662,12 @@
   "common.markdown.image.add": {
     "accessibleName": false,
     "sites": [
+      {
+        "file": "apps/web/components/markdown-body-field.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
       {
         "file": "apps/web/components/markdown-body-field.tsx",
         "grain": "str",
@@ -48275,28 +48287,6 @@
       }
     ]
   },
-  "tournament.settings.description": {
-    "accessibleName": false,
-    "sites": [
-      {
-        "file": "apps/web/app/[lang]/[game]/t/[slug]/tournament-settings-sections.tsx",
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      }
-    ]
-  },
-  "tournament.settings.description.placeholder": {
-    "accessibleName": false,
-    "sites": [
-      {
-        "file": "apps/web/app/[lang]/[game]/t/[slug]/tournament-settings-sections.tsx",
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      }
-    ]
-  },
   "tournament.settings.health.addStage": {
     "accessibleName": false,
     "sites": [
@@ -48409,6 +48399,23 @@
       }
     ]
   },
+  "tournament.settings.node.rules": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/settings-panels.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/tournament-settings.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
   "tournament.settings.node.runningSets": {
     "accessibleName": false,
     "sites": [
@@ -48487,6 +48494,39 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/settings-panels.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.settings.rules.eventNote": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/settings-panels.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.settings.rules.label": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/tournament-settings-sections.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.settings.rules.placeholder": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/tournament-settings-sections.tsx",
         "grain": "str",
         "attr": "",
         "element": ""
