@@ -37532,6 +37532,17 @@
       }
     ]
   },
+  "tournament.bracket.round.pool": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "packages/api/src/tournament-run.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
   "tournament.bracket.round.sided": {
     "accessibleName": false,
     "sites": [
@@ -37709,6 +37720,28 @@
       }
     ]
   },
+  "tournament.bracketDock.between.line": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/bracket-dock.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.bracketDock.between.lineBare": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/bracket-dock.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
   "tournament.bracketDock.called.note": {
     "accessibleName": false,
     "sites": [
@@ -37822,6 +37855,12 @@
   "tournament.bracketDock.hide": {
     "accessibleName": false,
     "sites": [
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/bracket-dock.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/bracket-dock.tsx",
         "grain": "str",
@@ -38100,6 +38139,72 @@
       }
     ]
   },
+  "tournament.bracketDock.poolDone.line": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/bracket-dock.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.bracketDock.poolDone.status": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/bracket-dock.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.bracketDock.poolOver.line": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/bracket-dock.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.bracketDock.poolOver.status": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/bracket-dock.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.bracketDock.record": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/bracket-dock.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.bracketDock.record.label": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/bracket-dock.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
   "tournament.bracketDock.report": {
     "accessibleName": false,
     "sites": [
@@ -38180,6 +38285,12 @@
   "tournament.bracketDock.waiting.status": {
     "accessibleName": false,
     "sites": [
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/bracket-dock.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/bracket-dock.tsx",
         "grain": "str",
