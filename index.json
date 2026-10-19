@@ -197,6 +197,12 @@
         "element": ""
       },
       {
+        "file": "apps/web/app/[lang]/dashboard/site/users/account-moderation-dialog.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
         "file": "apps/web/app/[lang]/events/[slug]/add-tournament-dialog.tsx",
         "grain": "str",
         "attr": "",
@@ -2721,6 +2727,12 @@
   "common.deleteDialog.typeToConfirm": {
     "accessibleName": false,
     "sites": [
+      {
+        "file": "apps/web/app/[lang]/dashboard/site/users/account-moderation-dialog.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
       {
         "file": "apps/web/components/admin/delete-dialog.tsx",
         "grain": "str",
