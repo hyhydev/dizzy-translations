@@ -30,6 +30,8 @@
   "notifications.discord.setCalled": "",
   "notifications.discord.setCalled.station": "",
   "notifications.discord.setReady": "",
+  "notifications.discord.stageStarted.first": "",
+  "notifications.discord.stageStarted.later": "",
   "notifications.discord.vs": "",
   "notifications.push.claim.approved": "",
   "notifications.push.claim.declined": "",

@@ -30,6 +30,8 @@
   "notifications.discord.setCalled": "Set called at {tournament}: {match}. Go play",
   "notifications.discord.setCalled.station": "Set called to {station} at {tournament}: {match}. Go play",
   "notifications.discord.setReady": "Set ready at {tournament}: {match}",
+  "notifications.discord.stageStarted.first": "{tournament} has started. Sets ready now:",
+  "notifications.discord.stageStarted.later": "{stage} at {tournament} is underway. Sets ready now:",
   "notifications.discord.vs": "{a} vs {b}",
   "notifications.push.claim.approved": "Your claim of {player} was approved. Their history is now yours",
   "notifications.push.claim.declined": "Your claim of {player} was declined",

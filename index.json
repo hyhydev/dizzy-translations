@@ -30819,6 +30819,28 @@
     "accessibleName": false,
     "sites": []
   },
+  "notifications.discord.stageStarted.first": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "packages/api/src/notifications/triggers.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "notifications.discord.stageStarted.later": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "packages/api/src/notifications/triggers.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
   "notifications.discord.vs": {
     "accessibleName": false,
     "sites": []
@@ -31190,6 +31212,12 @@
   "notifications.push.stageStarted.nextStage": {
     "accessibleName": false,
     "sites": [
+      {
+        "file": "packages/api/src/notifications/triggers.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
       {
         "file": "packages/api/src/notifications/triggers.ts",
         "grain": "str",
