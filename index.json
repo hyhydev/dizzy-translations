@@ -30807,6 +30807,22 @@
       }
     ]
   },
+  "notifications.discord.setCalled": {
+    "accessibleName": false,
+    "sites": []
+  },
+  "notifications.discord.setCalled.station": {
+    "accessibleName": false,
+    "sites": []
+  },
+  "notifications.discord.setReady": {
+    "accessibleName": false,
+    "sites": []
+  },
+  "notifications.discord.vs": {
+    "accessibleName": false,
+    "sites": []
+  },
   "notifications.push.claim.approved": {
     "accessibleName": false,
     "sites": [
