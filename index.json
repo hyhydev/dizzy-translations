@@ -30807,6 +30807,105 @@
       }
     ]
   },
+  "notifications.discord.ladder.expired.notReady": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "packages/api/src/notifications/ladder-call.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "notifications.discord.ladder.expired.ready": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "packages/api/src/notifications/ladder-call.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "notifications.discord.ladder.offered": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "packages/api/src/notifications/ladder-call.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "notifications.discord.ladder.play": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "packages/api/src/notifications/ladder-call.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "notifications.discord.ladder.play.station": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "packages/api/src/notifications/ladder-call.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "notifications.discord.ladder.play.waiting": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "packages/api/src/notifications/ladder-call.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "notifications.discord.ladder.waiting": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "packages/api/src/notifications/ladder-call.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "notifications.discord.ladder.withdrawn.kept": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "packages/api/src/notifications/ladder-call.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "notifications.discord.ladder.withdrawn.left": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "packages/api/src/notifications/ladder-call.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
   "notifications.discord.setCalled": {
     "accessibleName": false,
     "sites": []
@@ -30843,7 +30942,14 @@
   },
   "notifications.discord.vs": {
     "accessibleName": false,
-    "sites": []
+    "sites": [
+      {
+        "file": "packages/api/src/notifications/ladder-call.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
   },
   "notifications.push.claim.approved": {
     "accessibleName": false,
@@ -41736,6 +41842,12 @@
         "grain": "str",
         "attr": "",
         "element": ""
+      },
+      {
+        "file": "packages/api/src/notifications/ladder-call.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
       }
     ]
   },
@@ -42216,6 +42328,12 @@
       },
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/ladder-dock.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
+        "file": "packages/api/src/notifications/ladder-call.ts",
         "grain": "str",
         "attr": "",
         "element": ""
