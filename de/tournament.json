@@ -1148,8 +1148,5 @@
   "tournament.walkUp.handleNote": "",
   "tournament.walkUp.prefix": "",
   "tournament.walkUp.submit": "",
-  "tournament.walkUp.under18Note": "",
-  "tournament.yourMatch.next.inQueue": "",
-  "tournament.yourMatch.now.onStream": "",
-  "tournament.yourMatch.now.playing": ""
+  "tournament.walkUp.under18Note": ""
 }

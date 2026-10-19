@@ -29485,17 +29485,6 @@
       }
     ]
   },
-  "mobile.run.advanced": {
-    "accessibleName": false,
-    "sites": [
-      {
-        "file": "apps/mobile/app/(tabs)/my-run.tsx",
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      }
-    ]
-  },
   "mobile.run.checkIn.closed": {
     "accessibleName": false,
     "sites": [
@@ -29529,17 +29518,6 @@
       }
     ]
   },
-  "mobile.run.eliminated": {
-    "accessibleName": false,
-    "sites": [
-      {
-        "file": "apps/mobile/app/(tabs)/my-run.tsx",
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      }
-    ]
-  },
   "mobile.run.empty": {
     "accessibleName": false,
     "sites": [
@@ -29552,28 +29530,6 @@
     ]
   },
   "mobile.run.error": {
-    "accessibleName": false,
-    "sites": [
-      {
-        "file": "apps/mobile/app/(tabs)/my-run.tsx",
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      }
-    ]
-  },
-  "mobile.run.eta.next": {
-    "accessibleName": false,
-    "sites": [
-      {
-        "file": "apps/mobile/app/(tabs)/my-run.tsx",
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      }
-    ]
-  },
-  "mobile.run.eta.waiting": {
     "accessibleName": false,
     "sites": [
       {
@@ -37707,7 +37663,7 @@
     "accessibleName": false,
     "sites": [
       {
-        "file": "apps/web/app/[lang]/[game]/t/[slug]/bracket-dock.tsx",
+        "file": "packages/domain/src/bracket-dock.ts",
         "grain": "str",
         "attr": "",
         "element": ""
@@ -37718,7 +37674,7 @@
     "accessibleName": false,
     "sites": [
       {
-        "file": "apps/web/app/[lang]/[game]/t/[slug]/bracket-dock.tsx",
+        "file": "packages/domain/src/bracket-dock.ts",
         "grain": "str",
         "attr": "",
         "element": ""
@@ -37729,7 +37685,7 @@
     "accessibleName": false,
     "sites": [
       {
-        "file": "apps/web/app/[lang]/[game]/t/[slug]/bracket-dock.tsx",
+        "file": "packages/domain/src/bracket-dock.ts",
         "grain": "str",
         "attr": "",
         "element": ""
@@ -37740,7 +37696,7 @@
     "accessibleName": false,
     "sites": [
       {
-        "file": "apps/web/app/[lang]/[game]/t/[slug]/bracket-dock.tsx",
+        "file": "packages/domain/src/bracket-dock.ts",
         "grain": "str",
         "attr": "",
         "element": ""
@@ -37795,7 +37751,7 @@
     "accessibleName": false,
     "sites": [
       {
-        "file": "apps/web/app/[lang]/[game]/t/[slug]/bracket-dock.tsx",
+        "file": "packages/domain/src/bracket-dock.ts",
         "grain": "str",
         "attr": "",
         "element": ""
@@ -37806,7 +37762,7 @@
     "accessibleName": false,
     "sites": [
       {
-        "file": "apps/web/app/[lang]/[game]/t/[slug]/bracket-dock.tsx",
+        "file": "packages/domain/src/bracket-dock.ts",
         "grain": "str",
         "attr": "",
         "element": ""
@@ -37817,7 +37773,7 @@
     "accessibleName": false,
     "sites": [
       {
-        "file": "apps/web/app/[lang]/[game]/t/[slug]/bracket-dock.tsx",
+        "file": "packages/domain/src/bracket-dock.ts",
         "grain": "str",
         "attr": "",
         "element": ""
@@ -37828,7 +37784,7 @@
     "accessibleName": false,
     "sites": [
       {
-        "file": "apps/web/app/[lang]/[game]/t/[slug]/bracket-dock.tsx",
+        "file": "packages/domain/src/bracket-dock.ts",
         "grain": "str",
         "attr": "",
         "element": ""
@@ -37839,7 +37795,7 @@
     "accessibleName": false,
     "sites": [
       {
-        "file": "apps/web/app/[lang]/[game]/t/[slug]/bracket-dock.tsx",
+        "file": "packages/domain/src/bracket-dock.ts",
         "grain": "str",
         "attr": "",
         "element": ""
@@ -37861,7 +37817,7 @@
     "accessibleName": false,
     "sites": [
       {
-        "file": "apps/web/app/[lang]/[game]/t/[slug]/bracket-dock.tsx",
+        "file": "packages/domain/src/bracket-dock.ts",
         "grain": "str",
         "attr": "",
         "element": ""
@@ -37872,7 +37828,7 @@
     "accessibleName": false,
     "sites": [
       {
-        "file": "apps/web/app/[lang]/[game]/t/[slug]/bracket-dock.tsx",
+        "file": "packages/domain/src/bracket-dock.ts",
         "grain": "str",
         "attr": "",
         "element": ""
@@ -37887,24 +37843,6 @@
         "grain": "str",
         "attr": "",
         "element": ""
-      },
-      {
-        "file": "apps/web/app/[lang]/[game]/t/[slug]/bracket-dock.tsx",
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      },
-      {
-        "file": "apps/web/app/[lang]/[game]/t/[slug]/bracket-dock.tsx",
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      },
-      {
-        "file": "apps/web/app/[lang]/[game]/t/[slug]/bracket-dock.tsx",
-        "grain": "str",
-        "attr": "",
-        "element": ""
       }
     ]
   },
@@ -37912,7 +37850,7 @@
     "accessibleName": false,
     "sites": [
       {
-        "file": "apps/web/app/[lang]/[game]/t/[slug]/bracket-dock.tsx",
+        "file": "packages/domain/src/bracket-dock.ts",
         "grain": "str",
         "attr": "",
         "element": ""
@@ -37923,7 +37861,7 @@
     "accessibleName": false,
     "sites": [
       {
-        "file": "apps/web/app/[lang]/[game]/t/[slug]/bracket-dock.tsx",
+        "file": "packages/domain/src/bracket-dock.ts",
         "grain": "str",
         "attr": "",
         "element": ""
@@ -37945,7 +37883,7 @@
     "accessibleName": false,
     "sites": [
       {
-        "file": "apps/web/app/[lang]/[game]/t/[slug]/bracket-dock.tsx",
+        "file": "packages/domain/src/bracket-dock.ts",
         "grain": "str",
         "attr": "",
         "element": ""
@@ -37956,7 +37894,7 @@
     "accessibleName": false,
     "sites": [
       {
-        "file": "apps/web/app/[lang]/[game]/t/[slug]/bracket-dock.tsx",
+        "file": "packages/domain/src/bracket-dock.ts",
         "grain": "str",
         "attr": "",
         "element": ""
@@ -37967,7 +37905,7 @@
     "accessibleName": false,
     "sites": [
       {
-        "file": "apps/web/app/[lang]/[game]/t/[slug]/bracket-dock.tsx",
+        "file": "packages/domain/src/bracket-dock.ts",
         "grain": "str",
         "attr": "",
         "element": ""
@@ -37978,7 +37916,7 @@
     "accessibleName": false,
     "sites": [
       {
-        "file": "apps/web/app/[lang]/[game]/t/[slug]/bracket-dock.tsx",
+        "file": "packages/domain/src/bracket-dock.ts",
         "grain": "str",
         "attr": "",
         "element": ""
@@ -37989,7 +37927,7 @@
     "accessibleName": false,
     "sites": [
       {
-        "file": "apps/web/app/[lang]/[game]/t/[slug]/bracket-dock.tsx",
+        "file": "packages/domain/src/bracket-dock.ts",
         "grain": "str",
         "attr": "",
         "element": ""
@@ -38011,7 +37949,7 @@
     "accessibleName": false,
     "sites": [
       {
-        "file": "apps/web/app/[lang]/[game]/t/[slug]/bracket-dock.tsx",
+        "file": "packages/domain/src/bracket-dock.ts",
         "grain": "str",
         "attr": "",
         "element": ""
@@ -38109,6 +38047,12 @@
         "grain": "str",
         "attr": "",
         "element": ""
+      },
+      {
+        "file": "packages/domain/src/bracket-dock.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
       }
     ]
   },
@@ -38116,7 +38060,7 @@
     "accessibleName": false,
     "sites": [
       {
-        "file": "apps/web/app/[lang]/[game]/t/[slug]/bracket-dock.tsx",
+        "file": "packages/domain/src/bracket-dock.ts",
         "grain": "str",
         "attr": "",
         "element": ""
@@ -38127,7 +38071,7 @@
     "accessibleName": false,
     "sites": [
       {
-        "file": "apps/web/app/[lang]/[game]/t/[slug]/bracket-dock.tsx",
+        "file": "packages/domain/src/bracket-dock.ts",
         "grain": "str",
         "attr": "",
         "element": ""
@@ -38138,7 +38082,7 @@
     "accessibleName": false,
     "sites": [
       {
-        "file": "apps/web/app/[lang]/[game]/t/[slug]/bracket-dock.tsx",
+        "file": "packages/domain/src/bracket-dock.ts",
         "grain": "str",
         "attr": "",
         "element": ""
@@ -38149,7 +38093,7 @@
     "accessibleName": false,
     "sites": [
       {
-        "file": "apps/web/app/[lang]/[game]/t/[slug]/bracket-dock.tsx",
+        "file": "packages/domain/src/bracket-dock.ts",
         "grain": "str",
         "attr": "",
         "element": ""
@@ -38160,7 +38104,7 @@
     "accessibleName": false,
     "sites": [
       {
-        "file": "apps/web/app/[lang]/[game]/t/[slug]/bracket-dock.tsx",
+        "file": "packages/domain/src/bracket-dock.ts",
         "grain": "str",
         "attr": "",
         "element": ""
@@ -38171,7 +38115,7 @@
     "accessibleName": false,
     "sites": [
       {
-        "file": "apps/web/app/[lang]/[game]/t/[slug]/bracket-dock.tsx",
+        "file": "packages/domain/src/bracket-dock.ts",
         "grain": "str",
         "attr": "",
         "element": ""
@@ -38182,7 +38126,7 @@
     "accessibleName": false,
     "sites": [
       {
-        "file": "apps/web/app/[lang]/[game]/t/[slug]/bracket-dock.tsx",
+        "file": "packages/domain/src/bracket-dock.ts",
         "grain": "str",
         "attr": "",
         "element": ""
@@ -38193,7 +38137,7 @@
     "accessibleName": false,
     "sites": [
       {
-        "file": "apps/web/app/[lang]/[game]/t/[slug]/bracket-dock.tsx",
+        "file": "packages/domain/src/bracket-dock.ts",
         "grain": "str",
         "attr": "",
         "element": ""
@@ -38204,7 +38148,7 @@
     "accessibleName": false,
     "sites": [
       {
-        "file": "apps/web/app/[lang]/[game]/t/[slug]/bracket-dock.tsx",
+        "file": "packages/domain/src/bracket-dock.ts",
         "grain": "str",
         "attr": "",
         "element": ""
@@ -38215,7 +38159,7 @@
     "accessibleName": false,
     "sites": [
       {
-        "file": "apps/web/app/[lang]/[game]/t/[slug]/bracket-dock.tsx",
+        "file": "packages/domain/src/bracket-dock.ts",
         "grain": "str",
         "attr": "",
         "element": ""
@@ -38226,13 +38170,7 @@
     "accessibleName": false,
     "sites": [
       {
-        "file": "apps/web/app/[lang]/[game]/t/[slug]/bracket-dock.tsx",
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      },
-      {
-        "file": "apps/web/app/[lang]/[game]/t/[slug]/bracket-dock.tsx",
+        "file": "packages/domain/src/bracket-dock.ts",
         "grain": "str",
         "attr": "",
         "element": ""
@@ -38243,13 +38181,7 @@
     "accessibleName": false,
     "sites": [
       {
-        "file": "apps/web/app/[lang]/[game]/t/[slug]/bracket-dock.tsx",
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      },
-      {
-        "file": "apps/web/app/[lang]/[game]/t/[slug]/bracket-dock.tsx",
+        "file": "packages/domain/src/bracket-dock.ts",
         "grain": "str",
         "attr": "",
         "element": ""
@@ -38271,7 +38203,7 @@
     "accessibleName": false,
     "sites": [
       {
-        "file": "apps/web/app/[lang]/[game]/t/[slug]/bracket-dock.tsx",
+        "file": "packages/domain/src/bracket-dock.ts",
         "grain": "str",
         "attr": "",
         "element": ""
@@ -38282,7 +38214,7 @@
     "accessibleName": false,
     "sites": [
       {
-        "file": "apps/web/app/[lang]/[game]/t/[slug]/bracket-dock.tsx",
+        "file": "packages/domain/src/bracket-dock.ts",
         "grain": "str",
         "attr": "",
         "element": ""
@@ -38293,7 +38225,7 @@
     "accessibleName": false,
     "sites": [
       {
-        "file": "apps/web/app/[lang]/[game]/t/[slug]/bracket-dock.tsx",
+        "file": "packages/domain/src/bracket-dock.ts",
         "grain": "str",
         "attr": "",
         "element": ""
@@ -38304,7 +38236,7 @@
     "accessibleName": false,
     "sites": [
       {
-        "file": "apps/web/app/[lang]/[game]/t/[slug]/bracket-dock.tsx",
+        "file": "packages/domain/src/bracket-dock.ts",
         "grain": "str",
         "attr": "",
         "element": ""
@@ -38315,7 +38247,7 @@
     "accessibleName": false,
     "sites": [
       {
-        "file": "apps/web/app/[lang]/[game]/t/[slug]/bracket-dock.tsx",
+        "file": "packages/domain/src/bracket-dock.ts",
         "grain": "str",
         "attr": "",
         "element": ""
@@ -38326,7 +38258,7 @@
     "accessibleName": false,
     "sites": [
       {
-        "file": "apps/web/app/[lang]/[game]/t/[slug]/bracket-dock.tsx",
+        "file": "packages/domain/src/bracket-dock.ts",
         "grain": "str",
         "attr": "",
         "element": ""
@@ -38337,7 +38269,7 @@
     "accessibleName": false,
     "sites": [
       {
-        "file": "apps/web/app/[lang]/[game]/t/[slug]/bracket-dock.tsx",
+        "file": "packages/domain/src/bracket-dock.ts",
         "grain": "str",
         "attr": "",
         "element": ""
@@ -38348,7 +38280,7 @@
     "accessibleName": false,
     "sites": [
       {
-        "file": "apps/web/app/[lang]/[game]/t/[slug]/bracket-dock.tsx",
+        "file": "packages/domain/src/bracket-dock.ts",
         "grain": "str",
         "attr": "",
         "element": ""
@@ -38370,7 +38302,7 @@
     "accessibleName": false,
     "sites": [
       {
-        "file": "apps/web/app/[lang]/[game]/t/[slug]/bracket-dock.tsx",
+        "file": "packages/domain/src/bracket-dock.ts",
         "grain": "str",
         "attr": "",
         "element": ""
@@ -38392,7 +38324,7 @@
     "accessibleName": false,
     "sites": [
       {
-        "file": "apps/web/app/[lang]/[game]/t/[slug]/bracket-dock.tsx",
+        "file": "packages/domain/src/bracket-dock.ts",
         "grain": "str",
         "attr": "",
         "element": ""
@@ -38403,7 +38335,7 @@
     "accessibleName": false,
     "sites": [
       {
-        "file": "apps/web/app/[lang]/[game]/t/[slug]/bracket-dock.tsx",
+        "file": "packages/domain/src/bracket-dock.ts",
         "grain": "str",
         "attr": "",
         "element": ""
@@ -38414,7 +38346,7 @@
     "accessibleName": false,
     "sites": [
       {
-        "file": "apps/web/app/[lang]/[game]/t/[slug]/bracket-dock.tsx",
+        "file": "packages/domain/src/bracket-dock.ts",
         "grain": "str",
         "attr": "",
         "element": ""
@@ -38425,13 +38357,13 @@
     "accessibleName": false,
     "sites": [
       {
-        "file": "apps/web/app/[lang]/[game]/t/[slug]/bracket-dock.tsx",
+        "file": "packages/domain/src/bracket-dock.ts",
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
-        "file": "apps/web/app/[lang]/[game]/t/[slug]/bracket-dock.tsx",
+        "file": "packages/domain/src/bracket-dock.ts",
         "grain": "str",
         "attr": "",
         "element": ""
@@ -51341,39 +51273,6 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/manual-entrant-controls.tsx",
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      }
-    ]
-  },
-  "tournament.yourMatch.next.inQueue": {
-    "accessibleName": false,
-    "sites": [
-      {
-        "file": "apps/mobile/app/(tabs)/my-run.tsx",
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      }
-    ]
-  },
-  "tournament.yourMatch.now.onStream": {
-    "accessibleName": false,
-    "sites": [
-      {
-        "file": "apps/mobile/app/(tabs)/my-run.tsx",
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      }
-    ]
-  },
-  "tournament.yourMatch.now.playing": {
-    "accessibleName": false,
-    "sites": [
-      {
-        "file": "apps/mobile/app/(tabs)/my-run.tsx",
         "grain": "str",
         "attr": "",
         "element": ""
