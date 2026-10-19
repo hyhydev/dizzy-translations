@@ -1608,12 +1608,6 @@
         "element": ""
       },
       {
-        "file": "apps/web/app/[lang]/[game]/t/[slug]/your-match-card.tsx",
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      },
-      {
         "file": "apps/web/app/[lang]/events/[slug]/your-run-rail.tsx",
         "grain": "str",
         "attr": "",
@@ -7450,12 +7444,6 @@
       },
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/tournament-masthead.tsx",
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      },
-      {
-        "file": "apps/web/app/[lang]/[game]/t/[slug]/your-match-card.tsx",
         "grain": "str",
         "attr": "",
         "element": ""
@@ -37519,6 +37507,12 @@
         "element": ""
       },
       {
+        "file": "packages/api/src/tournament-run.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
         "file": "packages/domain/src/bracket-structure.ts",
         "grain": "str",
         "attr": "",
@@ -37554,6 +37548,17 @@
       },
       {
         "file": "packages/domain/src/bracket-structure.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.bracket.round.swiss": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "packages/api/src/tournament-run.ts",
         "grain": "str",
         "attr": "",
         "element": ""
@@ -37852,9 +37857,43 @@
       }
     ]
   },
+  "tournament.bracketDock.dropped.line": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/bracket-dock.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.bracketDock.dropped.status": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/bracket-dock.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
   "tournament.bracketDock.hide": {
     "accessibleName": false,
     "sites": [
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/bracket-dock.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/bracket-dock.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/bracket-dock.tsx",
         "grain": "str",
@@ -38191,6 +38230,12 @@
         "grain": "str",
         "attr": "",
         "element": ""
+      },
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/bracket-dock.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
       }
     ]
   },
@@ -38202,10 +38247,104 @@
         "grain": "str",
         "attr": "",
         "element": ""
+      },
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/bracket-dock.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
       }
     ]
   },
   "tournament.bracketDock.report": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/bracket-dock.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.bracketDock.swissBye.line": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/bracket-dock.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.bracketDock.swissBye.lineLast": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/bracket-dock.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.bracketDock.swissBye.status": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/bracket-dock.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.bracketDock.swissDone.line": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/bracket-dock.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.bracketDock.swissDone.status": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/bracket-dock.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.bracketDock.swissWaiting.line": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/bracket-dock.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.bracketDock.swissWaiting.lineDraw": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/bracket-dock.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.bracketDock.swissWaiting.status": {
     "accessibleName": false,
     "sites": [
       {
@@ -51208,61 +51347,11 @@
       }
     ]
   },
-  "tournament.yourMatch.advancing": {
-    "accessibleName": false,
-    "sites": [
-      {
-        "file": "apps/web/app/[lang]/[game]/t/[slug]/your-match-card.tsx",
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      }
-    ]
-  },
-  "tournament.yourMatch.eliminated": {
-    "accessibleName": false,
-    "sites": [
-      {
-        "file": "apps/web/app/[lang]/[game]/t/[slug]/your-match-card.tsx",
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      }
-    ]
-  },
   "tournament.yourMatch.next.inQueue": {
     "accessibleName": false,
     "sites": [
       {
         "file": "apps/mobile/app/(tabs)/my-run.tsx",
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      },
-      {
-        "file": "apps/web/app/[lang]/[game]/t/[slug]/next-match-imperative.ts",
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      }
-    ]
-  },
-  "tournament.yourMatch.next.upNext": {
-    "accessibleName": false,
-    "sites": [
-      {
-        "file": "apps/web/app/[lang]/[game]/t/[slug]/next-match-imperative.ts",
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      }
-    ]
-  },
-  "tournament.yourMatch.noSet": {
-    "accessibleName": false,
-    "sites": [
-      {
-        "file": "apps/web/app/[lang]/[game]/t/[slug]/your-match-card.tsx",
         "grain": "str",
         "attr": "",
         "element": ""
@@ -51277,12 +51366,6 @@
         "grain": "str",
         "attr": "",
         "element": ""
-      },
-      {
-        "file": "apps/web/app/[lang]/[game]/t/[slug]/next-match-imperative.ts",
-        "grain": "str",
-        "attr": "",
-        "element": ""
       }
     ]
   },
@@ -51291,67 +51374,6 @@
     "sites": [
       {
         "file": "apps/mobile/app/(tabs)/my-run.tsx",
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      },
-      {
-        "file": "apps/web/app/[lang]/[game]/t/[slug]/next-match-imperative.ts",
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      }
-    ]
-  },
-  "tournament.yourMatch.outFinished": {
-    "accessibleName": false,
-    "sites": [
-      {
-        "file": "apps/web/app/[lang]/[game]/t/[slug]/your-match-card.tsx",
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      }
-    ]
-  },
-  "tournament.yourMatch.record": {
-    "accessibleName": false,
-    "sites": [
-      {
-        "file": "apps/web/app/[lang]/[game]/t/[slug]/your-match-card.tsx",
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      }
-    ]
-  },
-  "tournament.yourMatch.sitTight": {
-    "accessibleName": false,
-    "sites": [
-      {
-        "file": "apps/web/app/[lang]/[game]/t/[slug]/your-match-card.tsx",
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      }
-    ]
-  },
-  "tournament.yourMatch.throughTo": {
-    "accessibleName": false,
-    "sites": [
-      {
-        "file": "apps/web/app/[lang]/[game]/t/[slug]/your-match-card.tsx",
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      }
-    ]
-  },
-  "tournament.yourMatch.waiting": {
-    "accessibleName": false,
-    "sites": [
-      {
-        "file": "apps/web/app/[lang]/[game]/t/[slug]/next-match-imperative.ts",
         "grain": "str",
         "attr": "",
         "element": ""
