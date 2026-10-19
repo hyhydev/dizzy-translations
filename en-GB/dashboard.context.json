@@ -48,6 +48,7 @@
   "dashboard.nav.site.ratings": "Site dashboard panel: the rating engine.",
   "dashboard.nav.site.retention": "Site dashboard panel: what the site deletes once it is past its retention period, and when each rule last ran.",
   "dashboard.nav.site.series": "Site dashboard panel: recurring event series.",
+  "dashboard.nav.site.takedown": "Site dashboard sidebar: where a moderator takes down an uploaded image (a picture, logo or banner) everywhere on the site by pasting its address.",
   "dashboard.nav.site.users": "Site dashboard panel: accounts.",
   "dashboard.nav.title": "The management console's name: its rail heading and its page title.",
   "dashboard.overview.games.entrants": "Under the total in the middle of the games chart.",
