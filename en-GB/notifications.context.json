@@ -35,6 +35,8 @@
   "notifications.push.gameRequest.filed": "For site staff: people importing tournaments asked for a game that Dizzy doesn't list yet. n is how many asked.",
   "notifications.push.matchFound.by": "Push title when a ladder pairs the player with an opponent: they must press Ready by this time or lose their place. {time} is a clock time, e.g. 20:14. The opponent is deliberately not named.",
   "notifications.push.matchFound.within": "The same push for someone with no time zone saved, so the deadline is given as minutes from now instead of a clock time.",
+  "notifications.push.moderation.announcementRemoved": "Notification to the person who sent an event announcement, when a site moderator removed it for breaking the Terms. {title} is the announcement's title, {event} the event's name.",
+  "notifications.push.moderation.reason": "The second line of a moderation notice. {reason} is the moderator's own words, in whatever language they wrote them. {email} is the address to appeal to.",
   "notifications.push.premium.ended": "Notification when the Premium time the reader bought has run out. Nothing is taken away: the handle stays, the animated avatar is hidden until they buy more.",
   "notifications.push.premium.ending": "Notification a week before the Premium time the reader bought runs out. {days} is the whole days left.",
   "notifications.push.role.event": "The recipient was given a role at an event. host, to, captain and streamer are the four roles; TO means tournament organiser. {event} is the event's name.",

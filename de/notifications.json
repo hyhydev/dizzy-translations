@@ -42,6 +42,8 @@
   "notifications.push.gameRequest.filed": "",
   "notifications.push.matchFound.by": "",
   "notifications.push.matchFound.within": "",
+  "notifications.push.moderation.announcementRemoved": "",
+  "notifications.push.moderation.reason": "",
   "notifications.push.premium.ended": "",
   "notifications.push.premium.ending": "",
   "notifications.push.role.event": "",

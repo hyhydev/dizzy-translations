@@ -197,12 +197,6 @@
         "element": ""
       },
       {
-        "file": "apps/web/app/[lang]/dashboard/site/users/account-moderation-dialog.tsx",
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      },
-      {
         "file": "apps/web/app/[lang]/events/[slug]/add-tournament-dialog.tsx",
         "grain": "str",
         "attr": "",
@@ -240,6 +234,12 @@
       },
       {
         "file": "apps/web/components/admin/delete-dialog.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
+        "file": "apps/web/components/admin/moderation-dialog.tsx",
         "grain": "str",
         "attr": "",
         "element": ""
@@ -2728,13 +2728,13 @@
     "accessibleName": false,
     "sites": [
       {
-        "file": "apps/web/app/[lang]/dashboard/site/users/account-moderation-dialog.tsx",
+        "file": "apps/web/components/admin/delete-dialog.tsx",
         "grain": "str",
         "attr": "",
         "element": ""
       },
       {
-        "file": "apps/web/components/admin/delete-dialog.tsx",
+        "file": "apps/web/components/admin/moderation-dialog.tsx",
         "grain": "str",
         "attr": "",
         "element": ""
@@ -5102,6 +5102,17 @@
       },
       {
         "file": "apps/web/app/[lang]/profile/integrations-section.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "common.moderation.reason": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/admin/moderation-dialog.tsx",
         "grain": "str",
         "attr": "",
         "element": ""
@@ -17024,6 +17035,45 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/events/[slug]/announcement-composer.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "event.announcement.remove": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/events/[slug]/announcement-remove.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
+        "file": "apps/web/app/[lang]/events/[slug]/announcement-remove.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "event.announcement.remove.description": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/events/[slug]/announcement-remove.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "event.announcement.remove.title": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/events/[slug]/announcement-remove.tsx",
         "grain": "str",
         "attr": "",
         "element": ""
@@ -30905,6 +30955,28 @@
     "sites": [
       {
         "file": "packages/api/src/notifications/triggers.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "notifications.push.moderation.announcementRemoved": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "packages/api/src/notifications/announcements.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "notifications.push.moderation.reason": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "packages/api/src/notifications/announcements.ts",
         "grain": "str",
         "attr": "",
         "element": ""

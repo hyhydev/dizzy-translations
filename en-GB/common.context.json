@@ -299,6 +299,7 @@
   "common.modLink.linked.title": "Heading over the list of game installations a person has linked to their account.",
   "common.modLink.title": "Title of the page a person lands on from the Lethal League Blaze broadcasting plugin, where they connect the plugin to their account.",
   "common.modLink.unlink": "Button on one linked game: stops that game acting for the account.",
+  "common.moderation.reason": "Label of the box where a moderator writes why they are acting (suspending an account, removing a post). The reason is kept in the moderation log and may be shown to the person.",
   "common.nav.createEvent": "Item in the account menu: opens the event wizard.",
   "common.nav.dashboard": "Menu item and label for the staff dashboard.",
   "common.nav.feedback": "Button opening the feedback form.",
