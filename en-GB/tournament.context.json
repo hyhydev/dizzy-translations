@@ -755,6 +755,7 @@
   "tournament.set.dqTimer.startFor": "Accessible name of the button starting a no-show countdown for {name}.",
   "tournament.set.dqTimer.startNamed": "Button starting a no-show countdown for {name}; short, it sits in a row of sets.",
   "tournament.set.dqTimer.startShort": "Button starting a no-show countdown for {name}; short, it sits in a narrow column.",
+  "tournament.set.flip": "A line in a set's details, under the score: which side won the coin flip for who hosts the set (or who is player one), flipped from Discord. {name} is a player's or team's name.",
   "tournament.set.forfeit.played": "Organiser's button on a finished set recorded as a disqualification: records that the set was played after all. The winner does not change.",
   "tournament.set.forfeit.rule": "Organiser's button on a finished set of an imported tournament: records that the loser forfeited (did not play). DQ is the short form of disqualified used across the app.",
   "tournament.set.games.forfeit": "Where a set's game log would be, when the set was decided by forfeit.",

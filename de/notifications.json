@@ -27,6 +27,7 @@
   "notifications.category.setReady.description": "",
   "notifications.category.tournamentStarted": "",
   "notifications.category.tournamentStarted.description": "",
+  "notifications.discord.flip": "",
   "notifications.discord.ladder.expired.notReady": "",
   "notifications.discord.ladder.expired.ready": "",
   "notifications.discord.ladder.offered": "",

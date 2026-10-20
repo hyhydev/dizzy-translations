@@ -27,6 +27,7 @@
   "notifications.category.setReady.description": "Your next set has both players.",
   "notifications.category.tournamentStarted": "Tournament started",
   "notifications.category.tournamentStarted.description": "A tournament you entered starts a stage.",
+  "notifications.discord.flip": "Coin flip",
   "notifications.discord.ladder.expired.notReady": "{player} didn't Ready in time and is out of the queue",
   "notifications.discord.ladder.expired.ready": "{player}: your opponent didn't Ready in time. You're back at the front of the queue",
   "notifications.discord.ladder.offered": "{player}: match found at {tournament}. Ready {deadline}",

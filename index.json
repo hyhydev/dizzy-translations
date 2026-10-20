@@ -30819,6 +30819,10 @@
       }
     ]
   },
+  "notifications.discord.flip": {
+    "accessibleName": false,
+    "sites": []
+  },
   "notifications.discord.ladder.expired.notReady": {
     "accessibleName": false,
     "sites": [
@@ -47397,6 +47401,17 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/set-dialog-rail.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.set.flip": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/set-detail-dialog.tsx",
         "grain": "str",
         "attr": "",
         "element": ""

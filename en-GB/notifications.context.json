@@ -27,6 +27,7 @@
   "notifications.category.setReady.description": "Under the Set ready setting.",
   "notifications.category.tournamentStarted": "Push notification setting.",
   "notifications.category.tournamentStarted.description": "Under the Tournament started setting.",
+  "notifications.discord.flip": "The label of a button under a set's call in a community's Discord channel. Pressing it flips a coin for who hosts the set, or who is player one, and posts who won the flip.",
   "notifications.push.claim.approved": "A player profile the recipient said was theirs has been confirmed as theirs, so its past results now count as the recipient's.",
   "notifications.push.doubles.dropped": "Doubles: a tournament organiser removed the recipient from the bracket because they had no partner when it was set up.",
   "notifications.push.doubles.invited": "Doubles: another player ({player}) asked the recipient to be their partner in a two-player team.",
