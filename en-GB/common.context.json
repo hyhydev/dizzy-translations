@@ -329,6 +329,7 @@
   "common.og.h2h.score": "Link-preview description of a head-to-head record: {a} and {b} are player names, {aWins} and {bWins} their set wins against each other, {game} the game title.",
   "common.og.h2h.title": "Link-preview title of the head-to-head page before two players are chosen. {game} is a game title.",
   "common.og.h2h.versus": "Link-preview title of a head-to-head between two players, {a} and {b}, in {game}.",
+  "common.og.player.licenceAlt": "Alt text of the image a player's shared profile link shows: a picture of their player licence card. {name} is the player's name, {game} the game the card is for.",
   "common.og.player.main": "In a player's link-preview summary: the character they mostly play. {character} is the character's name.",
   "common.og.player.ranked": "In a player's link-preview summary: their place on a board. {rank} is the place.",
   "common.og.player.rankedIn": "In a player's link-preview summary: their place on a community's board. {rank} is the place, {community} the community's name.",

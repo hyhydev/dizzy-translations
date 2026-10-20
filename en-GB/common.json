@@ -372,6 +372,7 @@
   "common.og.h2h.score": "{a} {aWins}–{bWins} {b} · {game}",
   "common.og.h2h.title": "Head-to-Head · {game}",
   "common.og.h2h.versus": "{a} vs {b} · {game}",
+  "common.og.player.licenceAlt": "{name}'s player licence for {game}: rating, rank and record",
   "common.og.player.main": "{character} main",
   "common.og.player.ranked": "Ranked #{rank}",
   "common.og.player.rankedIn": "Ranked #{rank} in {community}",

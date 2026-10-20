@@ -5546,6 +5546,17 @@
       }
     ]
   },
+  "common.og.player.licenceAlt": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/players/[id]/page.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
   "common.og.player.main": {
     "accessibleName": false,
     "sites": [
