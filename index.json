@@ -77,6 +77,12 @@
         "element": ""
       },
       {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/entrants-roster.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/host-pairing-band.tsx",
         "grain": "str",
         "attr": "",
@@ -801,6 +807,12 @@
       },
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/entrant-dialog.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/entrants-roster.tsx",
         "grain": "str",
         "attr": "",
         "element": ""
@@ -30643,6 +30655,28 @@
       }
     ]
   },
+  "notifications.category.checkInOpen": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "packages/domain/src/notifications.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "notifications.category.checkInOpen.description": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "packages/domain/src/notifications.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
   "notifications.category.claimResolved": {
     "accessibleName": false,
     "sites": [
@@ -30819,6 +30853,21 @@
       }
     ]
   },
+  "notifications.discord.checkInOpen": {
+    "accessibleName": false,
+    "sites": []
+  },
+  "notifications.discord.checkInOpen.waiting": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "packages/api/src/notifications/discord-call.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
   "notifications.discord.flip": {
     "accessibleName": false,
     "sites": []
@@ -30961,6 +31010,17 @@
     "sites": [
       {
         "file": "packages/api/src/notifications/ladder-call.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "notifications.push.checkInOpen": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "packages/api/src/notifications/triggers.ts",
         "grain": "str",
         "attr": "",
         "element": ""
@@ -38900,6 +38960,72 @@
     ]
   },
   "tournament.checkIn.needsStart": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/entrants-roster.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.checkIn.noShows.action": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/entrants-roster.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.checkIn.noShows.ask": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/entrants-roster.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.checkIn.noShows.done": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/entrants-roster.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.checkIn.noShows.list": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/entrants-roster.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.checkIn.noShows.note": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/entrants-roster.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.checkIn.noShows.walkUps": {
     "accessibleName": false,
     "sites": [
       {
