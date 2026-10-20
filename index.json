@@ -369,12 +369,6 @@
         "element": ""
       },
       {
-        "file": "apps/web/app/[lang]/[game]/t/[slug]/stage-dialog.tsx",
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      },
-      {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/tournament-settings-sections.tsx",
         "grain": "str",
         "attr": "",
@@ -5401,6 +5395,12 @@
       },
       {
         "file": "apps/mobile/app/premium.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/stage-dialog.tsx",
         "grain": "str",
         "attr": "",
         "element": ""
@@ -15552,6 +15552,12 @@
   "dashboard.community.series.owner.new": {
     "accessibleName": false,
     "sites": [
+      {
+        "file": "apps/web/app/[lang]/dashboard/scene/series/series-dialog.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
       {
         "file": "apps/web/app/[lang]/dashboard/scene/series/series-dialog.tsx",
         "grain": "str",
@@ -36812,6 +36818,17 @@
       },
       {
         "file": "apps/web/app/[lang]/profile/page.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "profile.under18.answer.placeholder": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/under-18-question.tsx",
         "grain": "str",
         "attr": "",
         "element": ""

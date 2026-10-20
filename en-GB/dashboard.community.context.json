@@ -152,7 +152,7 @@
   "dashboard.community.inclusions.add.event.lead": "Explanation in the add-to-board dialog when adding a single event.",
   "dashboard.community.inclusions.add.event.placeholder": "Placeholder of the event search in the add-to-board dialog.",
   "dashboard.community.inclusions.add.event.submit": "Button: add the chosen event to this community's board.",
-  "dashboard.community.inclusions.add.kind": "Accessible name of the choice between adding a community or one event.",
+  "dashboard.community.inclusions.add.kind": "Label of the dropdown choosing between adding a community or one event.",
   "dashboard.community.inclusions.add.kind.community": "Choice: add a whole community's tournaments.",
   "dashboard.community.inclusions.add.kind.event": "Choice: add a single event.",
   "dashboard.community.inclusions.add.open": "Button that opens the add-to-board dialog. The + is part of the label.",

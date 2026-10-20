@@ -167,6 +167,7 @@
   "profile.section.premium": "Rail entry and section heading: the paid upgrade, bought as a block of time. Premium is the product's name.",
   "profile.section.profile": "Rail entry and section heading: the settings everyone else sees (handle, prefix, pronouns, country, flag, avatar).",
   "profile.title": "The account settings page's title: the browser tab, the rail's heading and the masthead's eyebrow when no player is claimed.",
+  "profile.under18.answer.placeholder": "Grey text in the dropdown that answers 'Are you under 18?', before anything is picked.",
   "profile.under18.born": "Asked after someone answers Yes to 'Are you under 18?'. Two fields follow: a month and a year. Only the month and year are asked for, never the day.",
   "profile.under18.bornChange": "Shown in place of the birth-month question when an answer is already saved and the person has pressed Yes again. Two fields follow: a month and a year.",
   "profile.under18.month": "Label of the field for the month someone was born in.",

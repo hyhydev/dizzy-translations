@@ -170,7 +170,7 @@
   "common.feedback.title": "Title of the feedback form, and its submit button.",
   "common.feedback.titleLabel": "Field label in the feedback form.",
   "common.feedback.titlePlaceholder": "Placeholder in the feedback title field.",
-  "common.feedback.type": "Screen-reader name of the bug-or-feature choice.",
+  "common.feedback.type": "Label of the dropdown that picks whether the feedback is a bug report or a feature idea.",
   "common.follow.failed": "Error under the Follow button when following or unfollowing fails without a reason.",
   "common.follow.follow": "Button to follow a community or game.",
   "common.follow.followNamed": "Accessible name of the Follow button; {label} names what is followed, a community or a game.",

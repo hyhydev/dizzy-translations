@@ -177,7 +177,7 @@
   "tournament.cut.stopsEarly": "Ending option: the bracket stops at a depth.",
   "tournament.cut.stopsEarly.note": "Explainer under the stops-early option; {de} is yes for a double-elimination bracket.",
   "tournament.cut.survivors": "Label of the surviving side of a single-elimination cut.",
-  "tournament.cut.title": "Heading of the ending switch on a bracket: plays out, or stops early.",
+  "tournament.cut.title": "Accessible name of the dropdown picking how a bracket ends: plays out, or stops early.",
   "tournament.cut.winnersSurvivors": "Label of the winners side's survivors in the cut editor.",
   "tournament.delete.action": "The confirm button of the delete-tournament dialog, and the title of the delete row in the Advanced node.",
   "tournament.delete.description": "Body of the delete-tournament dialog, above a box where the person types a word to confirm.",
