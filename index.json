@@ -13570,6 +13570,116 @@
       }
     ]
   },
+  "dashboard.community.players.aliases.add": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/dashboard/scene/players/player-aliases-dialog.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "dashboard.community.players.aliases.addName": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/dashboard/scene/players/player-aliases-dialog.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "dashboard.community.players.aliases.description": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/dashboard/scene/players/player-aliases-dialog.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "dashboard.community.players.aliases.empty": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/dashboard/scene/players/player-aliases-dialog.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "dashboard.community.players.aliases.enteredHeading": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/dashboard/scene/players/player-aliases-dialog.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "dashboard.community.players.aliases.label": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/dashboard/scene/players/player-aliases-dialog.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "dashboard.community.players.aliases.placeholder": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/dashboard/scene/players/player-aliases-dialog.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "dashboard.community.players.aliases.remove": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/dashboard/scene/players/player-aliases-dialog.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "dashboard.community.players.aliases.title": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/dashboard/scene/players/player-aliases-dialog.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "dashboard.community.players.aliases.trigger": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/dashboard/scene/players/player-aliases-dialog.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
   "dashboard.community.players.claimed": {
     "accessibleName": false,
     "sites": [
@@ -13621,6 +13731,17 @@
     ]
   },
   "dashboard.community.players.enteredAs": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/dashboard/scene/players/community-players-table.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "dashboard.community.players.knownAs": {
     "accessibleName": false,
     "sites": [
       {
@@ -26669,6 +26790,17 @@
     ]
   },
   "import.nameMatch.headingPeople": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/import/name-match-fields.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "import.nameMatch.knownAs": {
     "accessibleName": false,
     "sites": [
       {

@@ -145,6 +145,7 @@
   "import.nameMatch.explainer": "These entrants match an existing player by name alone, with no shared platform account. Confirm each row that really is the same player. Unconfirmed entrants are created as new players, so a list too long to work through can be left alone.",
   "import.nameMatch.heading": "{n, plural, one {# entrant matched by name only.} other {# entrants matched by name only.}}",
   "import.nameMatch.headingPeople": "{n, plural, one {# entrant matched by name only.} other {# people matched by name only.}}",
+  "import.nameMatch.knownAs": "known here by this name",
   "import.nameMatch.matchFor": "Match for {name}",
   "import.nameMatch.newPlayer": "New player",
   "import.nameMatch.sameAs": "Same as {name}",

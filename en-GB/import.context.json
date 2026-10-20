@@ -51,6 +51,7 @@
   "import.modes.results": "Switch option: import an Event typed up as a Dizzy results document (JSON).",
   "import.nameMatch.appearsIn": "After a player's name in a bulk import: how many of the batch's events they entered. Starts with a · separator.",
   "import.nameMatch.headingPeople": "Heading over the name-match list of a bulk import, where each row is a person across several events.",
+  "import.nameMatch.knownAs": "Appended after a · to a name-match option: the importing community has recorded this entrant's name as one this player enters under (an alias).",
   "import.nameMatch.newPlayer": "Option for an imported entrant: create a new player rather than match an existing one.",
   "import.nameMatch.sameAs": "Option matching an imported entrant to the existing player {name}.",
   "import.nameMatch.sameAsSlug": "Option matching an imported entrant to the existing player {name}; {slug} is that player's address on the site.",
