@@ -5854,6 +5854,17 @@
       }
     ]
   },
+  "common.pagination.label": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/ui/pagination.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
   "common.pagination.lastLabel": {
     "accessibleName": false,
     "sites": [
@@ -33771,6 +33782,17 @@
       }
     ]
   },
+  "player.history.doublesPagination": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/players/[id]/player-history.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
   "player.history.enteredAs": {
     "accessibleName": false,
     "sites": [
@@ -33837,6 +33859,17 @@
       }
     ]
   },
+  "player.history.singlesPagination": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/players/[id]/player-history.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
   "player.history.team.row": {
     "accessibleName": false,
     "sites": [
@@ -33871,6 +33904,17 @@
     ]
   },
   "player.hosted.column.tournaments": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/players/[id]/player-history.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "player.hosted.pagination": {
     "accessibleName": false,
     "sites": [
       {
@@ -46935,6 +46979,17 @@
       }
     ]
   },
+  "tournament.roster.pagination": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/entrants-roster.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
   "tournament.roster.rank": {
     "accessibleName": false,
     "sites": [
@@ -48652,6 +48707,17 @@
     ]
   },
   "tournament.sets.noMatch": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/sets-table.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.sets.pagination": {
     "accessibleName": false,
     "sites": [
       {
@@ -51009,6 +51075,17 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/standings-lens.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "tournament.standings.pagination": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/tournament-standings.tsx",
         "grain": "str",
         "attr": "",
         "element": ""

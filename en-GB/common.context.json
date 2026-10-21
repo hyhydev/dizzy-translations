@@ -351,6 +351,7 @@
   "common.pagination.goTo": "Screen-reader name of a numbered page button. {page} is the page number.",
   "common.pagination.jump": "Screen-reader name of the current-page figure in a pager (\"3 / 12\"). Pressing it opens a box to type a page number into.",
   "common.pagination.jumpInput": "Screen-reader name of the box where a page number is typed, then Enter goes there. {pages} is the last page.",
+  "common.pagination.label": "Screen-reader name of a page control, used where it is the only one on the page.",
   "common.pagination.lastLabel": "Screen-reader name of the pager button that jumps straight to the final page. The button shows only an arrow.",
   "common.pagination.more": "Screen-reader text for the ellipsis between page numbers.",
   "common.pagination.next": "Pager button, visible beside an arrow on wider screens.",

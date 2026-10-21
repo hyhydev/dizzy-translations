@@ -394,6 +394,7 @@
   "common.pagination.goTo": "Go to page {page}",
   "common.pagination.jump": "Page {page, number} of {pages, number}, choose a page to go to",
   "common.pagination.jumpInput": "Page to go to, from 1 to {pages, number}",
+  "common.pagination.label": "Pages",
   "common.pagination.lastLabel": "Go to last page",
   "common.pagination.more": "More pages",
   "common.pagination.next": "Next",
