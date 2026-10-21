@@ -45515,6 +45515,23 @@
       }
     ]
   },
+  "tournament.replay.artLoading": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/replay/models/model-view.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
+        "file": "apps/web/components/replay/models/model-view.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
   "tournament.replay.axis.defence": {
     "accessibleName": false,
     "sites": [
