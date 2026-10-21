@@ -16324,12 +16324,6 @@
     "accessibleName": false,
     "sites": [
       {
-        "file": "apps/web/lib/community-dashboard.ts",
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      },
-      {
         "file": "apps/web/lib/dashboard.ts",
         "grain": "str",
         "attr": "",
@@ -16351,12 +16345,6 @@
   "dashboard.nav.community.import": {
     "accessibleName": false,
     "sites": [
-      {
-        "file": "apps/web/lib/community-dashboard.ts",
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      },
       {
         "file": "apps/web/lib/dashboard.ts",
         "grain": "str",
@@ -16380,12 +16368,6 @@
     "accessibleName": false,
     "sites": [
       {
-        "file": "apps/web/lib/community-dashboard.ts",
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      },
-      {
         "file": "apps/web/lib/dashboard.ts",
         "grain": "str",
         "attr": "",
@@ -16396,12 +16378,6 @@
   "dashboard.nav.community.overview": {
     "accessibleName": false,
     "sites": [
-      {
-        "file": "apps/web/lib/community-dashboard.ts",
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      },
       {
         "file": "apps/web/lib/dashboard.ts",
         "grain": "str",
@@ -16463,12 +16439,6 @@
   "dashboard.nav.community.series": {
     "accessibleName": false,
     "sites": [
-      {
-        "file": "apps/web/lib/community-dashboard.ts",
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      },
       {
         "file": "apps/web/lib/dashboard.ts",
         "grain": "str",
