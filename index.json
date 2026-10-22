@@ -6441,6 +6441,12 @@
         "grain": "str",
         "attr": "",
         "element": ""
+      },
+      {
+        "file": "apps/web/components/report/report-door.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
       }
     ]
   },
@@ -6489,6 +6495,83 @@
     ]
   },
   "common.report.howHandled": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/report/report-door.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "common.report.intimate.email": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/report/report-door.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "common.report.intimate.goodFaith": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/report/report-door.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "common.report.intimate.intro": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/report/report-door.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "common.report.intimate.isIntimate": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/report/report-door.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "common.report.intimate.who": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/report/report-door.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "common.report.intimate.who.onBehalf": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/report/report-door.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "common.report.intimate.who.subject": {
     "accessibleName": false,
     "sites": [
       {
