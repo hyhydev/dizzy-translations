@@ -240,7 +240,6 @@
   "tournament.format.roundRobin": "A stage format: a pool where everyone plays everyone.",
   "tournament.format.singleElimination": "A stage format: a bracket where a player is out after one loss.",
   "tournament.format.swiss": "A stage format: a pool paired round by round on records (the Swiss system).",
-  "tournament.game.capture.importedIntro": "Intro above the game log of an imported set, where games can be added by hand.",
   "tournament.game.character.none": "Empty result in the character picker's search.",
   "tournament.game.character.search": "Placeholder of the character picker's search.",
   "tournament.game.character.set": "Accessible name of the character picker button when no character is chosen yet.",

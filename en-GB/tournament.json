@@ -277,7 +277,6 @@
   "tournament.format.roundRobin": "Round robin",
   "tournament.format.singleElimination": "Single elimination",
   "tournament.format.swiss": "Swiss",
-  "tournament.game.capture.importedIntro": "Record what happened game by game. The score and winner stay as the source reported them. Re-importing this tournament discards these games, so it asks first.",
   "tournament.game.character.none": "No character found.",
   "tournament.game.character.search": "Search characters…",
   "tournament.game.character.set": "Set character",

@@ -40853,17 +40853,6 @@
       }
     ]
   },
-  "tournament.game.capture.importedIntro": {
-    "accessibleName": false,
-    "sites": [
-      {
-        "file": "apps/web/app/[lang]/[game]/t/[slug]/bracket-game-capture.tsx",
-        "grain": "str",
-        "attr": "",
-        "element": ""
-      }
-    ]
-  },
   "tournament.game.character.none": {
     "accessibleName": false,
     "sites": [
@@ -40968,6 +40957,12 @@
     "sites": [
       {
         "file": "apps/web/app/[lang]/[game]/t/[slug]/game-capture-panel.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
+        "file": "apps/web/app/[lang]/[game]/t/[slug]/replay-batch.tsx",
         "grain": "str",
         "attr": "",
         "element": ""
