@@ -47,6 +47,7 @@
   "dashboard.nav.site.privacy": "Site dashboard sidebar: the queue of requests from people asking for their name to be removed from results, or for a copy of their data.",
   "dashboard.nav.site.provisional": "Site dashboard panel: walk-up players not yet matched to a profile.",
   "dashboard.nav.site.ratings": "Site dashboard panel: the rating engine.",
+  "dashboard.nav.site.reports": "Site dashboard sidebar: the queue of reports people sent about content on Dizzy, for a moderator to decide.",
   "dashboard.nav.site.retention": "Site dashboard panel: what the site deletes once it is past its retention period, and when each rule last ran.",
   "dashboard.nav.site.series": "Site dashboard panel: recurring event series.",
   "dashboard.nav.site.takedown": "Site dashboard sidebar: where a moderator takes down an uploaded image (a picture, logo or banner) everywhere on the site by pasting its address.",

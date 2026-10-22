@@ -305,6 +305,12 @@
         "element": ""
       },
       {
+        "file": "apps/web/components/report/report-door.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
         "file": "apps/web/components/search-picker.tsx",
         "grain": "str",
         "attr": "",
@@ -6415,6 +6421,364 @@
     "sites": [
       {
         "file": "apps/web/lib/realtime/connection-status.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "common.report.choose": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/report/report-door.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      },
+      {
+        "file": "apps/web/components/report/report-door.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "common.report.detail": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/report/report-door.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "common.report.done": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/report/report-door.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "common.report.email": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/report/report-door.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "common.report.failed": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/report/report-door.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "common.report.howHandled": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/report/report-door.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "common.report.intro": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/report/report-door.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "common.report.open": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/report/report-door.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "common.report.part": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/report/report-door.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "common.report.part.announcement": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/report/report-door.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "common.report.part.banner": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/report/report-door.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "common.report.part.description": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/report/report-door.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "common.report.part.icon": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/report/report-door.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "common.report.part.link": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/report/report-door.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "common.report.part.logo": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/report/report-door.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "common.report.part.name": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/report/report-door.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "common.report.part.other": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/report/report-door.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "common.report.part.picture": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/report/report-door.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "common.report.part.replay": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/report/report-door.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "common.report.part.writeUp": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/report/report-door.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "common.report.reason": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/report/report-door.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "common.report.reason.breaksTerms": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/report/report-door.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "common.report.reason.copyright": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/report/report-door.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "common.report.reason.harmfulToChildren": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/report/report-door.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "common.report.reason.illegal": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/report/report-door.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "common.report.reason.intimateImage": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/report/report-door.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "common.report.reason.other": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/report/report-door.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "common.report.sent.body": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/report/report-door.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "common.report.sent.reference": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/report/report-door.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "common.report.sent.title": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/report/report-door.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "common.report.submit": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/report/report-door.tsx",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "common.report.title": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/components/report/report-door.tsx",
         "grain": "str",
         "attr": "",
         "element": ""
@@ -16707,6 +17071,17 @@
     ]
   },
   "dashboard.nav.site.ratings": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "apps/web/lib/dashboard.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "dashboard.nav.site.reports": {
     "accessibleName": false,
     "sites": [
       {
@@ -31436,6 +31811,39 @@
     "sites": [
       {
         "file": "packages/api/src/premium.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "notifications.push.report.actioned": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "packages/api/src/content-reports.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "notifications.push.report.dismissed": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "packages/api/src/content-reports.ts",
+        "grain": "str",
+        "attr": "",
+        "element": ""
+      }
+    ]
+  },
+  "notifications.push.report.note": {
+    "accessibleName": false,
+    "sites": [
+      {
+        "file": "packages/api/src/content-reports.ts",
         "grain": "str",
         "attr": "",
         "element": ""
