@@ -34,7 +34,7 @@
     "note": "One contest between two sides, played as a number of games, like best of three. Some people call it a match."
   },
   "seed": {
-    "use": "Position",
+    "use": "Startposition",
     "note": "A player's starting position in a tournament or stage, with 1 as the strongest. It decides who plays whom first."
   },
   "bracket": {
