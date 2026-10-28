@@ -1,4 +1,5 @@
 {
+  "dashboard.community.board.minimum.savingRelists": "Saving updates the board right away.",
   "dashboard.community.parrygg.step.get.body": "It's in your <link>Parry.gg API keys</link>, under Developer settings on your profile. Parry.gg shows the key once, so copy it right away.",
   "dashboard.community.powerRanking.mentions": "Honorable mentions",
   "dashboard.community.powerRanking.mentions.add": "Add an honorable mention",
